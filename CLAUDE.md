@@ -1,8 +1,8 @@
 # Bull — 24/7 AI Trading Agent
 
 **Owner:** Zack Ray (Parallel Marketing Inc.)
-**Platform:** Alpaca API (paper → live)
-**Goal:** Beat the S&P 500. Long-term, fundamentals-driven. No day trading.
+**Platforms:** Alpaca (stocks + crypto) | Interactive Brokers IBKR (Forex + Futures)
+**Goal:** Beat the S&P 500 across all asset classes. Swing + position trading. No pure day trading.
 
 ---
 
@@ -18,6 +18,7 @@
 
 **API keys come from environment variables — never .env files.**
 Required vars: `ALPACA_KEY`, `ALPACA_SECRET`, `ALPACA_ENDPOINT`
+Optional (when IBKR is connected): `IBKR_ACCOUNT`, `IBKR_PORT`
 
 ---
 
@@ -30,51 +31,88 @@ MODE: PRACTICE
 - `PRACTICE` — paper account, full strategy execution, log everything, send Telegram reports
 - `LIVE` — real money. **NEVER switch without explicit approval from Zack.**
 
-Live account keys will replace paper keys in the environment once Alpaca approves the application.
+Live Alpaca keys replace paper keys in the environment once provided.
 
 ---
 
-## Strategy
+## Asset Classes
 
-Beat the S&P. Not day trading. Fundamentals-driven, swing/long-term positions.
-
+### Stocks (Alpaca)
+Beat the S&P. Fundamentals-driven, swing/long-term positions.
 - Max 5% of portfolio per position
 - Max 3 new positions per week
 - No options (until explicitly enabled)
-- Cut losers at -7%
-- Tighten stops on winners (10% trailing stop)
-- Daily loss cap: if down >3% in a day, stop trading, report to Zack
+- Cut losers at -7% | 10% trailing stop on winners
+- Daily loss cap: down >3% → stop trading, report to Zack
+See `memory/strategy.md` — Stocks section.
 
-See `memory/strategy.md` for full rules (updated from backtesting and live results).
+### Crypto (Alpaca)
+Same Alpaca account. Crypto endpoint: `https://paper-api.alpaca.markets/v2` (same key).
+Supported pairs: BTC/USD, ETH/USD, SOL/USD, DOGE/USD, AVAX/USD, LTC/USD, LINK/USD.
+- Max 10% total crypto allocation (higher volatility = smaller size)
+- Max 3% per crypto position
+- Treat BTC/ETH as macro risk-asset proxies — correlate with SPY/QQQ
+- Key signals: BTC dominance shifts, ETH gas demand, on-chain flow data, crypto fear/greed index
+- Cut losers at -12% (wider stop — crypto is volatile) | 15% trailing stop on winners
+- Never buy crypto during broad market selloff unless strong on-chain catalyst
+See `memory/strategy.md` — Crypto section.
+
+### Forex (IBKR — pending connection)
+Major pairs only: EUR/USD, GBP/USD, USD/JPY, USD/CAD, AUD/USD.
+- Max 2% per FX position
+- Central bank meeting days: no new FX positions 24h before FOMC, ECB, BOJ decisions
+- Key signals: interest rate differential, DXY trend, economic surprise index, COT report (institutional positioning)
+- Position sizing: pip value × stop distance × risk % of account
+- Cut losers at 50 pips on majors | Trail winners at 2:1 R:R minimum
+See `memory/strategy.md` — Forex section.
+
+### Futures (IBKR — pending connection)
+Index futures: ES (S&P 500), NQ (Nasdaq 100)
+Commodity futures: CL (crude oil), GC (gold), NG (natural gas)
+- Max 1 contract per position (small account — manage notional exposure)
+- Futures trade nearly 24h — align entries with US session for liquidity
+- ES/NQ: macro-driven, follow stock strategy signals on sector rotation + VIX
+- CL: supply/demand (EIA inventory report Wednesdays), geopolitical risk premium
+- GC: inverse DXY, real rates (TIPS yield), safe-haven demand during risk-off
+- Hard stop: 2x daily ATR from entry — never hold through limit-down
+See `memory/strategy.md` — Futures section.
 
 ---
 
 ## Intelligence Check (MANDATORY before any trade)
 
-| Signal | Source | Check |
-|--------|--------|-------|
-| Earnings calendar | Web search | Any open position entering earnings window? Exit or hedge first. |
-| Economic calendar | Web search | Fed, CPI, jobs report, FOMC this week? |
-| Pre-market news | Web search | Any overnight news on open positions? |
-| Company news | Web search | Lawsuits, exec changes, product launches, recalls? |
-| Market sentiment | Web search | VIX extreme? Fear/greed index? |
-| Sector events | Web search | Anything sweeping the sector? |
+| Signal | Asset | Check |
+|--------|-------|-------|
+| Earnings calendar | Stocks | Any open position entering earnings window? Exit or hedge first. |
+| Economic calendar | All | Fed, CPI, jobs, FOMC, EIA this week? |
+| Pre-market news | Stocks/Crypto | Overnight news on open positions? |
+| DXY trend | Forex/Futures | Dollar strength/weakness direction? |
+| VIX level | All | Below 15 = offense. 20-30 = caution. Above 30 = defense/cash. |
+| Crypto fear/greed | Crypto | Extreme fear (<20) = watch for reversal. Greed (>80) = reduce size. |
+| EIA inventory | CL futures | Wednesday 10:30am — crude supply data moves CL significantly. |
+| COT report | Forex/Futures | Friday release — institutional positioning shifts. |
 
-**Earnings surprises and macro events override all technical signals. If unsure — hold, don't trade.**
+**Macro events override all technical signals. If unsure — hold, don't trade.**
 
 ---
 
-## Alpaca Endpoints
+## Alpaca API
 
 - Paper: `https://paper-api.alpaca.markets/v2`
-- Live: `https://api.alpaca.markets/v2` (when approved)
+- Live: `https://api.alpaca.markets/v2`
+- Crypto: same endpoints — use `/v2/orders` with symbol like `BTC/USD`
 
-Key actions via Alpaca REST API:
-- GET `/account` — check balance, buying power
+Key endpoints:
+- GET `/account` — balance, buying power
 - GET `/positions` — open positions
-- POST `/orders` — place trade
-- DELETE `/orders/{id}` — cancel order
-- GET `/orders` — order history
+- POST `/orders` — place trade (stocks + crypto)
+- GET `/assets?asset_class=crypto` — list tradeable crypto
+
+## IBKR (when connected)
+
+Use IBKR MCP tools for Forex and Futures order execution.
+Account credentials in environment: `IBKR_ACCOUNT`, `IBKR_PORT`
+PENDING: Zack to confirm IBKR account details.
 
 ---
 
@@ -83,16 +121,15 @@ Key actions via Alpaca REST API:
 ```
 CLAUDE.md          ← this file (read every session)
 memory/
-  strategy.md      ← trading rules from backtesting + live results
-  portfolio.md     ← current positions, entry prices, thesis
+  strategy.md      ← trading rules: stocks, crypto, forex, futures
+  portfolio.md     ← current positions, entry prices, thesis, P&L by asset class
   research-log.md  ← daily research notes
-  weekly-review.md ← Friday performance review
-routines/
-  pre-market.md    ← prompt for 6am routine
-  market-open.md   ← prompt for 8:30am routine
-  midday.md        ← prompt for noon routine
-  market-close.md  ← prompt for 3pm routine
-  weekly-review.md ← prompt for Friday 4pm routine
 logs/
   trade-log.md     ← every trade placed, outcome, P&L
+routines/
+  pre-market.md    ← 6am routine
+  market-open.md   ← 8:30am routine
+  midday.md        ← noon routine
+  market-close.md  ← 3pm routine
+  weekly-review.md ← Friday 4pm routine
 ```
