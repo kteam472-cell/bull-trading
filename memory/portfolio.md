@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-10 (going live)*
+*Last updated: 2026-06-10 08:30 ET — market-open routine, no trades. Holding cash.*
 
 ---
 
@@ -93,4 +93,4 @@
 
 | Date | Portfolio Value | SPY Price | Portfolio Return | SPY Return | Cumulative Alpha | Day Trades Used (week) |
 |------|----------------|-----------|-----------------|------------|-----------------|----------------------|
-| 2026-06-10 | $250.00 | ~$538 | 0.00% | 0.00% | 0.00% | 0 |
+| 2026-06-10 | $250.00 | ~$734 | 0.00% | ~-1.0% | +1.0% | 0 |

@@ -45,6 +45,106 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-10 — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+
+### Market Regime (Post-CPI)
+- **CPI (May 2026):** +4.2% YoY (in-line) / +0.6% MoM (HOTTER than 0.5% consensus). Core CPI +2.9% YoY / +0.2% MoM. Energy biggest driver (+23.5% YoY) — US-Iran geopolitical premium.
+- **VIX:** 20.45 → **CAUTION MODE** (rule: reduce new positions 50%, high-quality names only)
+- **SPY:** ~$734–737, -1.0% on day. Market risk-off on CPI + Iran.
+- **Regime call:** CPI MoM hot = not the "cool CPI" trigger needed for risk-on entries. Market broadly selling. Pre-market rule applied: "If CPI hot → hold cash."
+
+### Iran Ceasefire Update (MAJOR)
+- US-Iran tentative 60-day ceasefire extension announced today; Trump has not finalized.
+- Crude oil (WTI) fell sharply to ~$87–88/barrel (-3%+) on ceasefire signals vs. $91+ prior.
+- Strait of Hormuz still effectively disrupted. Situation remains fragile.
+- **Impact:** Energy geopolitical premium reversing — bearish for XLE short-term.
+
+### EIA Inventory Report (10:30 AM ET)
+- Crude draw: **~8.0 million barrels** (bullish fundamental for oil).
+- BUT overridden by Iran ceasefire price action. Net: XLE down -1.45%.
+
+---
+
+## NVDA — 2026-06-10 (MARKET-OPEN UPDATE) — PAPER
+**VIX at Research:** 20.45
+
+### Technical Update
+- Price: ~$208 (-0.22% on day)
+- 50-day MA: $203.22 — NVDA is **+2.5% above** 50-day MA (technically bullish)
+- RSI: 44 — neutral
+- News: Apple Private Cloud Compute using NVDA GPUs; SK Telecom/SK Hynix partnerships announced June 7.
+
+### Decision
+**WATCHLIST — Conditions not met today.**
+- CPI MoM was +0.6% (hot), market risk-off. Pre-market rule: "Cool CPI → evaluate entry; Hot CPI → hold cash."
+- ORCL earnings today (tech sector event risk — avoid new tech longs).
+- Re-evaluate tomorrow if market stabilizes and NVDA holds above 50-day MA.
+
+---
+
+## AVGO — 2026-06-10 (MARKET-OPEN UPDATE) — PAPER
+**VIX at Research:** 20.45
+
+### Technical Update
+- Price: ~$419 (-1.75% on day, recovering from June 4 -12.6% post-earnings crash)
+- 50-day MA: $397 — AVGO is **+5.5% above** 50-day MA (recovering strongly)
+- RSI: ~48 — neutral
+- Fundamentals confirmed: AI revenue $10.8B (+143% YoY Q2 FY2026); 48 analysts Strong Buy; consensus target $520 (+24% upside). Q3 AI chip guidance $16B (below $17.2B consensus = reason for selloff, not business deterioration).
+
+### Decision
+**WATCHLIST — Hold for tomorrow.**
+- ORCL earnings tonight create tech sector overhang. Do not add new tech exposure during tech earnings events.
+- CPI MoM hot = not clean catalyst.
+- If ORCL earnings are neutral-to-positive and market opens stable tomorrow, AVGO is the top-priority entry: post-earnings dip reversal, above 50-day MA, strong fundamentals, analyst consensus target +24% upside.
+- Size in CAUTION mode: $12.50 (half of $25 max). Entry range: $410–$420. Hard stop: -7% (~$381). Target: $520 analyst consensus.
+
+---
+
+## XLE — 2026-06-10 (MARKET-OPEN UPDATE) — PAPER
+**VIX at Research:** 20.45
+
+### Update
+- Price: ~$57.65, -1.45% today
+- 50-day MA: ~$57.20 — XLE barely above 50-day but falling
+- EIA draw: ~8.0M barrels (bullish fundamental)
+- Iran ceasefire signals overriding EIA data. WTI -3%+ to $87–88.
+- Pre-market condition: "XLE holds above 50-day MA with confirming volume" → NOT confirmed. Price falling, not bouncing.
+
+### Decision
+**PASS today.** Iran ceasefire = geopolitical premium reversal. Monitor: if ceasefire collapses and WTI reclaims $90+, re-evaluate XLE entry. Situation too volatile and binary for CAUTION mode positioning.
+
+---
+
+## CRYPTO — 2026-06-10 (MARKET-OPEN UPDATE) — PAPER
+- BTC: ~$61,593 (-2.3% today, -17% week)
+- ETH: ~$1,619-1,644 (-3.1% today, -13.7% week)
+- Fear & Greed: **8 (EXTREME FEAR)** — even lower than pre-market reading of 11
+- Broad risk-off market, no on-chain catalyst identified
+
+### Decision
+**PASS.** Extreme fear confirmed. No on-chain catalyst. Broad market selloff. Rule applied: "Never buy crypto during broad market selloff unless strong on-chain catalyst."
+
+---
+
+## TODAY'S SUMMARY — 2026-06-10
+**No trades placed.** All entry conditions failed:
+1. CPI MoM hot → "hold cash" rule triggered
+2. VIX 20.45 → CAUTION mode, requires exceptional thesis
+3. ORCL earnings today → avoid new tech longs
+4. XLE losing geopolitical premium on Iran ceasefire
+5. Crypto extreme fear, no catalyst
+
+**Watch for tomorrow (June 11):**
+- AVGO: Top candidate if ORCL earnings neutral/positive, market stabilizes. Entry $410–$420, stop -7% (~$381), target $520, size $12.50.
+- PPI report (June 11 8:30 AM) — if cool, confirms disinflationary trend → risk-on catalyst
+- ADBE earnings (June 11 after close) — avoid enterprise software names day-of
+- EIA refined products data to confirm energy fundamentals
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-10 — PAPER (Updated)
 
 **Session type:** Pre-market routine (6:00 AM ET) — updated with live data
