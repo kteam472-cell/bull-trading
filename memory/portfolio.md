@@ -87,8 +87,8 @@
 
 ## Benchmark Tracking
 
-*SPY price on system launch (2026-06-09): [update with actual SPY price on first session]*
+*SPY price on system launch (2026-06-09): ~$738 (S&P 500 index ~7,384, pulled back from ~7,620 high set early June 2026)*
 
 | Date | Portfolio Value | SPY Price | Portfolio Return | SPY Return | Cumulative Alpha |
 |------|----------------|-----------|-----------------|------------|-----------------|
-| 2026-06-09 | $100,000.00 | TBD | 0.00% | 0.00% | 0.00% |
+| 2026-06-09 | $100,000.00 | ~$738 | 0.00% | 0.00% | 0.00% |

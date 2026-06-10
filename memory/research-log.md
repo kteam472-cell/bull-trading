@@ -45,6 +45,124 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-10 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+
+### Market Regime
+- **VIX:** ~20.45 (closed June 9 at 20.45, +8% on the day) → **CAUTION MODE**
+  - Rule applied: Reduce new positions by 50%, high-quality names only
+- **SPY:** ~$738 (S&P ~7,384), pulled back ~2.6% from 7,620 high set in early June
+- **Trend:** Mixed/risk-off. Strong tech earnings backdrop but elevated geopolitical risk
+
+### Economic Calendar — CRITICAL EVENTS
+| Event | Date/Time | Notes |
+|-------|-----------|-------|
+| **CPI (May)** | TODAY 8:30 AM ET | URGENT — do NOT enter new positions before print |
+| PPI (May) | Thu Jun 11 8:30 AM | |
+| EIA Crude Inventory | TODAY 10:30 AM ET | Crude supply data — watch XLE |
+| **FOMC Meeting** | Jun 16–17 | No rate change expected; no new FX positions Jun 15+ |
+
+**⚠️ CRITICAL FLAG: CPI prints TODAY at 8:30 AM. Macro events override all technical signals. Hold cash until after the print.**
+
+### Geopolitical Risk
+- US launched strikes against Iran (Tuesday June 9) — elevated oil/energy risk premium
+- EIA inventory report today — if inventory draw confirmed, XLE could push further
+
+### Earnings Calendar This Week
+| Ticker | Date | Notes |
+|--------|------|-------|
+| ORCL | TODAY (Jun 10) | Do not enter correlated tech names before/during report |
+| ADBE | Thu Jun 11 | |
+| LEN | Thu Jun 11 | Homebuilder — separate watchlist |
+
+### Seasonal Context
+- **June is historically weak** (+0.0% average S&P monthly return)
+- "Sell in May" weak season extends through October
+- Rule applied: higher conviction threshold required for new entries
+
+### Sector Performance (YTD)
+- **XLK (Tech):** +32–33% — leading, but elevated; AI/semiconductor tailwind
+- **XLE (Energy):** +26–27% — geopolitical + supply premium
+- Others lagging; rotation toward energy/industrials underway
+
+### Crypto Conditions
+- **Bitcoin:** ~$65,853
+- **Fear/Greed Index:** 11 (EXTREME FEAR) — contrarian watch signal
+- Rule applied: "Never buy crypto during broad market selloff unless strong on-chain catalyst"
+- **Decision:** PASS — no on-chain catalyst identified; market risk-off. Monitor only.
+
+---
+
+## NVDA — 2026-06-10 (WATCHLIST UPDATE) — PAPER
+**Sector:** Technology
+**Cycle Phase:** Mid-Expansion (AI capex cycle)
+**VIX at Research:** 20.45
+
+### Thesis Update
+Original thesis from 2026-06-02 remains valid. NVDA has received multiple analyst upgrades in June on expanded Blackwell shipment guidance through H2 2026. Structural AI demand narrative intact. VIX in caution zone + CPI event today = hold off entry until macro clears.
+
+### Trigger Conditions for Entry
+- CPI prints below consensus (inflation cooling) → risk-on rotation → buy on any dip toward 50-day MA
+- Volume on entry day must exceed 20-day average
+- RSI must not be above 65 at time of entry
+- VIX must remain below 25
+
+### Decision
+**WATCHLIST — pending CPI (8:30 AM today).** If CPI cool: reassess entry. If CPI hot: hold cash.
+
+---
+
+## AVGO — 2026-06-10 (NEW WATCHLIST) — PAPER
+**Sector:** Technology (Semiconductors)
+**Cycle Phase:** Mid-Expansion (AI infrastructure)
+**VIX at Research:** 20.45
+
+### Thesis
+Broadcom receiving analyst upgrades on hyperscaler custom chip design wins expected to significantly impact 2026–2027 revenue. Strong position in AI networking (Ethernet switching for GPU clusters). Less volatile than NVDA. Mid-cycle tech play.
+
+### Fundamentals Check (preliminary — web research)
+- Revenue growth: Strong, AI networking and VMware integration driving growth
+- Earnings trend: Consistent beats in recent quarters
+- Analyst revisions: Upward (upgrades from multiple firms in June 2026)
+- Further fundamentals check required before entry
+
+### Decision
+**WATCHLIST.** Run full fundamentals checklist if CPI clears favorably. Check 50-day MA position and RSI before entry.
+
+---
+
+## XLE — 2026-06-10 (CONDITIONAL WATCHLIST) — PAPER
+**Sector:** Energy
+**Cycle Phase:** Late Cycle indicators (Iran tensions, supply risk)
+**VIX at Research:** 20.45
+
+### Thesis
+US-Iran strikes (June 9) boosting energy risk premium. EIA inventory report today at 10:30 AM — crude supply draw would add upside catalyst. XLE +26–27% YTD already extended. Strategy: late-cycle rotation into energy valid if oil fundamentals confirm.
+
+### Risk Factors
+- Geopolitical premium can reverse quickly on de-escalation news
+- CAUTION mode: size at 50% of normal max (≤2.5% of portfolio)
+- Do not chase the spike — wait for EIA confirmation and then a technical entry
+
+### Decision
+**CONDITIONAL WATCHLIST.** If EIA shows inventory draw AND XLE holds above its 50-day MA with confirming volume → consider entry at 2.5% position size. Do NOT enter pre-EIA.
+
+---
+
+## TODAY'S ACTION PLAN
+1. **8:30 AM ET:** Wait for CPI print
+   - Cool CPI (below 3.0% or below expectations) → risk-on → evaluate NVDA + AVGO
+   - Hot CPI (above expectations) → stay in cash, VIX likely spikes → defend
+2. **10:30 AM ET:** Check EIA crude inventory
+   - Inventory draw → evaluate XLE entry at 2.5% size
+3. **No positions before CPI print**
+4. **Max 2 new positions today** (CAUTION mode, 50% reduction from normal 3/week max)
+5. **FOMC on June 16–17** — tighten new position rules starting June 15
+
+---
+
 ## NVDA — 2026-06-02 — PAPER
 **Sector:** Technology
 **Cycle Phase:** Mid-Expansion (AI capex cycle driving sustained growth)
