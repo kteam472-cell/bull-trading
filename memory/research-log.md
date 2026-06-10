@@ -45,6 +45,70 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-10 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+
+### What Happened Today
+
+**Market Performance:**
+- S&P 500: ~-1.2% EOD (~$728 SPY vs $737.05 yesterday's close)
+- Nasdaq: ~-1.8% (tech-led selloff)
+- VIX close: 19.87 — borderline caution/offense (below 20 technically, but macro conditions warrant CAUTION)
+- WTI Crude: $89.71/barrel (+1.8%) — Iran escalation premium reasserting after morning ceasefire reversal
+- XLE: ~$57.65 (+modest, recovering from morning -1.45% dip on ceasefire news)
+
+**Geopolitical Developments (Major Driver):**
+- US-Iran: Active military conflict confirmed. Morning ceasefire signals reversed midday. Iran shot down US helicopter in Strait of Hormuz → US retaliated with new strikes → Iran hit US bases in Jordan, Bahrain, Kuwait.
+- Energy geopolitical premium reasserting (oil holding near $90). Risk-off persisting into close.
+
+**Economic Data:**
+- CPI May 2026: +4.2% YoY / +0.6% MoM (hot) — energy the biggest driver (+23.5% YoY)
+- FOMC June 16–17 (6 days out) — increasingly important given hot CPI; market pricing in hawkish hold
+
+**Earnings:**
+- ORCL Q4 FY2026: Reports after hours tonight. Expected EPS $1.96, revenue ~$19B (+20% YoY). Implied move ±10.63%. Watch overnight — will set tone for enterprise software sector tomorrow.
+
+### What Worked
+- **Cash preservation:** S&P down ~-1.2% today. By holding cash throughout the day, portfolio is flat at $250.00 while the benchmark fell. Cumulative alpha: +1.2% on the day.
+- **All decision rules functioned correctly:** Pre-market CPI rule ("hot CPI → hold cash") was the correct call. Midday geopolitical override ("macro events override technical signals") was the correct call. No position would have survived today positively.
+- **AVGO thesis discipline:** Did not chase the dip recovery attempt at midday ($403-405) — correct, as macro environment did not clear.
+
+### What Didn't Work / What to Watch
+- No opportunities materialized today that cleared all three filters. This is fine for a high-risk macro day.
+- XLE presented a interesting case: oil UP despite morning ceasefire (EIA draw + escalation reversal). But binary risk was real — XLE was volatile both ways intraday.
+
+### What to Watch Tomorrow (June 11)
+
+| Priority | Item | Trigger |
+|----------|------|---------|
+| HIGH | ORCL after-hours earnings | Beat + guidance → tech risk-on signal; miss → further tech selloff |
+| HIGH | PPI (May) — 8:30 AM ET | Cool PPI → disinflationary confirmation → risk-on catalyst for AVGO/NVDA entries |
+| HIGH | Iran/ceasefire overnight developments | Any de-escalation → XLE -3-5%; oil $85 → risk-on; escalation → defensive stay |
+| MEDIUM | AVGO ($403-405) | If ORCL neutral/positive + PPI cool + VIX < 18 → entry at $12.50 (CAUTION half-size) |
+| MEDIUM | NVDA (~$205) | Same conditions as AVGO; holding above 50-day MA ($203.22) — bullish structure intact |
+| MEDIUM | VIX level at open | Must close below 18 to re-enter full offense mode |
+| LOW | ADBE earnings tonight June 11 | Avoid enterprise software names during ADBE earnings window |
+
+### Entry Conditions Required for Tomorrow's First Trade (any)
+1. VIX < 20 at open (currently 19.87 — one bad print away from 20+)
+2. PPI cool or in-line (8:30 AM)
+3. ORCL earnings neutral-to-positive (no broad tech contagion)
+4. Iran: no further escalation
+5. S&P futures stable pre-market (not down >0.5%)
+→ **If ALL five conditions met: AVGO is top-priority entry at $12.50 (5% of portfolio), stop -7% (~$375-380), target $520**
+
+### Portfolio Status (End of Day)
+- **Total Value:** $250.00 (100% cash)
+- **Daily P&L:** $0.00
+- **vs SPY today:** +1.2% alpha (SPY ~-1.2%, portfolio 0.00%)
+- **Cumulative Alpha vs SPY (since 2026-06-10 start):** +1.2%
+- **Day Trades Used (rolling 5-day):** 0
+- **Open Positions:** None
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-10 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)
