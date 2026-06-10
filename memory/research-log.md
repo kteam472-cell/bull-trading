@@ -45,16 +45,16 @@
 
 ---
 
-## PRE-MARKET INTELLIGENCE — 2026-06-10 — PAPER
+## PRE-MARKET INTELLIGENCE — 2026-06-10 — PAPER (Updated)
 
-**Session type:** Pre-market routine (6:00 AM ET)
+**Session type:** Pre-market routine (6:00 AM ET) — updated with live data
 **Mode:** PRACTICE
 
 ### Market Regime
-- **VIX:** ~20.45 (closed June 9 at 20.45, +8% on the day) → **CAUTION MODE**
+- **VIX:** 20.18 (daily range 17.52–23.34, 52-week range 13.38–35.30) → **CAUTION MODE**
   - Rule applied: Reduce new positions by 50%, high-quality names only
-- **SPY:** ~$738 (S&P ~7,384), pulled back ~2.6% from 7,620 high set in early June
-- **Trend:** Mixed/risk-off. Strong tech earnings backdrop but elevated geopolitical risk
+- **SPY:** ~$734–735 (-0.99% on day); 52-week high $760.40
+- **Trend:** Risk-off ahead of CPI. Tech showing resilience (NVDA +0.7% on Apple AI news), energy leading YTD
 
 ### Economic Calendar — CRITICAL EVENTS
 | Event | Date/Time | Notes |
@@ -160,6 +160,56 @@ US-Iran strikes (June 9) boosting energy risk premium. EIA inventory report toda
 3. **No positions before CPI print**
 4. **Max 2 new positions today** (CAUTION mode, 50% reduction from normal 3/week max)
 5. **FOMC on June 16–17** — tighten new position rules starting June 15
+
+---
+
+---
+
+## AVGO — 2026-06-10 (POST-EARNINGS DIP REVERSAL) — PAPER
+**Sector:** Technology (Semiconductors / AI Infrastructure)
+**Cycle Phase:** Mid-Expansion (AI infrastructure buildout)
+**VIX at Research:** 20.18
+
+### Thesis
+Broadcom dropped -12.59% on June 4 post-earnings. Stock now at ~$387 and rebounding. ARK Investment is treating the dip as a buying opportunity. 48 analysts rate AVGO Strong Buy, consensus price target $520.40 (+35% upside). Company just announced $35B AI infrastructure financing platform with Apollo Global and Blackstone — signals massive forward-looking commitment to AI capex. This is a post-earnings dip reversal setup: strong business, temporary sentiment-driven selloff.
+
+### Fundamentals Check (web research)
+- Revenue growth: Strong — AI networking + VMware integration driving multi-quarter growth
+- Earnings trend: Miss on guidance that caused the selloff, but underlying business metrics solid
+- Analyst consensus: 48 analysts — Strong Buy; 26 Buy; 12-month target $520.40
+- Analyst revisions: Upward post-selloff as analysts maintain/upgrade targets
+- Insider activity: Check before entry
+
+### Technical Setup
+- Setup type: Post-earnings dip reversal (oversold bounce)
+- RSI: Likely oversold given -12.59% drop on June 4 — need to confirm RSI < 40 before entry
+- Price vs 50-day MA: Likely below (need to confirm)
+- Price vs 200-day MA: Likely above — long-term uptrend intact at $387
+- Volume signal: Need to check recovery volume vs 20-day avg
+
+### Trade Parameters (preliminary — verify before entry)
+- Entry range: $385–$392 (current market; wait for CPI)
+- Hard stop: -7% from entry (~$357–$365)
+- Profit target: +15% ($445–$450), secondary target $520 analyst consensus
+- Position size: $12.50–$25 (5–10% of $250 — CAUTION mode limits to half, so $12.50)
+
+### Decision
+**WATCHLIST — High conviction if CPI prints in-line or cool.** If CPI hot → hold cash. If CPI cool/in-line → confirm RSI oversold, check 50-day MA position, confirm volume on recovery. Post-earnings dip + AI structural demand + Strong Buy consensus = high-quality CAUTION-mode candidate.
+
+---
+
+## NVDA — 2026-06-10 (UPDATE) — PAPER
+**Update:** NVDA at ~$207–210, up 0.7% on news that Apple signed on as major AI client. 52-week high $235.47. Previous watchlist conditions remain in effect — wait for CPI before evaluating entry. RSI and 50-day MA position to be checked at market open.
+
+---
+
+## XLE — 2026-06-10 (UPDATE) — PAPER
+**Update:** XLE ~$58.50, oil near $150/barrel. Energy is the top-performing S&P sector in 2026 (+21.6% YTD). US-Iran tensions sustaining geopolitical premium. EIA inventory report today at 10:30 AM. If draw confirmed → valid entry at small size (CAUTION mode). Key risk: geopolitical premium reversal on any de-escalation news.
+
+---
+
+## ORCL — 2026-06-10 (EARNINGS ALERT) — PAPER
+**Status:** ORCL reports Q4 FY2026 after close TODAY. Stock down 9.6% pre-earnings. Expected EPS $1.96, revenue growth ~20% YoY. DO NOT trade ORCL or closely correlated enterprise software names before/during report. Implied move ±10.63%.
 
 ---
 
