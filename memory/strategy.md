@@ -24,8 +24,8 @@ The VIX is the first thing checked each session. It determines which mode Bull o
 |-----------|--------------|------|
 | Below 15 | Calm, low fear | OFFENSE — full position sizing, growth/momentum plays |
 | 15–20 | Normal | OFFENSE — standard playbook, slightly tighter stops |
-| 20–30 | Elevated uncertainty | CAUTION — reduce new positions by 50%, stick to high-quality names only |
-| 30–40 | High fear / correction | DEFENSE — no new longs unless thesis is exceptional; prefer cash and defensive sectors |
+| 20–30 | Elevated uncertainty | CAUTION — trade at half size (5% per position = $12.50), high-quality names only, no speculative plays |
+| 30–40 | High fear / correction | CAUTION — reduce new positions by 50%, stick to high-quality names only, no new longs on speculative names |
 | Above 40 | Crisis / extreme fear | DEFENSE — hold cash, only buy VIX-confirmed reversals at extreme oversold readings |
 
 **Historical context:** VIX averages around 19–20 long-term. Spikes above 30 have historically been buying opportunities in retrospect (2020 COVID spike to 82, 2018 VIXplosion to 37, 2008–2009 sustained above 40). The problem is timing the re-entry. Rule: wait for VIX to fall back below 30 before initiating new positions after a spike.
@@ -202,7 +202,7 @@ Run this before entering any individual stock position:
 ### Concentration Limits
 - Max 2 positions in the same sector simultaneously
 - Max $50 (20% of account) in any single sector
-- Cash is a position — if VIX is above 25, staying in cash is the right trade
+- Cash is a position — if VIX is above 30, staying in cash is the right trade; between 20–30, trade at half size
 
 ---
 
