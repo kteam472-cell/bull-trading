@@ -161,25 +161,48 @@ Run this before entering any individual stock position:
 
 ## SECTION 7 — RISK MANAGEMENT (NON-NEGOTIABLE)
 
-### Position Sizing
-- **Max position size: 5% of portfolio** (,000 on a ,000 paper account)
-- This limits any single stock's impact on the portfolio to a manageable level
-- For paper trading development: start with 2–3% positions until conviction in edge identification is established
+### Account Details
+- **Starting capital:** $250 live (Alpaca live account)
+- **Alpaca supports fractional shares** — no minimum share size. Buy $12.50 of NVDA if that's the right size.
+- **Benchmark:** Beat SPY. That is the only goal.
+
+### Position Sizing ($250 account)
+- **Max position size: 10% of portfolio = $25 per position**
+- Typical position: $15–$25 (use fractional shares, no minimum)
+- Max 5 open positions simultaneously ($125 deployed, $125 cash minimum)
+- Do NOT scale up position size to compensate for small account — the math must hold regardless of account size
+
+### Cash Reserve
+- **Minimum $50 in cash at all times** — never fully deployed
+- This buffer ensures you can respond to opportunities and absorb costs
+- If cash drops below $50, do not open new positions until a position closes
+
+### PDT Rule (Pattern Day Trader)
+- Accounts under $25,000 are limited to **3 day trades per rolling 5 business days**
+- A "day trade" = opening AND closing the same position within the same calendar day
+- Swing trading primary = this rarely triggers (you hold overnight)
+- **Bull must track day trades used this week.** If 2 day trades already used this week → flag in Telegram before any same-day close. Do NOT use the 3rd day trade without notifying Zack first.
+- Day trade count resets after 5 business days
 
 ### Hard Stop: -7%
 - Every position gets a hard stop at -7% from entry price
-- **Rationale:** A -7% stop means a 5% position costs a maximum 0.35% of portfolio. At 10 concurrent positions, a full sweep of stops costs 3.5% of portfolio — survivable. Wider stops cascade into unmanageable drawdowns.
+- **Rationale:** A -7% stop on a $25 position = -$1.75 max loss. Survivable.
 - Set the stop at entry. Do not move it down.
+- If a position hits -7%, exit immediately. No holding for a recovery.
+
+### Daily Loss Limit
+- **$12.50 per day (5% of account)**
+- If realized + unrealized losses reach -$12.50 in one trading session, close all positions and stop trading for that day
+- Log the day as "max loss day" in research-log.md
 
 ### Trailing Stop: 10%
 - Once a position is up 10%+, move the stop to breakeven
 - Once up 20%+, trail the stop at 10% below the high-water mark
-- **Example:** Bought at . Stock goes to . Trail stop sits at .50. Stock pulls back to  — stop triggers, you exit with a +13% gain.
 
-### Concentration limits
-- Max 3 positions in the same sector simultaneously
-- Max 30% of portfolio in any single sector
-- Cash is a position — holding 20–30% cash during elevated VIX (above 25) is a strategy, not laziness
+### Concentration Limits
+- Max 2 positions in the same sector simultaneously
+- Max $50 (20% of account) in any single sector
+- Cash is a position — if VIX is above 25, staying in cash is the right trade
 
 ---
 
