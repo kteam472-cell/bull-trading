@@ -45,6 +45,67 @@
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-10 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+
+### Market Regime Update
+- **VIX:** 19.87 (down from morning's 20.45 — technically re-enters "normal/offense" band, but macro conditions have worsened)
+- **S&P 500:** -1.06% (~78 pts); Dow -0.95% (-486 pts); Nasdaq -1.6% (-475 pts)
+- **SPY:** ~$726–729 (down ~$7–8 from morning open)
+- **Regime call:** VIX crossed below 20 but US-Iran active military conflict = macro override. CAUTION maintained. Rule: "Macro events override all technical signals."
+
+### Geopolitical Update — ESCALATION (MAJOR)
+- **Morning read:** US-Iran tentative ceasefire extension, oil falling
+- **Midday reality:** ESCALATION CONFIRMED. US launched new strikes after Iran shot down a US military helicopter in the Strait of Hormuz. Iran's Revolutionary Guard retaliated with strikes on US bases in Jordan, Bahrain, and Kuwait.
+- **Net impact:** Ceasefire from this morning REVERSED. Oil near $90/barrel. Energy premium reasserting.
+- **Risk profile change:** From "binary ceasefire/escalation risk" to "confirmed active military conflict" — significantly higher uncertainty. Do NOT trade XLE while active combat is unresolved.
+
+### Open Positions Check
+- **No open positions.** Portfolio 100% cash ($250). No stops to check, no trailing stops to verify.
+- **Daily P&L:** $0.00 — no realized or unrealized loss. Daily loss cap NOT triggered.
+
+### Watchlist Position Updates
+| Ticker | Morning Level | Midday Level | Change | Status |
+|--------|--------------|--------------|--------|--------|
+| AVGO | ~$419 | ~$403–405 | -3.9% | Watchlist — cheaper but macro worse |
+| NVDA | ~$208 | ~$205 | -1.4% | Watchlist — holding above 50-day MA |
+| XLE | ~$57.65 | Rising (oil +$90) | +1–2% | Watchlist — war premium back, still binary risk |
+
+### Watchlist Assessment (Updated)
+**AVGO:** Down -3.9% on broad tech selloff (not company-specific). AI thesis intact. Price now approaching lower end of entry range ($410–420). However: CAUTION rule requires "high-quality names only" + geopolitical macro overrides entry. Wait for: (1) VIX sustained below 18, (2) Iran conflict de-escalation, (3) PPI cool tomorrow. No entry today.
+
+**NVDA:** Down -1.4%. Holding above 50-day MA ($203.22). Still a watchlist candidate for when macro clears. No entry today — same logic as AVGO.
+
+**XLE:** Oil premium reasserting on Iran escalation. XLE +1-2% midday. BUT: Active military conflict = binary/unpredictable risk. A ceasefire announcement could -5% XLE instantly. Strategy rule: do not hold binary risk through -7% stop in CAUTION mode. PASS again.
+
+**CBRL:** +10.7% earnings gap-up. Chasing a gap is against rules (RSI extended, price far from MA). PASS.
+
+### New Opportunities Identified
+- **None that clear the three-filter checklist.** Every sector is either in a macro-risk environment or technically extended.
+- **Defensive positioning (XLP, XLU):** XLP +7% YTD, XLU +5% YTD. Defensive rotation thesis gains merit with hot CPI + war. However, VIX at 19.87 (below 20) does not mandate maximum defense. Adding defensive ETFs now would be chasing a move that's already happened YTD.
+- **Best action = cash preservation until macro clears.**
+
+### Decision
+**HOLD CASH — no trades.** All conditions unchanged or worsened vs. morning:
+1. US-Iran escalated from "ceasefire threat" to "confirmed active military exchange"
+2. VIX 19.87 — borderline, favors caution given geopolitical risk
+3. Hot CPI (4.2%) + oil near $90 = stagflationary headwind
+4. FOMC June 16–17 — 6 days away, do not initiate new positions ahead of Fed
+5. June historically weak (0.0% avg monthly return)
+6. Broad market risk-off across all sectors
+
+**Watch for this afternoon/tomorrow:**
+- Any Iran ceasefire/de-escalation signal → re-evaluate XLE short (contrarian) and AVGO/NVDA entry
+- **PPI report tomorrow June 11 8:30 AM** — if cool, confirms disinflation trend → risk-on catalyst possible
+- ADBE earnings tonight (June 11 after close) — avoid enterprise software names
+- VIX needs to close below 18 before re-entering offense mode given current macro
+
+---
+
+---
+
 ## MARKET-OPEN INTELLIGENCE — 2026-06-10 — PAPER
 
 **Session type:** Market-open routine (8:30 AM ET)

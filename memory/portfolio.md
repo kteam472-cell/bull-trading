@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-10 08:30 ET — market-open routine, no trades. Holding cash.*
+*Last updated: 2026-06-10 12:00 ET — midday routine, no trades. Holding cash. US-Iran military escalation confirmed; VIX 19.87; S&P -1.06%.*
 
 ---
 
