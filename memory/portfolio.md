@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-10 15:00 ET — market-close routine, no trades. Holding cash. US-Iran active conflict ongoing (ceasefire reversed); VIX 19.87; S&P ~-1.2% EOD. ORCL earnings tonight (after-hours). Cash preserved — alpha +1.2% vs SPY today.*
+*Last updated: 2026-06-11 09:30 ET — market-open routine, no trades. VIX 22.22 (CAUTION); SPY gap-up to $743.51, now ~$730.21; Iran active conflict ongoing (Hormuz disrupted); PPI May print implied cool by price action but unconfirmed. NVDA briefly below 50-day MA. Entry conditions 2 (VIX) and 4 (Iran) failed — cash preserved. Cumulative alpha vs SPY ~+0.95% since inception.*
 
 ---
 
@@ -94,3 +94,4 @@
 | Date | Portfolio Value | SPY Price | Portfolio Return | SPY Return | Cumulative Alpha | Day Trades Used (week) |
 |------|----------------|-----------|-----------------|------------|-----------------|----------------------|
 | 2026-06-10 | $250.00 | ~$728 | 0.00% | ~-1.2% | +1.2% | 0 |
+| 2026-06-11 | $250.00 | ~$730 | 0.00% | ~+0.3% (vs Jun 10 close) | ~+0.95% cumulative | 0 |

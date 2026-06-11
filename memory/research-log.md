@@ -45,6 +45,147 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-11 — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0
+
+---
+
+### Market Regime
+
+- **VIX:** 22.22 — **CAUTION MODE** (above 20 threshold; VIX rose from 19.87 close on June 10)
+- **SPY:** Opened $743.51 (gap-up ~+2% from June 10 close of ~$728), currently ~$730.21 (+0.3%)
+- **Nasdaq:** Also gap-up open, giving back some gains intraday
+- **Net regime:** Risk-on open (possibly PPI cool + Trump-Iran diplomacy signals), but giveback in progress; CAUTION maintained due to VIX level
+
+---
+
+### Economic Calendar — CRITICAL EVENTS
+
+| Event | Time | Status | Notes |
+|-------|------|--------|-------|
+| **PPI May 2026** | 8:30 AM ET | Released | May data scheduled today. April PPI was +6.0% YoY / +1.4% MoM. Consensus for May: +0.7% MoM. Market gap-up suggests came in at/below consensus — UNCONFIRMED in data sources but implied by price action. |
+| FOMC Meeting | June 16–17 (5 days) | Upcoming | No new positions June 15+ |
+| **ADBE Earnings** | After close TODAY | ACTIVE | Do NOT enter enterprise software names today — rule applied |
+
+---
+
+### Geopolitical — US-Iran (ONGOING, ELEVATED RISK)
+
+- Active military conflict continues; US airstrikes overnight June 10→11
+- Iran retaliated against Gulf bases (Kuwait, Bahrain, Jordan)
+- **Strait of Hormuz: Still disrupted** — oil premium intact
+- WTI Crude: ~$92.67/barrel (-0.22% today but near cycle highs)
+- Trump stated Iran "wants to talk" → diplomacy signals, but NO formal ceasefire
+- Ceasefire remains fragile; multiple violations of prior April 8 ceasefire
+- **Rule applied:** Macro events override technical signals. Iran conflict active = geopolitical risk NOT cleared
+
+---
+
+### Five-Condition Check for Any Trade (ALL required — pre-market plan)
+
+| # | Condition | Status | Detail |
+|---|-----------|--------|--------|
+| 1 | PPI cool-to-in-line | ⚠️ POSSIBLY MET | Market gapped up +2% at open suggesting cool print; actual number not confirmed in data |
+| 2 | VIX < 21 | ❌ FAILED | VIX at 22.22 |
+| 3 | S&P not down >1% at open | ✅ MET | SPY opened +2% gap-up |
+| 4 | Iran: no further escalation | ❌ FAILED | Active conflict, Hormuz disrupted |
+| 5 | NVDA above 50-day on volume | ⚠️ BORDERLINE | Briefly below $203.22 (touched $198.88), recovered to ~$205 |
+
+**Result: 2 conditions FAILED. NO TRADES TODAY.**
+
+---
+
+### Watchlist Position Updates
+
+#### NVDA — June 11 Update
+- Intraday range: $198.88 – $207.22; current ~$205.10
+- 50-day MA: $203.22 — NVDA briefly broke below 50-day (bearish signal) before recovering
+- The brief breach is a warning sign: 50-day MA is now a resistance level to watch
+- RSI: Estimated ~42–46 (neutral; not oversold)
+- **VIX at 22.22 = CAUTION mode, half-size only ($12.50 max)**
+- Entry conditions: still require VIX < 21 + Iran clarity + NVDA sustained hold above 50-day with volume
+- **Decision: WATCHLIST — conditions not met. Monitor 50-day MA hold.**
+
+#### AVGO — June 11 Update
+- Intraday range: $371.17 – $385.81; opened $381.50
+- 50-day MA: $397 — AVGO is ~4.0% BELOW 50-day MA
+- Needs RSI oversold bounce confirmation (RSI cross back above 30) before entry
+- ORCL capex shock impact persists in AI chip names
+- **Decision: WATCHLIST — wait for RSI oversold bounce setup.**
+
+#### XLE — June 11 Update
+- Current price: ~$58.25 (range $57.78–$59.04)
+- 50-day MA: ~$57.20 — XLE above 50-day ✓
+- WTI crude: $92.67/barrel — Iran premium sustaining
+- Entry trigger required: VIX < 20 AND PPI cool AND Hormuz stabilizing
+- VIX at 22.22 = NOT MET
+- **Decision: WATCHLIST — VIX must drop below 20 first.**
+
+---
+
+## RTX — 2026-06-11 — PAPER
+**Sector:** Industrials (Defense/Aerospace)
+**Cycle Phase:** Late Cycle / Conflict Premium
+**VIX at Research:** 22.22
+
+### Thesis
+Active US-Iran military conflict driving sustained defense spending catalyst. RTX produces Patriot missiles, AMRAAM, Stinger systems — direct beneficiary of US stockpile replenishment and export demand. Defense spending elevated for remainder of 2026 regardless of ceasefire timing.
+
+### Fundamentals Check
+- P/E vs sector: 33.02 TTM vs industrials median ~28.48 — **elevated** (15% premium)
+- Revenue growth: +9% organic Q1 2026 ($22.1B); Patriot munitions +40% YoY — **strong**
+- D/E ratio: ~56.3% / 0.49 projected — elevated but improving
+- Earnings trend: 3 consecutive beats; Q1 EPS +21% YoY — **bullish**
+- Insider activity: **$56M net SELLING in 90 days; CEO sold $9M @ $204** — **RED FLAG**
+- Analyst revisions: 8 upward revisions, guidance raised to $6.70–$6.90 EPS — **positive**
+- Analyst consensus target: $210–$221 (+20–27% upside); 9 of 15 analysts Buy
+
+### Technical Setup
+- Setup type: None — stock is below both key MAs (broken structure)
+- RSI (daily): ~47.49 — neutral
+- Price vs 50-day MA: **BELOW** ($174.41 vs $181.42 — -4% below)
+- Price vs 200-day MA: **BELOW** ($174.41 vs $193.35 — -10% below)
+- Volume signal: Not confirmed
+
+### Trade Parameters
+- No valid entry setup exists (below both MAs, insider selling)
+- Future entry: Wait for price recovery above 50-day MA ($181.42) with volume confirmation OR RSI reaches oversold (<30) and crosses back above
+- Theoretical stop: -7% from any entry
+- Position size: $12.50 (CAUTION mode, half of $25 max)
+
+### Decision
+**WATCHLIST** — Strong fundamental thesis and active conflict catalyst, but broken technical structure (below 50-day AND 200-day MA) plus heavy CEO insider selling ($9M) disqualifies entry by strategy rules. Do not buy a falling stock. Wait for: (1) price recovery above 50-day MA ($181.42) with volume, OR (2) RSI oversold bounce (< 30 cross back above 30). Monitor daily.
+
+---
+
+## LMT — 2026-06-11 — PAPER
+**Sector:** Industrials (Defense)
+**VIX at Research:** 22.22
+
+### Quick Assessment
+- Price: ~$530 (down 23.4% from YTD high of $692)
+- Revenue: Flat YoY (Q1 2026 $18B) — NO GROWTH
+- Earnings: **Q1 MISS** — EPS $6.44 vs $6.74 expected; revenue missed estimate
+- Margin compression: 6.4% vs 7.7% prior year
+- Analyst consensus: HOLD (vs RTX's BUY)
+- Forward P/E: 17.69 (attractive but unearned without growth)
+
+### Decision
+**PASS** — Flat revenue, Q1 miss, margin compression, Hold consensus. Inferior to RTX on all metrics except valuation. Revisit only after Q2 earnings improvement + analyst upgrades.
+
+---
+
+### Today's Outcome
+- **No trades placed.** VIX 22.22 (above 21 threshold) and active Iran conflict (conditions 2 and 4 failed) prevented entry.
+- **Alpha via cash preservation:** SPY gapped up +2% at open, then gave back to +0.3% from June 10 close. Portfolio flat at $250.
+- **Cumulative alpha vs SPY (since June 10 open ~$737):** SPY currently ~$730 = -0.95% from inception; portfolio 0.00% = **+0.95% cumulative alpha**
+- **Next session:** FOMC in 5 days — entry window tightening. New positions must clear by June 14 EOD or wait until after FOMC June 17.
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-11 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
