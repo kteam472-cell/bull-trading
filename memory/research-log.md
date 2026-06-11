@@ -45,6 +45,123 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-11 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0
+
+---
+
+### What Happened Today
+
+**Market Performance:**
+- SPY: ~$734.54 EOD — opened gap-up to $743.51 (+2%), sold off to $727.26 by midday, then recovered sharply into close finishing +1.26% on the day
+- Nasdaq: +0.26% (chips/semis led the afternoon recovery)
+- Dow: +0.45%
+- Russell 2000: -1.10% (small-caps lagged — risk-on was selective, not broad)
+- VIX: 22.22 into close — **CAUTION MODE maintained**
+- WTI Crude: Higher on Trump rhetoric; oil premium intact
+
+**Key Drivers (Afternoon Recovery):**
+- Semiconductor sector staged a comeback (NVDA/chip names recovered from morning lows)
+- Oracle's mixed earnings (beat revenue but capex shock) resolved with market shrugging it off
+- Macro narrative: market pricing in "Iran conflict as manageable premium" rather than systemic risk
+- *Note: Alpaca API network-restricted; EOD data from web search (Yahoo Finance/TheStreet)*
+
+**Geopolitical — US-Iran (ESCALATING, NOT RESOLVED):**
+- Trump threatened Iran "VERY HARD TONIGHT" with "total control" of oil/gas
+- Iran responded: named Elon Musk's companies (Starlink/SpaceX) as military targets in the Middle East
+- **No ceasefire. Conflict actively escalating.** VIX not dropping — market ignoring geopolitics at a premium; macro override still in effect.
+
+**ECB Rate Hike (New Development):**
+- European Central Bank raised rates to **2.25% from 2.00%** — responding to Iran conflict economic fallout
+- Implication: global central banks shifting hawkish; adds to DXY strength uncertainty; negative for emerging markets
+- For strategy: higher global rates = additional headwind for tech/growth names
+
+**ADBE Earnings (After Close Tonight):**
+- Reported after market close — results not available at routine time
+- Consensus: EPS $5.81, Revenue $6.45B
+- ADBE intraday range: $220.17–$234.07; closed near $222
+- Key test: "AI eats software" vs "AI feeds software" narrative
+- **Do NOT enter enterprise software, SaaS, or AI-adjacent names before reaction is confirmed tomorrow morning**
+
+---
+
+### Open Positions Check
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops triggered, no trailing stops to adjust.
+- **Daily P&L:** $0.00 — no realized or unrealized loss.
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used:** 0 of 3 ✓
+
+---
+
+### EOD Position Review — Any Holds to Close?
+
+No positions to close. The three-filter checklist was NOT cleared for any new position today:
+
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime (VIX < 20) | ❌ FAILED | VIX 22.22 — CAUTION mode all session |
+| Macro events clear | ❌ FAILED | Iran actively escalating; FOMC in 5 days |
+| Individual setup triggered | ❌ FAILED | No ticker cleared technical + fundamental checklist |
+
+**Decision: Hold all cash. Zero EOD closes required.**
+
+---
+
+### What Worked
+
+- **Strategy discipline maintained.** Despite SPY recovering +1.26% today, the entry conditions (VIX < 20, macro clear, individual setup) were NOT met at market open when entry decisions are made. Holding cash was correct by rules.
+- No position in any name would have been safely entered at the open given VIX 22.22 + active Iran conflict. The recovery happened in the afternoon, which was unpredictable from the morning setup.
+- Chips/semis comeback noted: NVDA likely recovered toward 50-day MA again. This is worth tracking for tomorrow morning.
+
+### What Didn't Work / Opportunity Cost
+
+- Today's alpha: **-1.26%** (missed a recovery day while in cash). This partially erased the +1.4% cumulative alpha from midday.
+- **Cumulative alpha from Jun 10 open (~$737):** ~+0.33% (SPY down -0.33% from $737 to $734.54 close; portfolio flat at 0%). Alpha advantage shrunk but remains positive.
+- The "gap-up, selloff, then recovery" intraday pattern was unusual — the afternoon reversal came without a single macro catalyst, just chip sector momentum. In hindsight, the open conditions were still too risky for rule-based entry; the recovery was unpredictable.
+
+---
+
+### What to Watch Tomorrow (June 12)
+
+| Priority | Item | Signal to Watch |
+|----------|------|-----------------|
+| **CRITICAL** | ADBE earnings reaction at open | Beat + raised guidance → SaaS/AI software relief rally; miss or weak guide → sector selloff. Confirms or denies "AI eats software" thesis. |
+| **HIGH** | Iran overnight developments | Trump's "VERY HARD TONIGHT" threat — will US strike Iran again? If escalation confirmed: oil spike, VIX likely 23+, stay in cash. If ANY de-escalation: XLE -3-5%, VIX could drop below 20. |
+| **HIGH** | VIX level at open | Must confirm BELOW 20 for any entry. Currently 22.22. ECB hike + Iran threats = VIX pressure to remain elevated. |
+| **HIGH** | FOMC countdown | **June 12–14 are the LAST viable trading days before FOMC blackout (June 15 = no new positions).** Window closing. Only enter if ALL conditions clear. |
+| **MEDIUM** | NVDA 50-day MA hold | Semis recovered today. If NVDA opens above and holds $203.22 on volume → 50-day MA bounce re-activates as entry setup (only if VIX < 20 AND Iran stable). |
+| **MEDIUM** | AVGO RSI | Still ~$371–385, below 50-day ($397). RSI oversold bounce setup: watching for RSI cross back above 30 with volume confirmation. |
+| **LOW** | Oil / WTI | Trump threats may gap oil higher pre-market. If WTI > $95 and XLE tests 50-day MA, watch for energy setup (only if VIX < 20). |
+
+**Tomorrow's entry conditions (all required):**
+1. VIX opens AND holds below 20
+2. Iran: no fresh overnight escalation (no new strikes since "tonight" threat)
+3. ADBE earnings: neutral-to-positive reaction in software sector
+4. NVDA: holds above 50-day MA ($203.22) on opening volume
+5. S&P opens flat-to-up (no gap down)
+→ **If ALL 5 met:** NVDA at $12.50 (CAUTION half-size), stop -7% (~$189), target +20% (~$244)
+
+---
+
+### Portfolio Status (End of Day — June 11)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 |
+| Daily P&L | $0.00 |
+| SPY today | +1.26% (~$725.35 → $734.54) |
+| Portfolio vs SPY today | -1.26% alpha (missed recovery) |
+| Cumulative alpha from Jun 10 open | ~+0.33% (SPY -0.33% from ~$737; portfolio flat) |
+| Day trades used (rolling 5-day) | 0 of 3 |
+| Open positions | 0 |
+| Cash floor check | $250 >> $50 minimum ✓ |
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-11 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)

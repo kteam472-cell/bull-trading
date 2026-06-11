@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-11 12:00 ET — midday routine, no trades. VIX ~22.22 (CAUTION); SPY ~$727.26, -1.62% on session (gap-up fully reversed, continued selling). Iran conflict active day 3, Hormuz partially disrupted. WTI ~$89–91. FOMC in 5 days. ADBE earnings after close tonight. No positions cleared three-filter checklist. Cash preserved. Cumulative alpha vs SPY ~+1.4% (widening as SPY falls).*
+*Last updated: 2026-06-11 15:00 ET — market-close routine, no trades. VIX ~22.22 (CAUTION); SPY closed ~$734.54, +1.26% on day (afternoon recovery, semis led). Iran escalating: Trump threatened more strikes "tonight"; ECB hiked rates to 2.25%; ADBE earnings after close (pending). No positions cleared three-filter checklist — macro conditions did not improve. Cash preserved. Today's alpha: -1.26% (missed recovery); cumulative alpha vs SPY from Jun 10 open (~$737): ~+0.33%.*
 
 ---
 
@@ -96,3 +96,4 @@
 | 2026-06-10 | $250.00 | ~$728 | 0.00% | ~-1.2% | +1.2% | 0 |
 | 2026-06-11 (open) | $250.00 | ~$730 | 0.00% | ~+0.3% (vs Jun 10 close) | ~+0.95% cumulative | 0 |
 | 2026-06-11 (midday) | $250.00 | ~$727 | 0.00% | ~-1.62% (intraday, gap-up reversed) | ~+1.4% cumulative | 0 |
+| 2026-06-11 (close) | $250.00 | ~$734.54 | 0.00% | +1.26% (day); -0.33% from Jun 10 open ~$737 | ~+0.33% cumulative (from Jun 10 open) | 0 |
