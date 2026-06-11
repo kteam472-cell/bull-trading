@@ -45,6 +45,117 @@
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-11 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0
+
+---
+
+### Market Regime Update
+
+- **VIX:** ~22.22 — **CAUTION MODE** (unchanged from market-open; caution zone 20–30)
+- **SPY:** ~$727.26 midday, down ~-1.62% from prior session close. Continued selling after the morning gap-up; the open gap has fully reversed.
+- **Nasdaq:** Underperforming, tech-led risk-off continues.
+- **Net regime:** Active selloff midday. Market digesting hot CPI, Iran escalation, and approaching FOMC (June 16–17, 5 days out). CAUTION maintained — macro override fully in effect.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops to verify.
+- **Daily P&L:** $0.00 — zero realized or unrealized loss.
+- **Daily loss cap ($12.50):** NOT triggered. ✓
+- **PDT day trades used:** 0 of 3 this rolling week. ✓
+
+---
+
+### Geopolitical Update — Iran (ONGOING, ELEVATED)
+
+- Active US-Iran military conflict continues. US CENTCOM struck Iranian military targets; Iran retaliated against Gulf countries (3rd consecutive day).
+- **Strait of Hormuz:** Disrupted but partial flows resuming per some reports; not fully closed.
+- **WTI Crude:** ~$89–91/barrel, range-bound near cycle highs. Brent ~36% above pre-war price. WTI ~50% above pre-war.
+- Diplomatic signals: Trump/Iran "want to talk" framing continues, but NO ceasefire. Analysts describe a "long grind" stalemate.
+- **Macro override rule remains:** Active military conflict = geopolitical uncertainty. "Macro events override all technical signals."
+
+---
+
+### FOMC Flag
+
+- FOMC meeting: **June 16–17** — 5 days away.
+- **Rule:** No new positions June 15+ (24h before FOMC).
+- **Effective entry window:** Today (June 11) and June 12–14 only. Only enter if all three filters clear AND thesis has time to develop before FOMC.
+- Given current macro conditions, opening a new position 5 days before FOMC in an active conflict/VIX-elevated market is high risk.
+
+---
+
+### ADBE Earnings Tonight
+
+- Adobe reports Q4 FY2026 after close today.
+- **Rule applied:** Do NOT enter enterprise software or correlated SaaS names on earnings day.
+- ADBE, CRM, SNOW, DDOG, MDB — all off limits for new entries today.
+
+---
+
+### Watchlist Position Updates (Midday)
+
+| Ticker | Price Range Today | Key Level | Status |
+|--------|------------------|-----------|--------|
+| NVDA | $198.88 – $207.22 | 50-day MA: $203.22 | AT/BELOW 50-day — unstable |
+| AVGO | ~$371–385 (est.) | 50-day MA: $397 | BELOW 50-day — wait RSI oversold bounce |
+| XLE | ~$57.50–59 | 50-day MA: ~$57.20 | Above 50-day, but binary risk from Iran |
+| RTX | ~$174 | 50-day MA: $181.42 | Below both MAs, heavy insider selling |
+| BTC/USD | ~$61,200 | — | Extreme fear zone |
+
+**NVDA:** Intraday range $198.88–$207.22 confirms the 50-day MA ($203.22) is acting as resistance, not support. The brief dip to $198.88 is bearish — the 50-day bounce entry setup is invalidated when price cannot sustain above the MA. No entry. WATCHLIST only until price reclaims and holds $203+ with volume.
+
+**AVGO:** Continues to trade ~$371–385, approximately 4–6% BELOW the 50-day MA ($397). RSI oversold bounce setup still the only valid entry framework. Monitor RSI daily — watching for RSI < 30 and subsequent cross back above 30.
+
+**XLE:** WTI crude holding $89–91. XLE above 50-day but active conflict creates binary reversal risk (ceasefire headline = instant -5%). CAUTION mode max size would be $6.25 — too small relative to risk. PASS until VIX < 20 and Iran stabilizes.
+
+**Defensive sectors (XLV, XLU):** Defensive rotation underway (Q2 2026 playbook). Three signals for rotation present: elevated VIX, hot CPI, geopolitical risk. However, entering defensive ETFs mid-selloff means buying into an already-moved trade (XLP +7% YTD, XLU +5% YTD). Wait for a pullback entry to the 50-day MA on XLV or XLU before initiating. Neither triggered today.
+
+---
+
+### New Opportunities — Mid-Morning Scan
+
+No new setups cleared all three filters:
+
+1. **Market regime (Filter 1):** VIX 22.22 → CAUTION. Half-size allowed in theory, but macro override supersedes.
+2. **Sector cycle (Filter 2):** Late-cycle indicators present (elevated inflation, geopolitical supply shock, defensive rotation). Cycle phase: Late Cycle / early Recession signals. Correct sectors = defensives (XLV, XLU, XLP) and energy (XLE).
+3. **Individual stock/ETF (Filter 3):** No individual name clears technical setup + fundamentals + macro timing simultaneously.
+
+**Best action = cash preservation.**
+
+---
+
+### Decision
+
+**HOLD CASH — no trades.**
+
+Conditions preventing any new position:
+1. VIX 22.22 → CAUTION (half-size mode; macro override trumps technical)
+2. Iran active conflict → MACRO OVERRIDE ("macro events override all technical signals")
+3. SPY -1.62% midday → market actively selling, not a stable entry environment
+4. FOMC June 16–17 → 5 days away; window closes June 15. Insufficient time for new positions to develop without FOMC binary risk.
+5. ADBE earnings after close → avoid software/tech adjacents today
+6. June historically weak (+0.0% avg monthly return)
+
+**Alpha status:** Portfolio flat at $250 while SPY is down on the session. Cash preservation continues to generate alpha. Cumulative alpha vs SPY since inception: approximately +1.4% and widening as today's -1.62% SPY move accumulates.
+
+---
+
+### Portfolio Status (Midday)
+- **Total Value:** $250.00 (100% cash)
+- **Daily P&L:** $0.00
+- **Daily loss cap:** NOT triggered ✓
+- **Day trades used (rolling 5-day):** 0 of 3 ✓
+- **Open positions:** 0
+
+---
+
 ## MARKET-OPEN INTELLIGENCE — 2026-06-11 — PAPER
 
 **Session type:** Market-open routine (8:30 AM ET)
