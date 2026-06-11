@@ -10,9 +10,10 @@
 
 | Ticker | Sector | Why on watchlist | Cycle fit | Entry trigger | Last researched | Notes |
 |--------|--------|-----------------|-----------|--------------|----------------|-------|
-| NVDA | Tech/Semis | AI GPU demand structural; analyst upgrades; Apple AI client win June 10 | Mid-expansion | CPI cool + RSI ≤65 + volume above 20-day avg + VIX <25 | 2026-06-10 | Wait for CPI first |
-| AVGO | Tech/Semis | Post-earnings dip reversal (-12.59% June 4); Strong Buy consensus 48 analysts; $520 target; $35B AI infra platform | Mid-expansion | CPI cool + RSI oversold bounce + volume confirm + 50-day MA hold | 2026-06-10 | High conviction CAUTION-mode candidate |
-| XLE | Energy | Oil ~$150; US-Iran tensions; top S&P sector YTD +21.6%; geopolitical premium | Late-cycle | EIA inventory draw today 10:30 AM + XLE holds 50-day MA + volume | 2026-06-10 | Small size only (2.5% = $6.25 in CAUTION mode) |
+| NVDA | Tech/Semis | AI GPU demand structural; analyst upgrades; Apple AI client win June 10; ORCL AI capex buildout = chip demand | Mid-expansion | PPI cool + NVDA holds above 50-day MA ($203.22) at open with volume + VIX <21 | 2026-06-11 | Pre-market $203.00 — AT 50-day MA. Conditional entry if macro clears. |
+| AVGO | Tech/Semis | Post-earnings dip (-12.59% June 4); 48 analyst Strong Buy; $520 target; AI infra thesis intact | Mid-expansion | RSI drops below 30 then crosses back above 30 (oversold bounce confirmation) + volume above 20-day avg | 2026-06-11 | **SETUP CHANGED** — now ~$372, BELOW 50-day MA ($397). 50-day bounce setup INVALIDATED. Wait for RSI oversold signal. Do not enter until RSI bounce confirmed. |
+| XLE | Energy | Strait of Hormuz effectively closed; WTI ~$92-93; EIA projects $105 Brent if Hormuz stays closed; geopolitical premium | Late-cycle | VIX drops below 20 + PPI cool + no imminent ceasefire signal + XLE above 50-day MA with volume | 2026-06-11 | Small size only ($6.25 = 2.5% CAUTION mode). Iran active conflict = binary risk. Don't hold through ceasefire headline. |
+| RTX | Defense/Aerospace | Active US-Iran military conflict day 2; direct beneficiary of stockpile replenishment (Patriot, AMRAAM, Stinger); defense spending catalyst | Late-cycle/geopolitical | Full fundamentals check needed first; then RSI + 50-day MA setup | 2026-06-11 | **NEW — needs research.** Run fundamentals checklist before adding as active candidate. |
 
 ---
 
@@ -20,12 +21,12 @@
 
 *Current economic cycle phase assessment*
 
-**Last updated:** 2026-06-10
-**Cycle phase:** Mid-cycle expansion (tentative) with Late-cycle signals emerging (Iran geopolitical, oil spike, PMI slowing)
-**VIX trend:** 20.18 (+6.68% today) — CAUTION zone; elevated ahead of CPI
-**Leading sectors:** XLK (Tech, AI tailwind), XLE (Energy, geopolitical premium), XLI (Industrials)
-**Lagging sectors:** XLP, XLU (defensive underperforming in risk-on periods)
-**Macro notes:** May CPI expected 4.2% YoY (hot) — print at 8:30 AM today. FOMC June 16–17. Oil at $150 on Iran strikes. Crypto BTC in extreme fear (10/100). ORCL earnings tonight. ADBE earnings June 11.
+**Last updated:** 2026-06-11
+**Cycle phase:** Late-cycle signals strengthening (Iran geopolitical crisis, oil $92-93, CPI 4.2%, PPI April +6.0% YoY)
+**VIX trend:** 20.57 (CAUTION zone; risk-off from hot CPI + Iran escalation)
+**Leading sectors:** XLE (Energy, Hormuz crisis), XLK (Tech with AI AI tailwind but capex concerns from ORCL), Aerospace/Defense (active conflict)
+**Lagging sectors:** XLP, XLU, broad consumer discretionary
+**Macro notes:** May PPI at 8:30 AM today (CRITICAL). FOMC June 16–17. WTI oil $92-93 (EIA projects $105 if Hormuz stays closed). Crypto Fear & Greed 14 (extreme fear). ORCL beat cloud metrics but capex shock. ADBE earnings tonight.
 
 ---
 
@@ -33,8 +34,8 @@
 
 | Ticker | Report Date | Direction bias | IV rank | In portfolio? | Notes |
 |--------|------------|----------------|---------|--------------|-------|
-| ORCL | Jun 10 (after close) | Bearish pre-earnings (-9.6%) | High | No | Expected EPS $1.96; implied move ±10.63%; avoid correlated enterprise names |
-| ADBE | Jun 11 (after close) | Neutral | High | No | Monitor; avoid entering before report |
+| ORCL | Jun 10 ✅ REPORTED | Mixed (beat cloud/EPS, capex shock) | — | No | Actual: Rev $19.2B beat, Non-GAAP EPS $2.11 beat, IaaS +93%. But $55.7B capex alarmed investors. Stock -7% AH, pared to -1%. Net: mixed signal for tech. |
+| ADBE | Jun 11 (TONIGHT after close) | Neutral | High | No | EPS $5.81 est., Rev $6.45B. ADBE -30% YTD. Avoid enterprise software names today. |
 | LEN | Jun 11 | Neutral | Medium | No | Homebuilder; watch for rate sensitivity signals |
 
 ---

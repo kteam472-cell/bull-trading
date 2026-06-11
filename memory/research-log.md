@@ -45,6 +45,155 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-11 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 — no PDT warning
+
+---
+
+### Market Regime
+
+- **VIX:** ~20.57 (CAUTION MODE — reduce new positions 50%, high-quality names only)
+- **S&P 500 futures:** -0.8% pre-market (~7,208 implied open vs. 7,266 close)
+- **Nasdaq 100 futures:** -1.1% pre-market
+- **Net regime:** Risk-off continuation from June 10 (-1.62% session)
+
+---
+
+### Economic Calendar — CRITICAL EVENTS
+
+| Event | Time | Status | Notes |
+|-------|------|--------|-------|
+| **PPI May 2026** | 8:30 AM ET TODAY | **PENDING — BINARY EVENT** | April PPI +6.0% YoY — hot backdrop. Cool = relief rally. Hot = selloff accelerates. HOLD CASH UNTIL PRINT. |
+| FOMC Meeting | June 16–17 (5 days) | Upcoming | No new positions June 15+ (rule: no positions 24h before FOMC) |
+
+---
+
+### Earnings Recap — ORCL Q4 FY2026 (reported after close June 10)
+
+| Metric | Expected | Actual | Result |
+|--------|---------|--------|--------|
+| Revenue | ~$19B | $19.2B (+21% YoY) | **BEAT** |
+| Non-GAAP EPS | $1.96 | $2.11 | **BEAT +7.7%** |
+| GAAP EPS | $1.96 | $1.45 | Miss (GAAP) |
+| Cloud IaaS Revenue | — | $5.8B (+93% YoY) | Blowout |
+| Total Cloud Revenue | — | $9.9B (+47% YoY) | Blowout |
+| FY2027 Revenue Target | — | $90B | Reaffirmed |
+| CapEx (FY2026) | $50B | $55.7B | **CAPEX SHOCK** |
+
+**Stock reaction:** After-hours fell -7% on capex shock (AI infrastructure spending surge), pared to ~-1% at time of research. Market is interpreting: rising capex = margin compression for cloud operators, even if revenues strong.
+
+**Impact on tech watchlist:** AVGO and NVDA share an indirect positive from ORCL's AI buildout (they need chips), BUT near-term market is reading ORCL's capex surprise as bearish for AI infrastructure sentiment. AVGO has broken below 50-day MA pre-market.
+
+---
+
+### Geopolitical — US-Iran (ESCALATING, HIGH RISK)
+
+- Second consecutive day of US airstrikes on Iran (overnight June 10→11)
+- Iran retaliated: strikes on Bahrain, Kuwait, Jordan
+- **Strait of Hormuz:** Effectively closed per IEA — "largest supply disruption in history of global oil market"
+- WTI Crude: ~$92–93/barrel (up ~25%+ since conflict began)
+- EIA projects Brent averaging ~$105/bbl in June–July if Hormuz stays closed
+- **Rule applied:** "Macro events override all technical signals." No new positions until geopolitical picture clarifies.
+
+---
+
+### Watchlist Position Updates
+
+| Ticker | Prior Close | Pre-market June 11 | 50-day MA | Status |
+|--------|------------|---------------------|-----------|--------|
+| AVGO | ~$403–405 | ~$371–385 | $397 | **BELOW 50-day MA — entry trigger INVALIDATED** |
+| NVDA | ~$200.42 | ~$203.00 (+1.29%) | $203.22 | AT 50-day MA — conditional watchlist |
+| XLE | ~$57.65–$59 | ~$58.17–$59.03 | ~$57.20 | Above 50-day MA — Iran premium intact |
+
+---
+
+### Ticker Analysis
+
+#### AVGO — Thesis Update (MAJOR CHANGE)
+- **Previous trigger:** "CPI cool + RSI oversold bounce + volume confirm + 50-day MA hold"
+- **Now at:** ~$372 — 6.3% BELOW 50-day MA ($397)
+- **What changed:** ORCL capex concerns spilling into AI chip names; broad tech selloff -1.62% June 10; pre-market tech futures -1.1%
+- **50-day MA breach is bearish signal.** Previous setup (50-day bounce) is now invalidated.
+- **New entry framework:** Wait for RSI to reach oversold (<30), then confirm RSI crosses back above 30 (strategy section 5a rule). Entry only after that confirmation. Price target unchanged at $520 (analyst consensus). Underlying business thesis intact — just the technical entry needs to reset.
+- **Decision:** WATCHLIST — downgraded from "high conviction entry" to "wait for RSI oversold bounce." Monitor RSI daily.
+
+#### NVDA — Watchlist Update
+- Pre-market: $203.00, essentially AT 50-day MA ($203.22)
+- RSI: ~44 as of June 10 — neutral (not oversold; not extended)
+- PPI print at 8:30 AM is the swing factor
+- If PPI cool + market stabilizes + NVDA holds above $203.22 at open with volume → valid 50-day MA bounce setup
+- Entry: $12.50 (5% of portfolio in CAUTION mode), stop -7% (~$189), target +20% (~$244)
+- **Decision:** CONDITIONAL WATCHLIST — entry only if PPI cool AND VIX stays below 21 AND NVDA confirms hold above 50-day on open volume
+
+#### XLE — Energy Watchlist Update
+- WTI ~$92-93/bbl, Hormuz effectively closed
+- EIA projects oil could hit $105 near term if situation persists
+- Geopolitical premium is NOT reversing (opposite of June 10 morning ceasefire signal)
+- 50-day MA: ~$57.20 — XLE holding well above it at $58-59
+- But: active military conflict = binary risk. A ceasefire headline could -5% XLE instantly
+- CAUTION mode: position size ≤$6.25 (2.5% of portfolio). Hard stop -7%.
+- **Decision:** WATCHLIST ACTIVE — if VIX drops below 20 AND PPI is cool AND Hormuz situation stabilizes → evaluate at $6.25 size
+
+#### CRYPTO
+- BTC: ~$61,200 (down ~2-3.5% in 24 hrs)
+- ETH: ~$1,624 (down ~2-4%)
+- Fear & Greed Index: **14 (EXTREME FEAR)**
+- Rule: "Never buy crypto during broad market selloff unless strong on-chain catalyst"
+- Broad market risk-off, no on-chain catalyst identified
+- **Decision:** PASS — same as June 10. Monitor only.
+
+#### NEW WATCHLIST CANDIDATE — Defense Sector (RTX / LMT)
+- Active US-Iran military conflict entering second day → sustained defense spending catalyst
+- Defense sector (XLI-defense subset) historically outperforms during active conflict scenarios
+- **RTX (Raytheon Technologies):** Produces missiles, defense systems (Patriot, AMRAAM, Stinger) — direct beneficiary of both US stockpile replenishment and export demand during active conflict
+- **LMT (Lockheed Martin):** F-35, THAAD, precision munitions — similar thesis
+- Need to run full fundamentals check before adding to active watchlist
+- **Action:** Research RTX and/or LMT in next session for fundamentals checklist
+
+#### ADBE — EARNINGS TONIGHT (AVOID)
+- Adobe Q2 FY2026 reports after close tonight (June 11)
+- Consensus: EPS $5.81, Revenue $6.45B
+- ADBE down ~30% YTD
+- **Rule applied:** Do NOT enter enterprise software names on earnings day. Avoid ADBE and correlated SaaS names today.
+
+---
+
+### Today's Action Plan
+
+| Time | Action | Trigger |
+|------|--------|---------|
+| **8:30 AM** | Wait for PPI print | **DO NOT TRADE BEFORE THIS** |
+| 8:30 AM | PPI cool (below +5.5% YoY) → evaluate NVDA near $203 | NVDA above 50-day MA + volume + VIX < 21 |
+| 8:30 AM | PPI hot (above +6.0% YoY) → hold all cash | No entries |
+| 9:30 AM | Market open — check AVGO RSI at open | If RSI < 30, note the level; wait for RSI > 30 cross before entry |
+| All day | Monitor Iran headlines | Any ceasefire signal → XLE position opportunity |
+| After close | ADBE earnings (do not hold correlated enterprise software) | N/A |
+| June 15 | Tighten new position rules ahead of FOMC | No new positions June 15 onwards |
+
+**Entry conditions for any trade today (all required):**
+1. PPI cool-to-in-line (8:30 AM)
+2. VIX remains below 21
+3. S&P does not drop > -1% at open
+4. Iran: no further overnight escalation reported at market open
+5. NVDA holds above 50-day MA with confirming volume
+
+**If all 5 met:** NVDA at $12.50, stop ~$189 (-7%), target ~$244 (+20%)
+
+---
+
+### Portfolio Status
+- **Total Value:** $250.00 (100% cash)
+- **Daily P&L (vs. SPY):** S&P -0.8% futures pre-market → alpha accumulating by holding cash
+- **Cumulative Alpha vs SPY:** ~+2.0% (S&P down ~-1.6% since June 10 open; portfolio flat)
+- **Day Trades Used (rolling 5-day):** 0
+- **Open Positions:** None
+- **Cash floor check:** $250 >> $50 minimum. ✓
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-10 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
