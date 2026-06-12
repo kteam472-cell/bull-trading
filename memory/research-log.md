@@ -45,6 +45,145 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-12 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0
+
+---
+
+### What Happened Today
+
+**Market Performance (EOD):**
+- SPY: ~$733–734 (≈-0.09% vs June 11 close of $734.54; recovered from -0.82% gap-down open at $728.50)
+- VIX: **19.44 at close — OFFENSE MODE CONFIRMED** (first EOD below-20 reading since account inception)
+- NVDA: **$205.25** — dramatic intraday reversal from $215.20 midday peak back to $205.25; now just +1.0% above 50-day MA ($203.22). This is the entry zone.
+- AMD: **$496–515** — surged ~10%+ on Citi upgrade to Buy ($575 PT). Still 25%+ above 50-day MA, no clean entry.
+- AVGO: ~$383.86 — slightly down; still below 50-day MA ($397). RSI bounce not triggered.
+- SPCX: **$169.48** (Day 2 IPO surge, up 25%+ from $135 IPO price; up from $150 at midday). No-entry per IPO rule.
+- BTC/USD: ~$63,668 | Crypto Fear & Greed: **16** (Extreme Fear — still not at 20 trigger)
+- WTI Crude: ~$85/bbl — Iran deal optimism sustained, oil premium unwinding
+
+**Key Drivers Today:**
+1. Iran de-escalation narrative continued driving defensive→offensive rotation; deal still UNSIGNED
+2. VIX trending lower all session (21.25 open → 19.25 midday → 19.44 close = offense confirmed)
+3. Semiconductor sector led, but reversed sharply intraday (AMD held gains; NVDA gave back midday surge)
+4. SpaceX IPO (SPCX) continued surge on institutional demand — $169 vs $135 IPO price in 2 days
+5. Citi upgraded AMD to Buy with $575 PT — institutional coverage expanding
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops triggered. No trailing stops.
+- **Daily P&L:** $0.00 — zero realized or unrealized loss.
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+
+---
+
+### EOD Position Review — Any Holds to Close?
+
+**No positions to close.** Portfolio was 100% cash all day.
+
+Three-filter check status for reference:
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime (VIX < 20) | ✅ PASSES (EOD) | VIX closed 19.44 — OFFENSE MODE |
+| Macro events clear | ⚠️ BORDERLINE | Iran deal unsigned; FOMC June 16-17 in 4 days |
+| Individual setup triggered | ⚠️ BORDERLINE (emerging) | NVDA pulled back to entry zone ($205.25 vs 50-day $203.22) — setup re-activating for tomorrow |
+
+---
+
+### What Worked
+
+1. **Did NOT chase NVDA at midday ($215.20)** — correct. NVDA reversed $10/share by 3pm. Discipline saved from a -4.6% intraday loss had we chased the midday high.
+2. **Cash preservation through gap-down open** — SPY opened -0.82% and didn't fully recover. Portfolio flat while benchmark fell.
+3. **VIX regime read was accurate** — offense mode called at midday VIX 19.25 maintained through close at 19.44.
+4. **SPCX no-entry rule validated** — stock gapped to $169 (+25%) on Day 2; buying on Day 1 or 2 would have been IPO gambling. Rule: wait 3-5 days.
+
+### What Didn't Work / Opportunity Cost
+
+- **AMD missed:** AMD +10%+ on Citi upgrade. At midday ($453.85) it was still 22.7% above 50-day — no valid entry. By close, even more extended (~$497-515). Rules were correct, but the opportunity cost is noted. Citi upgrade catalyst = fundamental change worth monitoring.
+- **Today's portfolio alpha:** ~+0.09% (SPY ≈-0.09% from June 11 close; portfolio flat). Essentially neutral.
+- **Cumulative alpha from Jun 10 open (~$737):** ~+0.42% (SPY down -0.42% from $737; portfolio 0.00%).
+
+---
+
+### CRITICAL: NVDA Setup for June 13 — HIGHEST PRIORITY
+
+**NVDA at $205.25 close is now in prime entry zone.**
+
+| Parameter | Value |
+|-----------|-------|
+| Current price (3pm Jun 12) | $205.25 |
+| 50-day MA | $203.22 |
+| Distance above MA | +1.0% (ideal — at the zone, not extended) |
+| Hard stop | ~$189 (-7% from $205) |
+| Profit target | ~$236 (+15%) or $246 (+20%) |
+| Position size | $12.50 (5% of portfolio — CAUTION-adjacent given FOMC) |
+| R:R | ~2.1:1 to 2.8:1 |
+| Entry deadline | June 14 EOD (FOMC blackout begins June 15) |
+
+**June 13 entry conditions (ALL 5 must be met at open):**
+1. VIX opens AND holds below 20 (closed 19.44 today — favorable)
+2. NVDA opens above $203.22 (50-day MA) with volume confirmation
+3. No fresh Iran escalation overnight (unsigned deal = monitor overnight)
+4. S&P does not gap down >-1% at open
+5. No surprise macro events (no scheduled data June 13 morning)
+
+**If all 5 met at 9:30 AM:** Execute BUY NVDA at market (~$205), $12.50 position, stop $189, target $235+.
+**Note:** Alpaca API is network-restricted in the current remote execution environment. Zack must manually verify API connectivity before next session or ensure next agent session has access.
+
+---
+
+### Watchlist Status (EOD June 12)
+
+| Ticker | EOD Price | 50-Day MA | vs. MA | Status | Action Tomorrow |
+|--------|-----------|-----------|--------|--------|----------------|
+| NVDA | $205.25 | $203.22 | **+1.0%** | **PRIME ENTRY ZONE** | CONDITIONAL ENTER Jun 13 if 5 conditions met |
+| AVGO | ~$383.86 | $397.00 | -3.3% | Watchlist — RSI bounce pending | RSI trigger still needed |
+| AMD | ~$497–515 | $369.92 | **+34%+** | Extended — Citi Buy upgrade | Monitor for pullback to 50-day over coming weeks |
+| SPCX | $169.48 | N/A (IPO) | — | Day 2, no-entry per IPO rule | Day 3 tomorrow — still too early |
+| BTC/USD | ~$63,668 | — | — | F&G 16 (Extreme Fear) | F&G must cross above 20 before any crypto entry |
+| RTX | ~$177 | $181.42 | -2.4% | Below MA + insider selling | PASS |
+
+---
+
+### What to Watch Tomorrow (June 13)
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | VIX at open | Must hold below 20. Closed 19.44 today — favorable pre-condition. Any spike above 20 = NO TRADE. |
+| **CRITICAL** | NVDA open & hold above 50-day MA ($203.22) | Must open above AND hold first 15 min. Volume confirmation needed. |
+| **HIGH** | Iran overnight | Unsigned deal = monitor. Any new escalation → hold cash. Signed deal → full offensive posture. |
+| **HIGH** | FOMC countdown | June 13 = second-to-last viable entry day. June 14 = absolute last. |
+| **MEDIUM** | AVGO RSI | Watch for RSI cross above 30 from oversold — still pending. |
+| **MEDIUM** | AMD follow-through | +10%+ today on Citi upgrade. Watch for continuation or fade. Still no valid entry. |
+| **LOW** | SPCX Day 3 | IPO price discovery continues. Still too early per 3-5 day rule. |
+
+**June 13 is the second-to-last pre-FOMC entry window. June 14 is the final one. After that: hold all positions through FOMC June 17 or stand aside in cash.**
+
+---
+
+### Portfolio Status (End of Day — June 12)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 |
+| Daily P&L | $0.00 |
+| SPY today (vs Jun 11 close) | ≈-0.09% (recovered from -0.82% gap-down; VIX 19.44 EOD) |
+| Today's portfolio alpha | ~+0.09% (flat to slightly positive) |
+| Cumulative alpha (from Jun 10 open ~$737) | ~+0.42% (SPY ~$733-734 vs $737 start; portfolio flat 0.00%) |
+| Day trades used (rolling 5-day) | 0 of 3 |
+| Open positions | 0 |
+| Cash floor check | $250 >> $50 minimum ✓ |
+| Alpaca API status | **Network-restricted** — Zack must confirm API access before trade execution sessions |
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-12 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)

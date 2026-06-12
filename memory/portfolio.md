@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-12 12:00 ET — midday routine, no trades. VIX dropped to 19.25 midday (OFFENSE MODE — first below-20 reading this week!). SPY +0.74% on day. Chips leading (NVDA +5%, AMD +5%+). NVDA now $215.20 — 5.9% above 50-day MA ($203.22), too extended to enter. Iran deal: Trump claims "war ended" but deal unsigned, IAEA breach risk emerging. UMich Sentiment: ~48-49 (beat). FOMC June 16-17 — last entry window June 13-14. No valid setups on watchlist at clean entry levels. Cash preserved.*
+*Last updated: 2026-06-12 15:00 ET — market-close routine. VIX 19.44 close (OFFENSE MODE confirmed EOD — first below-20 close since inception). SPY flat (~$733-734, -0.09% from Jun 11 close; recovered from -0.82% open gap). NVDA CRITICAL: pulled back from midday $215.20 to $205.25 at close — NOW JUST 1% ABOVE 50-DAY MA $203.22. Tomorrow June 13 is second-to-last FOMC entry window. If VIX holds below 20 at Jun 13 open + NVDA holds above 50-day MA → ENTER NVDA at $12.50 (5% portfolio). AMD +10%+ on Citi Buy upgrade ($575 PT), still extended. SPCX $169.48 (Day 2, no-entry rule). Crypto F&G 16 (Extreme Fear). Iran deal unsigned. No open positions, no trades placed today. Cumulative alpha ~+0.42% from Jun 10 open.*
 
 ---
 
@@ -99,3 +99,4 @@
 | 2026-06-11 (close) | $250.00 | ~$734.54 | 0.00% | +1.26% (day); -0.33% from Jun 10 open ~$737 | ~+0.33% cumulative (from Jun 10 open) | 0 |
 | 2026-06-12 (open) | $250.00 | ~$728.50 (open) | 0.00% | -0.82% (gap-down at open); VIX 21.25 CAUTION | ~+1.15% cumulative (from Jun 10 open ~$737) | 0 |
 | 2026-06-12 (midday) | $250.00 | ~$733–734 (+0.74%) | 0.00% | VIX 19.25 — **OFFENSE MODE** (first below-20 reading this week); chips leading (+5%+); Iran deal optimism (not signed); UMich sentiment beat; no setups on watchlist at valid entry levels | ~+0.4% cumulative (SPY ~-0.4% from Jun 10 open $737; portfolio flat) | 0 |
+| 2026-06-12 (close) | $250.00 | ~$733–734 (≈-0.09% vs Jun 11 close $734.54; +0.74% from today's open $728.50) | 0.00% | VIX 19.44 — **OFFENSE MODE confirmed at close** (first EOD below-20 since inception). NVDA pulled back from $215.20 midday to $205.25 close — NOW IN ENTRY ZONE (just +1% above 50-day MA $203.22). AMD surged ~10%+ on Citi Buy upgrade ($575 PT). SPCX $169.48 (Day 2, still no-entry). Crypto F&G 16 (Extreme Fear — not at 20 trigger). Iran deal still unsigned but WTI ~$85/bbl. June 13 is second-to-last FOMC entry window. | ~+0.42% cumulative (SPY ~-0.42% from Jun 10 open ~$737; portfolio flat 0.00%) | 0 |
