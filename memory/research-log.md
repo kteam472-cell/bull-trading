@@ -45,6 +45,149 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-12 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 — no PDT warning
+
+---
+
+### Market Regime (MAJOR SHIFT — VIX BREAKS BELOW 20)
+
+- **VIX:** ~19.44 pre-market — **BELOW 20 → transitioning to OFFENSE mode**
+  - Yesterday's close: 22.22. Drop of ~2.78 pts (-12.5%). Iran de-escalation is the driver.
+  - Rule: VIX < 20 = standard offense playbook. **BUT applying CAUTION-adjacent sizing** due to hot PPI + FOMC in 4 days.
+- **S&P 500:** Additional Iran-driven afternoon gains on June 11 (after our 3pm close) brought total June 11 S&P move to ~+1.75%, Nasdaq 100 +3.29%.
+- **Pre-market June 12:** ES futures ~$747. Modestly flat-to-positive after Thursday's large move.
+- **Net regime:** Risk-on. First true offense-mode opening since account inception.
+
+---
+
+### CRITICAL: US-Iran De-escalation (Overnight June 11-12)
+
+- Trump **CANCELED** planned overnight strikes after back-channel diplomacy breakthrough
+- 14-point Iranian draft deal: lifting oil sanctions + Strait of Hormuz reopening within 30 days
+- Trump: deal could be signed "maybe in Europe" within days
+- **Current status:** No active US strikes. US naval blockade remains until deal finalized. NOT yet signed.
+- WTI crude: ~$84/bbl (-4%+ from $92-93), 8-week low
+- **Rule updated:** Iran macro override partially lifted. Deal unsigned = remain alert for reversal.
+
+---
+
+### ADBE Earnings — June 11 After Close
+
+| Metric | Estimate | Actual | Result |
+|--------|---------|--------|--------|
+| Non-GAAP EPS | $5.81 | $5.96 | **BEAT +2.6%** |
+| Revenue | $6.45B | $6.62B | **BEAT +2.6%** |
+| Full-Year Revenue Guide | — | $26.5–$26.6B raised | **Raised** |
+
+- Stock: **-5-6% AH** on CFO Dan Durn resignation (effective June 15); pre-market ~$213 (-3%)
+- AI narrative mixed: AI-first ARR >$500M (tripled YoY) but freemium strategy compresses near-term ARR
+- **Implication:** Avoid enterprise SaaS/cloud names for new entries today (CRM, SNOW, DDOG, ADBE)
+
+---
+
+### Economic Calendar — June 12
+
+| Event | Time | Notes |
+|-------|------|-------|
+| PPI May 2026 | Released June 11 | **HOT: +6.5% YoY, +1.1% MoM** — largest intermediate demand increase on record |
+| UMich Consumer Sentiment (prelim) | ~10:00 AM ET | May final 44.8 (near-record low); June prelim expected ~46.0 |
+| FOMC Blackout | Active | No Fed communications until June 17 Powell presser |
+
+**PPI note:** +6.5% YoY is hot but largely energy-driven (Iran war premium in May data). Iran deal → oil -4% → June/July PPI likely to cool IF deal holds. Fed still expected to hold at 4.25-4.50% next week.
+
+---
+
+### Watchlist Updates (Pre-Market June 12)
+
+| Ticker | Pre-Mkt Price | 50-Day MA | Status | Action |
+|--------|--------------|-----------|--------|--------|
+| NVDA | ~$206.15 | $203.22 | **ABOVE ✓** | **CONDITIONAL ENTER at open** |
+| AVGO | ~$377 | $397 | Below | Still waiting RSI oversold bounce |
+| XLE | ~$58.54 | ~$57.20 | Above but fading | **REMOVED — Iran deal reverses oil premium** |
+| RTX | ~$182.06 | $181.42 | Marginally above | Jefferies Buy upgrade ($220 PT), but Iran de-escalation reduces core catalyst |
+| BTC/USD | ~$63,569 | — | — | Fear & Greed ~15 (Extreme Fear). PASS. |
+
+---
+
+## NVDA — 2026-06-12 — PAPER
+**Sector:** Technology (Semiconductors / AI)
+**Cycle Phase:** Mid-Expansion (AI capex cycle)
+**VIX at Research:** 19.44
+
+### Thesis
+Iran de-escalation + VIX dropping below 20 creates the first clean offense-mode entry window since account inception. NVDA is the highest-conviction name: above 50-day MA, AI structural demand intact (ORCL $55.7B capex = chip demand, Helix Digital $10B+ commitment), 62 analysts Strong Buy with $298 avg target (+45% from current). Two-day swing play before FOMC blackout June 15.
+
+### Fundamentals Check
+- P/E vs sector: 38x vs tech median 28x — premium justified by AI revenue growth
+- Revenue growth: +122% YoY (data center, structural AI demand)
+- D/E ratio: 0.42 — low leverage
+- Earnings trend: 4+ consecutive beats
+- Insider activity: Neutral (no cluster buying, no significant selling)
+- Analyst revisions: 62 analysts, Strong Buy consensus, $298 avg 12-month target
+
+### Technical Setup
+- Setup type: 50-day MA bounce / risk-on recovery
+- RSI (daily): ~50-55 estimated (recovered from June 11 lows, not extended)
+- Price vs 50-day MA: ABOVE at $206.15 vs $203.22 (+1.4%)
+- Price vs 200-day MA: Above (long-term uptrend intact)
+- Volume signal: Nasdaq 100 +3.29% June 11 = semis led, volume confirmation expected
+
+### Trade Parameters
+- Proposed entry: ~$206 at market open (conditional on VIX < 20 at open)
+- Hard stop: ~$192 (-7% from $206)
+- Profit target: ~$237 (+15% from $206)
+- Position size: $12.50 (5% of portfolio — CAUTION-adjacent sizing given FOMC risk)
+- Exit deadline: EOD June 14 (before FOMC blackout June 15)
+- R:R: ~2.1:1
+
+### Decision
+**CONDITIONAL ENTER** — all 5 conditions must be met at market open (9:30 AM ET):
+1. VIX opens AND holds below 20 (pre-mkt: 19.44 ✓)
+2. NVDA opens above $203.22 with opening volume (pre-mkt: $206.15 ✓)
+3. No fresh Iran escalation overnight (confirmed: deal in progress, no new strikes ✓)
+4. S&P does NOT gap down more than -1% at open (ES futures flat-to-positive ✓)
+5. No surprise VIX spike above 20 in first 15 minutes
+
+**⚠️ API EXECUTION NOTE:** Alpaca API network-restricted in current session environment. Zack must manually execute the NVDA order at 9:30 AM open OR ensure next agent session has API access. Order parameters: BUY ~0.061 shares NVDA (fractional), limit ~$207, stop $192, target $237.
+
+---
+
+### Airlines Scan (New Candidates — Iran Oil Beneficiaries)
+
+**DAL (Delta):** ~$81 pre-market. Already +13% above 50-day MA ($71.58). Analyst mean target ~$81-83 = essentially at current price. **PASS — extended, no upside priced in by consensus.**
+
+**AAL (American Airlines):** ~$14.08-14.64. Stacking catalysts (oil drop + Starlink Wi-Fi + SAF deal + analyst upgrades to $18-24). But +15% above 50-day and high debt profile = volatile. Not a clean technical entry. **Adding to watchlist for monitoring — not entering today given FOMC window.**
+
+---
+
+### Three-Filter Assessment
+
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime (VIX < 20) | ✅ PASSES | Pre-mkt 19.44 — confirm at open |
+| Macro events clear | ⚠️ BORDERLINE | Iran deal in progress (not signed); PPI hot; FOMC in 4 days |
+| Individual setup (NVDA) | ✅ PASSES | Above 50-day MA, Nasdaq momentum, AI demand intact, analyst consensus strong |
+
+**Result: Conditions materially improved. NVDA conditional entry at open.**
+
+---
+
+### Portfolio Status
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (all cash) |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| PDT Warning | NONE |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Open Positions | 0 |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-11 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
