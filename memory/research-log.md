@@ -45,6 +45,163 @@
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-12 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0
+
+---
+
+### Market Regime Update — CRITICAL SHIFT
+
+- **VIX:** 19.25 (range 18.51–19.85) — **OFFENSE MODE** ✅
+  - VIX dropped from 21.25 at market open to 19.25 midday — **first confirmed offense-mode reading this week**
+  - Driver: Iran de-escalation optimism + market sentiment improving
+- **SPY:** +0.74% on day (~S&P 500 at 7,449); WTI crude -2.6% to ~$87/bbl on Iran deal talk
+- **Nasdaq/chips:** AMD +~5%, Qualcomm +~3-5%, NVDA +5%+ — semiconductor sector leading
+- **Net regime:** VIX crossed below 20 for first time since account inception session. OFFENSE MODE officially active at midday.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00 — zero realized or unrealized loss.
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+
+---
+
+### Iran / Macro Update
+
+- Trump publicly claimed "war has ended" — market trading on this optimism
+- WTI crude: ~$85–87/bbl (down ~$2-3 from $89 level) — oil premium unwinding on deal talk
+- IAEA declared Iran in breach of non-proliferation obligations (emerging risk)
+- **Deal still unsigned.** Cautious: one prior ceasefire (April 8) collapsed within days. Rule stands: unsigned deal = partial macro override remains.
+- FOMC June 16–17: 99.3% probability of hold at 4.25–4.50%. **Fed Chair Kevin Warsh** (new as of May 15). No Fed speak today (blackout period).
+
+---
+
+### UMich Consumer Sentiment (10:00 AM ET — Released)
+
+- **Actual June prelim: ~48–49** (up ~4 pts from May final 44.8; beat expected ~46.0)
+- Year-ahead inflation expectations: **4.6%** (down from 4.8% — modest improvement)
+- Positive but historically low. Lower gas prices (Iran deal optimism) the main driver.
+- **Impact:** Modest sentiment tailwind for equities; reinforces VIX decline; no change to strategy.
+
+---
+
+### Watchlist Position Updates (Midday June 12)
+
+| Ticker | Price | 50-Day MA | vs. MA | Status |
+|--------|-------|-----------|--------|--------|
+| NVDA | $215.20 | $203.22 | **+5.9% above** | Extended — no setup |
+| AVGO | $385.42 | $397.00 | -2.9% below | Waiting RSI bounce |
+| RTX | $177.01 | $181.42 | -2.4% below | Below MA + insider selling |
+| AMD | $453.85 | $369.92 | **+22.7% above** | Highly extended |
+| SPCX | ~$150 | N/A (IPO) | — | Day 2, too early |
+| BTC/USD | $63,668 | — | — | F&G 15 (Extreme Fear) |
+
+---
+
+### NVDA — Midday Assessment
+
+**Price: $215.20 — NO ENTRY.** Setup expired.
+
+This morning NVDA confirmed the 50-day MA bounce technically (held $203.22 at open) but VIX was 21.25 (above 20) → entry blocked by strategy rules. NVDA has since rallied +5.9% above the MA to $215.20. New catalyst: **S&P Global upgraded credit rating** citing "insatiable AI demand."
+
+The 50-day MA bounce setup required entry at $203–$206. At $215, we'd be chasing a 4.4–5.9% move from the intended entry level. By strategy rules (Section 5b), the setup is a bounce entry AT the MA, not 6% above it. Entering here would mean:
+- Entry: ~$215
+- Stop: ~$200 (-7%)
+- Target: ~$247 (+15%)
+- R:R: ~2.1:1 (acceptable) but RSI likely extended (60–65+)
+- Timing: Buying at midday high, 2 days before FOMC window closes
+
+**Decision: PASS.** Do not chase. If NVDA pulls back to $207–$210 range (holding above 50-day MA) on low volume, reassess for a FOMC-window entry tomorrow morning (June 13).
+
+---
+
+### AMD — New Candidate Assessment
+
+**AMD: $453.85 — PASS for now.**
+
+AMD beat Q1 2026 revenue estimates (+38% YoY to $10.3B), Q2 guidance ~$11.2B (+46% YoY). Strong AI/data center growth story. Analyst consensus: Buy, targets $419–$483 (BofA top pick, raised to $560). 
+
+**Technical problem:** AMD is 22.7% ABOVE its 50-day MA ($369.92). No valid entry setup by strategy rules — no pullback, no RSI oversold, no 50-day bounce. P/E 61x forward (elevated). Buying $80+ above the MA with no catalyst-driven pullback = chasing.
+
+**Decision: WATCHLIST — monitor for pullback to 50-day MA. Not actionable before FOMC.**
+
+---
+
+### Crypto — Midday Update
+
+- BTC: $63,668 (+3.4% on day); ETH: $1,657 (+3.2%)
+- **Fear & Greed Index: 15 (Extreme Fear)** — unchanged
+- Crypto rebounding on Trump "war has ended" claim — but same claim has failed multiple times in past month per reporting
+- **Entry signal for crypto:** F&G crossing back above 20 + broad market not in selloff
+- Current status: F&G still 15, not yet at 20 trigger. PASS.
+- Rule: "Never buy crypto during broad market selloff unless strong on-chain catalyst" — today market is UP, so the prohibition doesn't strictly apply. But F&G at 15 = market still in fear; crypto-specific sentiment not reversed. Hold.
+
+---
+
+### SPCX (SpaceX) — Day 2 Update
+
+- Trading ~$150 (vs $135 IPO price on June 12 open) — Day 2 indication suggests strong demand
+- Analyst mean target $165 (22% upside from IPO price)
+- **Rule:** No IPO entry for 3–5 days minimum. Price discovery ongoing. Day 2 = still too early.
+- Monitor: If SPCX dips 15–20% below $135 IPO price in coming days → revisit with full fundamentals check
+
+---
+
+### Opportunity Assessment — Any New Entries Today?
+
+**Three-filter check for new entries:**
+
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime (VIX < 20) | ✅ PASSES | VIX 19.25 — OFFENSE MODE confirmed |
+| Macro events clear | ⚠️ BORDERLINE | Iran deal optimism (market pricing it) but NOT signed; IAEA breach risk; FOMC June 16-17 (4 days) |
+| Individual setup triggered | ❌ FAILS | No ticker on watchlist has a clean entry setup: NVDA extended, AVGO below MA, RTX below MA + insider selling, AMD way extended |
+
+**Result: HOLD CASH — no new entries midday.**
+
+The VIX has achieved OFFENSE MODE but no setup exists on our watchlist at current prices. The opportunity window for the FOMC pre-trade entry (June 13–14) depends on:
+1. A new candidate emerging tomorrow morning with a clean setup
+2. OR a pullback in NVDA/AVGO to entry levels
+
+---
+
+### Priorities for June 13 Market-Open (Second-to-Last Entry Day Before FOMC)
+
+| Priority | Ticker | Setup Needed | Level to Watch |
+|----------|--------|-------------|----------------|
+| HIGH | NVDA pullback | 50-day MA hold + volume | $207–$210 area; stop $192 |
+| HIGH | AVGO RSI bounce | RSI crosses above 30 from oversold | RSI trigger + confirm close |
+| MEDIUM | RTX 50-day cross | Price reclaims $181.42 with volume | BUT insider selling red flag — half-size only |
+| MEDIUM | BTC/USD | Fear & Greed crosses above 20 | BTC + risk-on confirmation needed |
+| LOW | SPCX | Post-IPO dip 15-20% | Days 3–5+ from now |
+
+**FOMC window:** June 13 and June 14 are the LAST viable entry days (no new positions June 15+).
+
+---
+
+### Portfolio Status (Midday — June 12)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (all cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| PDT Warning | NONE |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Open Positions | 0 |
+| Alpha vs SPY today | +0.0% day (SPY +0.74%; portfolio flat — slightly negative alpha today) |
+| Cumulative Alpha (from Jun 10 open ~$737) | ~+0.4% (SPY ~$733–734 range = -0.4% from $737; portfolio 0.00%) |
+
+---
+
 ## MARKET-OPEN INTELLIGENCE — 2026-06-12 — PAPER
 
 **Session type:** Market-open routine (8:30 AM ET)

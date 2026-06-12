@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-12 08:30 ET — market-open routine, no trades. VIX opened 21.25 (CAUTION — above 20 threshold despite 19.44 prior close); SPY opened ~$728.50 (-0.82% gap-down). SpaceX SPCX IPO debuted today ($135/share, $1.77T valuation — largest IPO in history). Iran deal close but unsigned. VIX Condition 1 FAILED for NVDA entry; NVDA also touched below 50-day MA ($201.61 vs $203.22). FOMC in 4 days — entry window narrowing. Cash preserved. Cumulative alpha vs SPY from Jun 10 open: ~+1.15%.*
+*Last updated: 2026-06-12 12:00 ET — midday routine, no trades. VIX dropped to 19.25 midday (OFFENSE MODE — first below-20 reading this week!). SPY +0.74% on day. Chips leading (NVDA +5%, AMD +5%+). NVDA now $215.20 — 5.9% above 50-day MA ($203.22), too extended to enter. Iran deal: Trump claims "war ended" but deal unsigned, IAEA breach risk emerging. UMich Sentiment: ~48-49 (beat). FOMC June 16-17 — last entry window June 13-14. No valid setups on watchlist at clean entry levels. Cash preserved.*
 
 ---
 
@@ -98,3 +98,4 @@
 | 2026-06-11 (midday) | $250.00 | ~$727 | 0.00% | ~-1.62% (intraday, gap-up reversed) | ~+1.4% cumulative | 0 |
 | 2026-06-11 (close) | $250.00 | ~$734.54 | 0.00% | +1.26% (day); -0.33% from Jun 10 open ~$737 | ~+0.33% cumulative (from Jun 10 open) | 0 |
 | 2026-06-12 (open) | $250.00 | ~$728.50 (open) | 0.00% | -0.82% (gap-down at open); VIX 21.25 CAUTION | ~+1.15% cumulative (from Jun 10 open ~$737) | 0 |
+| 2026-06-12 (midday) | $250.00 | ~$733–734 (+0.74%) | 0.00% | VIX 19.25 — **OFFENSE MODE** (first below-20 reading this week); chips leading (+5%+); Iran deal optimism (not signed); UMich sentiment beat; no setups on watchlist at valid entry levels | ~+0.4% cumulative (SPY ~-0.4% from Jun 10 open $737; portfolio flat) | 0 |
