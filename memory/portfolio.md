@@ -19,7 +19,7 @@
 | SPY Return (same period) | 0.00% |
 | Alpha vs SPY | 0.00% |
 
-*Last updated: 2026-06-11 15:00 ET — market-close routine, no trades. VIX ~22.22 (CAUTION); SPY closed ~$734.54, +1.26% on day (afternoon recovery, semis led). Iran escalating: Trump threatened more strikes "tonight"; ECB hiked rates to 2.25%; ADBE earnings after close (pending). No positions cleared three-filter checklist — macro conditions did not improve. Cash preserved. Today's alpha: -1.26% (missed recovery); cumulative alpha vs SPY from Jun 10 open (~$737): ~+0.33%.*
+*Last updated: 2026-06-12 08:30 ET — market-open routine, no trades. VIX opened 21.25 (CAUTION — above 20 threshold despite 19.44 prior close); SPY opened ~$728.50 (-0.82% gap-down). SpaceX SPCX IPO debuted today ($135/share, $1.77T valuation — largest IPO in history). Iran deal close but unsigned. VIX Condition 1 FAILED for NVDA entry; NVDA also touched below 50-day MA ($201.61 vs $203.22). FOMC in 4 days — entry window narrowing. Cash preserved. Cumulative alpha vs SPY from Jun 10 open: ~+1.15%.*
 
 ---
 
@@ -97,3 +97,4 @@
 | 2026-06-11 (open) | $250.00 | ~$730 | 0.00% | ~+0.3% (vs Jun 10 close) | ~+0.95% cumulative | 0 |
 | 2026-06-11 (midday) | $250.00 | ~$727 | 0.00% | ~-1.62% (intraday, gap-up reversed) | ~+1.4% cumulative | 0 |
 | 2026-06-11 (close) | $250.00 | ~$734.54 | 0.00% | +1.26% (day); -0.33% from Jun 10 open ~$737 | ~+0.33% cumulative (from Jun 10 open) | 0 |
+| 2026-06-12 (open) | $250.00 | ~$728.50 (open) | 0.00% | -0.82% (gap-down at open); VIX 21.25 CAUTION | ~+1.15% cumulative (from Jun 10 open ~$737) | 0 |

@@ -45,6 +45,123 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-12 — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0
+
+---
+
+### Market Regime
+
+- **VIX:** Opened 21.25 — **CAUTION MODE** (above 20 threshold; prior close 19.44 misled pre-market plan)
+  - Intraday range so far: 20.55–21.25
+  - Key driver: VIX rebound despite Iran de-escalation — FOMC in 4 days + SpaceX IPO uncertainty + unsigned Iran deal creating residual fear premium
+- **SPY:** Opened ~$728.50 (-0.82% gap-down from $734.54 close); intraday range $724.41–$736.62; market +0.6% on Iran peace hopes per news
+- **Net regime:** Market modestly green on Iran deal narrative but VIX remains in CAUTION zone (20–30). Pre-market VIX reading of 19.44 did NOT hold at the open — the VIX is back in CAUTION territory.
+
+---
+
+### Five-Condition Check — NVDA Entry (Pre-Market Plan)
+
+| # | Condition | Status | Data |
+|---|-----------|--------|------|
+| 1 | VIX opens AND holds below 20 | **❌ FAILS** | VIX opened 21.25, range 20.55–21.25 |
+| 2 | NVDA opens above $203.22 (50-day MA) | ✅ PASSES | NVDA opened $204.37 (pre-mkt was $206.15) |
+| 3 | No fresh Iran escalation overnight | ✅ PASSES | Trump cancelled strikes; 14-point deal in progress; Strait of Hormuz to reopen within 30 days per deal terms |
+| 4 | S&P does NOT gap down >-1% at open | ✅ PASSES | SPY opened $728.50 vs $734.54 close = -0.82% gap-down (borderline, but < -1% rule threshold) |
+| 5 | No VIX spike above 20 in first 15 min | **❌ FAILS** | VIX opened at 21.25 — already above 20 threshold from the first tick |
+
+**Result: 2 of 5 conditions FAIL → NO TRADE.**
+
+Additional disqualifier: NVDA touched $201.61 intraday, BELOW the 50-day MA ($203.22). The 50-day MA bounce setup requires NVDA to HOLD above the MA. A breach below it — even if recovered — invalidates the entry by strategy rules (Section 5b: "price tags 50-day MA, holds the level"). This is a second confirmation that no entry is correct today.
+
+---
+
+### Major New Market Event — SpaceX IPO (SPCX)
+
+- **SpaceX (SPCX) debuted today on Nasdaq at $135/share**
+- Valuation: ~$1.77 trillion — **largest IPO in history** (surpasses Saudi Aramco's record)
+- ~4x oversubscribed; 30% retail allocation
+- Market cap: larger than Tesla on day one
+- **Impact on today's session:**
+  - Massive capital draw from existing tech/growth names
+  - Likely suppressing NVDA/AVGO/QQQ as funds rotate into SPCX
+  - SPY gap-down at open (despite Iran de-escalation) potentially partly explained by IPO capital drain
+- **Watchlist note:** IPO day rule = DO NOT BUY on day 1. Wait for price discovery to stabilize (3–5 trading days). If SPCX dips 15–20% post-IPO euphoria, revisit fundamentals:
+  - Revenue: ~$15B+ (Starlink + rockets + defense)
+  - Profitability: Likely not yet positive on GAAP basis
+  - Growth: Starlink subscriber growth, Mars mission milestones
+  - Risk: Elon key-man risk, government contract dependency, burn rate
+  - Entry framework: Only after confirmed 50-day MA established post-IPO + VIX < 20
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to verify. No trailing stops.
+- **Daily P&L:** $0.00 — no realized or unrealized loss.
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+
+---
+
+### Iran Update (Latest)
+
+- Trump CONFIRMED cancelled planned overnight strikes after back-channel diplomacy
+- 14-point draft deal: Iranian oil sanctions lifted + Strait of Hormuz reopened within 30 days
+- Trump: deal could be signed "maybe in Europe" within days
+- **Status: NOT YET SIGNED.** Unsigned = partial macro override remains in effect
+- WTI crude: ~$84/bbl (down significantly from $92–93 war premium peak)
+- XLE thesis: Oil premium unwinding. XLE removed from watchlist for now. Energy trade thesis reversed.
+
+---
+
+### ADBE Post-Earnings Update
+
+- ADBE beat EPS ($5.96 vs $5.81 est) and revenue ($6.62B vs $6.45B est)
+- Stock still fell -3 to -6% on CFO Dan Durn resignation effective June 15
+- AI-first ARR >$500M (tripled YoY) but freemium strategy compresses near-term ARR
+- **Implication:** Enterprise SaaS still remains a no-fly zone for new entries (CRM, SNOW, DDOG, ADBE). Management risk premium elevated.
+
+---
+
+### Watchlist Status (June 12 Update)
+
+| Ticker | Price | Status | Notes |
+|--------|-------|--------|-------|
+| NVDA | ~$205.50 (intraday low $201.61) | **WATCHLIST — Setup invalidated** | Touched below 50-day MA ($203.22). Need close ABOVE $203.22 with volume to re-activate. FOMC window closes June 14. |
+| AVGO | ~$377 | WATCHLIST — RSI bounce | Below 50-day ($397). Wait for RSI < 30 then cross back above 30. |
+| SPCX | $135 (IPO day) | **NEW — WATCHLIST post-IPO** | Largest IPO in history. No entry day-1. Monitor for post-IPO price discovery dip. |
+| RTX | ~$182+ | WATCHLIST | Jefferies Buy upgrade ($220 PT). Iran de-escalation reduces core catalyst. Monitor for VIX < 18 + above 50-day MA with volume. |
+| BTC/USD | ~$63,569 | PASS | Fear & Greed ~15 (Extreme Fear). No entry. |
+
+---
+
+### Portfolio Status (Market-Open — June 12)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (all cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| PDT Warning | NONE |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Open Positions | 0 |
+
+---
+
+### Cumulative Alpha vs SPY (Updated)
+
+- SPY opened today at ~$728.50 (gap-down -0.82% from $734.54 June 11 close)
+- Portfolio flat at $250.00
+- **Intraday alpha so far: +0.82%** (SPY gap-down, portfolio unchanged)
+- Cumulative alpha from Jun 10 open (~$737): ~+1.15% (SPY down from ~$737 to ~$728.50 open = -1.15%)
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-12 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
