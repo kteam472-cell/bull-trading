@@ -1,5 +1,5 @@
 # Bull Trading Strategy — Knowledge Base
-*Last updated: 2026-06-09 | Version: 1.0 (research build) | Account: Alpaca Paper*
+*Last updated: 2026-06-13 | Version: 1.1 (added FOMC blackout + IPO entry rules) | Account: Alpaca Paper*
 
 ---
 
@@ -160,6 +160,21 @@ Run this before entering any individual stock position:
 ---
 
 ## SECTION 7 — RISK MANAGEMENT (NON-NEGOTIABLE)
+
+### FOMC Blackout Window
+- **No new positions 5 calendar days before any FOMC meeting date.**
+- FOMC meets 8 times per year, typically on the third Tuesday–Wednesday of the month.
+- Rationale: Fed announcements create unpredictable binary moves in rates-sensitive assets. A -7% stop cannot reliably contain gap risk around a hawkish surprise.
+- Rule: Close out or hedge existing positions before the 5-day window if they are highly rate-sensitive. Hold-through is acceptable for high-conviction longer-term thesis with wide stops.
+- *Formalized June 13, 2026 — applied ad-hoc in Week 1, now permanent.*
+
+### IPO Entry Restriction
+- **No new positions in a stock within the first 5 trading days of its IPO.**
+- Rationale: IPO price discovery is driven by lock-up dynamics, retail euphoria, and institutional rebalancing — not fundamentals. -7% stops are frequently triggered by normal IPO volatility, and recovery is unpredictable.
+- Entry criteria post-5-day window: Stock must trade for 5+ days, establish at least a 20-day price range, and have a confirmed 50-day MA before applying standard entry checklist.
+- *Formalized June 13, 2026 — applied to SPCX SpaceX IPO in Week 1.*
+
+
 
 ### Account Details
 - **Starting capital:** $250 live (Alpaca live account)
