@@ -182,6 +182,170 @@ The setup is building. Chips are rallying today. All 5 post-FOMC entry condition
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-15 — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 — new rolling 5-day window
+
+---
+
+### ⚠️ CRITICAL: FOMC BLACKOUT IN EFFECT — NO NEW POSITIONS TODAY
+
+**FOMC meeting: June 16–17 (Tue–Wed).** Strategy rule: no new positions 5 calendar days before FOMC. **June 15 = BLACKOUT DAY. Zero entries, zero exits.** First new entry window: **June 18 (Thursday)** post-FOMC announcement. June 19 (Juneteenth) = markets CLOSED.
+
+---
+
+### Market Regime — MAJOR UPGRADE
+
+- **VIX: 17.68** — **BEST READING SINCE ACCOUNT INCEPTION.** Below 18! OFFENSE MODE confirmed and deepening.
+  - Monthly average: 15.77 — we are approaching "calm" regime territory
+  - Driver: US-Iran peace deal framework announced June 14 → geopolitical risk premium collapsing
+- **SPY: $741.75** (+1.36% on day; range $735.03–$744.44; opened $740.71) — strong gap-up
+  - Nasdaq: +2.17% (644 pts) — tech/growth leading the risk-on move
+  - Dow: +1.05% (530 pts) — broad-based buying
+- **Oil (WTI): ~$80/bbl** (-5%+ on the day — 2-month low) — Iran peace deal collapsing oil premium
+- **Net regime:** Full OFFENSE. VIX 17.68, markets ripping, Iran war risk collapsing. Best macro backdrop of the entire account lifecycle. **The only thing preventing trades today is the FOMC blackout rule.**
+
+---
+
+### CRITICAL NEWS: US-Iran Peace Deal Reached (June 14, 2026)
+
+| Detail | Status |
+|--------|--------|
+| Deal framework | AGREED June 14, 2026 |
+| Signing date | Scheduled June 19 (Friday) in Switzerland |
+| Terms | 60-day ceasefire, Strait of Hormuz reopening, permanent termination of operations |
+| Oil impact | WTI -5% to ~$80/bbl (2-month low) |
+| Current status | Unsigned — signing ceremony scheduled |
+
+**Macro implication:** This removes the #1 geopolitical risk that has suppressed markets since account inception (June 10). When the deal was unsigned and conflict active, VIX held 20–23. With peace framework agreed → VIX 17.68 → full OFFENSE posture for June 18 entry.
+
+**Key risk remaining:** Deal not yet signed (ceremony June 19). If signing collapses before June 19, oil spikes and VIX rebounds. Monitor.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to verify. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓ (new week — full 3 available)
+- **Alpaca API status:** Network-restricted (same as prior sessions — paper-api.alpaca.markets not in egress allowlist). Cannot verify account balance via API; using last-known $250.00 cash.
+
+---
+
+### Watchlist Status (June 15 Market-Open)
+
+| Ticker | Price | 50-Day MA | Status | Action Today |
+|--------|-------|-----------|--------|--------------|
+| NVDA | $207.97 (pre-mkt); prev close $205.19 | ~$203–205 | **ABOVE ✓ +1.35%** | **MONITOR — no entry per FOMC blackout** |
+| AVGO | RSI ~26 (approaching oversold <30 trigger) | ~$397 | Below MA; RSI potentially triggering | **MONITOR RSI — no entry today** |
+| SPCX | $171.72 (Day 5 of trading) | N/A (IPO) | Day 5 — IPO rule expires after today | **EARLIEST ENTRY: June 18 (Day 7)** |
+| AMD | Extended — still far above 50-day MA | $369.92 | ~35%+ above 50-day | PASS |
+| BTC/USD | $65,430 (+1.28% on peace news) | — | F&G: 23 (Extreme Fear — approaching 20 trigger) | MONITOR — F&G must cross 20 |
+| RTX | ~$183–185 (Iran deal reclaimed 50-day) | $181.42 | Possibly reclaimed 50-day MA! | MONITOR — but insider selling red flag remains |
+
+---
+
+### AVGO — Critical RSI Update
+
+**AVGO RSI reading: ~26 (SELL signal on some indicators — oversold territory)**
+
+This is potentially the RSI < 30 trigger we've been waiting for. By strategy rules (Section 5a):
+- RSI < 30 alone = note it
+- RSI **crosses back above 30** in an established uptrend = consider entry (this is the actual trigger)
+
+**Action:** Watch for RSI to cross back above 30 on June 18 (first entry day post-FOMC). If AVGO RSI was at 26 today and market is ripping (+1.36% broad market, +2.17% Nasdaq), RSI could cross 30 by June 18. This may trigger the AVGO entry alongside or instead of NVDA.
+
+**AVGO trade parameters (tentative for June 18):**
+- Entry: ~current price (need confirmed price on June 18)
+- Stop: -7% from entry
+- Size: $12.50 (5% of portfolio)
+- Condition: RSI crosses above 30 on June 18 with confirming volume
+
+---
+
+### NVDA — Post-FOMC Entry Plan Refinement
+
+VIX at 17.68 today (if sustained into June 18) would be the best market regime of the account lifecycle. The June 18 NVDA entry plan is now HIGHLY PROBABLE to execute given:
+
+| # | Condition | June 15 Status |
+|---|-----------|----------------|
+| 1 | FOMC holds (no surprise) | 96–98% probability — unchanged |
+| 2 | VIX drops below 18 post-FOMC | **ALREADY BELOW 18 TODAY** (17.68) |
+| 3 | NVDA holds above 50-day MA | $207.97 — above $203–205 MA ✓ |
+| 4 | Iran deal advancing (no escalation) | Deal REACHED, signing June 19 ✓ |
+| 5 | S&P stable post-FOMC | $741.75 (+1.36%) — very strong ✓ |
+
+**4 of 5 conditions are essentially met today (pre-FOMC).** June 18 entry is extremely high probability barring a hawkish FOMC surprise.
+
+**Updated NVDA entry plan (June 18):**
+- Entry: ~$208–$210 (market order at open June 18)
+- Stop: ~$193–$195 (-7% from entry)
+- Target: $240–$245 (+15–18%)
+- Size: $12.50 (5% of portfolio)
+- R:R: ~2.1:1 to 2.5:1
+
+---
+
+### SPCX — IPO Rule Expiry
+
+SPCX IPO timeline:
+- Day 1: June 11 (IPO at $135; opened at $150)
+- Day 2: June 12 ($169.48)
+- Day 3: June 13
+- Day 4: June 14
+- Day 5: June 15 (TODAY — $171.72) — **IPO 5-day rule expires after today's close**
+- Day 6: June 16 (FOMC Day 1 — no new positions)
+- Day 7: June 17 (FOMC decision day — no new positions per FOMC rule)
+- **Day 8: June 18 — FIRST VIABLE ENTRY DAY**
+
+Strategy rule check for SPCX on June 18:
+- 5-day IPO window: expired ✓
+- Need: 20-day price range established + fundamentals check
+- Revenue ~$15B+ (Starlink + rockets + defense); GAAP profitability unclear
+- Will run full fundamentals check for June 18 if price is in a clean zone
+
+---
+
+### Opportunity Cost Assessment
+
+Today's session alpha:
+- SPY +1.36% → Portfolio flat (FOMC blackout)
+- Opportunity cost: -1.36% alpha today
+- **But:** FOMC blackout is non-negotiable. The rationale: a hawkish FOMC surprise tomorrow could gap any open position down -5%+. The -1.36% opportunity cost today is insurance against that tail risk.
+- **Cumulative alpha (from Jun 10 open ~$737):** SPY today at $741.75 → SPY UP from inception. Portfolio flat. Cumulative alpha is now approximately **-0.65%** (SPY ~+0.65% from $737 inception; portfolio 0.00%). First time cumulative alpha is slightly negative — expected and acceptable given FOMC blackout discipline.
+
+---
+
+### Economic Calendar Recap
+
+| Date | Event | Status |
+|------|-------|--------|
+| Jun 15 (Mon) | FOMC Blackout | **NO NEW POSITIONS** |
+| Jun 16 (Tue) | FOMC Day 1 | No trading |
+| Jun 17 (Wed) | FOMC Decision + Retail Sales + Industrial Production | **CRITICAL — 2:00 PM ET** |
+| Jun 18 (Thu) | Housing Starts + Jobless Claims — first entry day post-FOMC | **TARGET ENTRY DAY** |
+| Jun 19 (Fri) | Juneteenth — **MARKETS CLOSED** + Iran deal signing in Switzerland | No trading |
+
+---
+
+### Portfolio Status
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha (approx) | ~-0.65% (SPY ~+0.65% from Jun 10 $737 open; portfolio flat) |
+| Alpaca API | Network-restricted — same prior-session status |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-12 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
