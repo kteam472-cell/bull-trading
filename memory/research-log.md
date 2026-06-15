@@ -346,6 +346,168 @@ Today's session alpha:
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-15 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT IN EFFECT — NO NEW POSITIONS
+
+FOMC meeting: June 16–17 (Tue–Wed). **Zero trading today.** First entry window: **June 18 (Thursday)** post-FOMC. June 19 (Juneteenth + Iran signing) = markets CLOSED. Net trading days remaining this week: Thursday only.
+
+---
+
+### Market Regime — Midday Update
+
+- **VIX: ~17.67** — essentially unchanged from 17.68 open. OFFENSE MODE sustained through midday. Trend: declining (21.25 open on Jun 12 → 19.44 EOD → 17.68 Jun 15 open → 17.67 midday). Best reading since account inception.
+- **SPY:** ~$741–742 (range $735.03–$744.44 on day); S&P 500 ~7,527 midday. Up ~1.36% on day. Nasdaq +2.17%. Dow +1.05%.
+- **WTI Crude: $80.44** (-5.23% on day) — Iran deal "complete" announcement driving continued oil premium collapse. Down from $109 conflict peak.
+- **Net regime:** Full OFFENSE. Macro backdrop is strongest since account inception. Iran geopolitical risk now essentially resolved.
+
+---
+
+### CRITICAL UPGRADE: Iran Deal Now "Complete" (June 15)
+
+Trump announced on Truth Social: **"The Deal with the Islamic Republic of Iran is now complete."** Simultaneously authorized:
+- Toll-free opening of the Strait of Hormuz
+- Immediate removal of US Naval blockade
+
+| Detail | Status |
+|--------|--------|
+| Deal status | **COMPLETE** (upgraded from "REACHED" on June 14) |
+| Signing ceremony | June 19 (Friday) in Switzerland |
+| Oil impact | WTI -5.23% to $80.44 (continuing to collapse) |
+| VIX impact | Sustained below 18 — fear premium gone |
+| FOMC implications | Oil deflation → CPI tailwind → dovish lean → rate cut signal increases |
+
+**Macro significance:** The single biggest geopolitical risk since account inception (June 10) is now resolved. FOMC on June 17 may be incrementally more dovish given oil-driven disinflation. This strengthens the June 18 entry setup materially.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to trigger. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted (same as all prior sessions)
+
+---
+
+### Watchlist Midday Update
+
+| Ticker | Midday Price | 50-Day MA | Status | Change from Morning |
+|--------|-------------|-----------|--------|---------------------|
+| NVDA | $211.02 (range $207.71–$211.38) | ~$203–205 | **ABOVE ✓ +3.2%** | Rallied further: $207.97 pre-mkt → $211.02 midday (+1.5%) |
+| AVGO | ~$396–397 (+3.30% at open from $383.86) | ~$397 | **AT 50-day MA** — MAJOR DEVELOPMENT | RSI: 26 pre-mkt → 41.40 midday (RSI crossed above 30 today — trigger fired but FOMC blackout blocks entry) |
+| SPCX | ~$171.72 | N/A (IPO) | Day 5 — IPO rule still active | No change. Earliest entry: June 18 (Day 8) |
+| BTC/USD | ~$66,663 (+4% on day) | — | F&G: 18 (Extreme Fear — below 20 trigger) | BTC up on Iran peace news; F&G still below 20 trigger |
+| WTI/XLE | $80.44 (-5.23%) | — | Oil deflation ongoing | Irrelevant to long plays; removes macro headwind |
+
+---
+
+### AVGO — Critical Setup Update
+
+**This is the most important midday development.**
+
+AVGO's RSI crossed back above 30 today (from 26 pre-market to 41.40 midday). Per strategy rules (Section 5a):
+> *"RSI crosses back above 30 in an established uptrend = consider entry. Confirm with volume above 20-day average."*
+
+The trigger has fired — but FOMC blackout prevents action today. **Key questions for June 18:**
+
+1. Will AVGO RSI cool to a less extended level (40–50 range) by June 18, or will it overshoot to 50–60+ (reducing the bounce setup quality)?
+2. Is AVGO holding at/near the 50-day MA ($397)? If so, this transitions from an "RSI bounce" play to a "50-day MA reclaim" play — which is actually a cleaner setup.
+3. At ~$396 (essentially at 50-day MA), the 50-day MA bounce setup parameters would be:
+   - Entry: ~$397 (50-day MA reclaim confirmation)
+   - Stop: ~$369 (-7% from $397)
+   - Target: ~$457 (+15%)
+   - Size: $12.50 (5% portfolio)
+   - R:R: ~2.1:1
+
+**Assessment:** AVGO is now converging on the 50-day MA AND bouncing from RSI oversold simultaneously. This is a strong confluence setup. The risk: by June 18 the stock may already be 3–5% above the MA if the rally continues. Will reassess June 18 morning.
+
+---
+
+### NVDA — Midday Update (June 18 Entry Plan Status)
+
+NVDA trading at $211.02 — higher than the planned $208–210 entry zone, but not dangerously extended:
+
+| # | June 18 Entry Condition | Midday Status |
+|---|------------------------|---------------|
+| 1 | FOMC holds (no surprise) | ~97%+ probability — unchanged |
+| 2 | VIX below 18 post-FOMC | **Already 17.67 today** — extremely likely to hold or drop further |
+| 3 | NVDA above 50-day MA | **$211.02 vs ~$203–205 MA = +3.2% above** ✓ |
+| 4 | Iran deal advancing | **DEAL COMPLETE** ✓✓ |
+| 5 | S&P stable post-FOMC | $741+ today, futures pricing hold ✓ |
+
+**All 5 conditions essentially satisfied pre-FOMC.** June 18 NVDA entry remains highest priority. If NVDA is at $211–215 on June 18 open, the setup is still valid — the 50-day MA bounce has become a sustained uptrend continuation at/above the MA, not just a bounce.
+
+**Updated June 18 parameters (if NVDA at $211–215):**
+- Entry: market open (~$211–215)
+- Stop: ~$196–200 (-7% from entry)
+- Target: $243–247 (+15%)
+- Size: $12.50 (5% portfolio)
+- R:R: ~2.1:1
+
+---
+
+### New Opportunity Mid-Morning Scan
+
+**No new setups found.** Three-filter check:
+
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime (VIX) | ✅ PASSES | VIX 17.67 — deepest OFFENSE reading to date |
+| Macro events clear | ⚠️ FOMC BLACKOUT | Iran resolved but FOMC blackout overrides — no action |
+| Individual setup | ✅ Multiple setups building | NVDA above MA; AVGO RSI cross above 30 + at 50-day |
+
+**Macro events override all technical signals. FOMC blackout = HOLD CASH.**
+
+---
+
+### Daily P&L — Loss Cap Check
+
+- Daily P&L: $0.00 (no open positions)
+- Cumulative alpha: ~-0.65% (SPY up ~+0.65% from Jun 10 $737 inception; portfolio flat). Opportunity cost of FOMC blackout discipline.
+- **Daily loss cap NOT triggered ✓**
+
+---
+
+### Portfolio Status (Midday — June 15)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha | ~-0.65% (SPY ~+0.65% from Jun 10 $737; portfolio flat 0.00%) |
+| Alpaca API | Network-restricted — same prior-session status |
+
+---
+
+### June 18 Pre-Entry Checklist (Building)
+
+Day after FOMC. The week's one viable trading day. Run this at 9:25 AM June 18:
+
+| Check | Target | Action if FAIL |
+|-------|--------|----------------|
+| VIX at open | Below 20 | Hold cash, reassess |
+| FOMC reaction | Hold confirmed, no hawkish shock | If hawkish: hold cash |
+| NVDA price | Above 50-day MA (~$203–205) | Skip NVDA, look for alt |
+| AVGO price | At/near 50-day MA (~$397) | If extended >5%, skip |
+| SPY direction | Flat-to-up at open | Avoid buying gap-downs |
+| Crypto F&G | Above 20 (optional) | Skip BTC if still Extreme Fear |
+
+**Primary plan:** BUY NVDA $12.50 at market open. If AVGO also in entry zone, consider $12.50 AVGO as second position (total deployed: $25 = 10% of portfolio, $225 remaining cash well above $50 floor).
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-12 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
