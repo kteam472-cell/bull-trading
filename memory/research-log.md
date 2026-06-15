@@ -45,6 +45,143 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-15 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 — no PDT warning (new rolling 5-day window)
+
+---
+
+### ⚠️ CRITICAL: FOMC BLACKOUT IN EFFECT TODAY
+
+**FOMC meeting: June 16–17 (Tue–Wed).** Strategy rule: no new positions 5 calendar days before FOMC. Practical blackout: **June 15 = NO NEW POSITIONS.** Hold all cash. Monitor only. First new entry window: **June 18 (Thursday)**, post-FOMC announcement.
+
+---
+
+### Market Regime
+
+- **VIX:** 19.44 (June 12 close — last confirmed reading). Pre-market not yet confirmed, but chips sector +4% today on Iran peace news suggests VIX likely flat-to-lower. **OFFENSE MODE** baseline.
+- **SPY:** Pre-market **$738.23** (up from $733–734 June 12 close = +0.6–0.7% overnight move). Bullish gap-up at open anticipated.
+- **AMD:** +4% today on US-Iran peace deal announcement progress — semiconductors leading.
+- **Net regime:** Risk-on. VIX declining trend intact. Iran de-escalation accelerating. Post-FOMC setup looking very favorable for June 18 entries.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓ (new week — full 3 available)
+
+---
+
+### Economic Calendar — Week of June 15, 2026
+
+| Date | Event | Time | Impact |
+|------|-------|------|--------|
+| Jun 15 (Mon) | **FOMC BLACKOUT — no new positions** | All day | Zero trading |
+| Jun 16 (Tue) | FOMC Day 1 begins | — | No trading |
+| Jun 17 (Wed) | Retail Sales (May); Import/Export Prices; Industrial Production | 8:30 AM ET | High — data on same day as FOMC decision |
+| Jun 17 (Wed) | **FOMC Decision + Powell Press Conference** | ~2:00 PM / 2:30 PM ET | **CRITICAL — market-moving event** |
+| Jun 18 (Thu) | Housing Starts (May); Weekly Jobless Claims | 8:30 AM ET | Medium |
+| Jun 18 (Thu) | ACN earnings, KMX earnings (pre-market) | Pre-market | Low relevance |
+| **Jun 19 (Fri)** | **JUNETEENTH — US MARKETS CLOSED** | — | No trading |
+
+**Key insight:** FOMC expected to hold at 3.50–3.75% (96–98% probability per prior research). Watch Kevin Warsh's tone: hawkish surprise = VIX spike → defensive pivot. Dovish/neutral = VIX drops below 18 → full OFFENSE, aggressive entry on June 18.
+
+---
+
+### Iran / Geopolitical Update
+
+- Trump administration officials: **"80% confidence"** in peace deal signing within days
+- WTI Crude: **$84.88/barrel** (Brent $87.33) — well off the $109 conflict peak
+- Strait of Hormuz: Fitch projects reopening **late July 2026** (not June)
+- Iran ceased strikes but warned of resumption if Israel continues Lebanon operations
+- **Status:** Deal UNSIGNED. Progress accelerating but not complete. Rule remains: unsigned deal = partial macro override.
+- **Oil implication:** XLE thesis remains broken. Energy premium still unwinding. WTI anchored ~$85.
+
+---
+
+### Earnings Calendar Review
+
+| Ticker | Status | Notes |
+|--------|--------|-------|
+| ORCL | ✅ Reported Jun 10 | Beat; AI capex signal positive for NVDA |
+| ADBE | ✅ Reported Jun 11 | Beat but CFO departure weighed; avoid enterprise SaaS |
+| FOMC | 🔴 Jun 16–17 | Dominant event this week — overrides all other signals |
+| KMX | Jun 17 | CarMax — consumer auto, not relevant to watchlist |
+| ACN | Jun 18 | Accenture — confirms/denies enterprise IT spend; monitor for NVDA/semis implications |
+
+---
+
+### Watchlist Status (June 15 Morning)
+
+| Ticker | Last Known Price | Status | Action Today |
+|--------|-----------------|--------|--------------|
+| NVDA | ~$205 (Jun 12 close); chips up today | **TOP PRIORITY POST-FOMC** | MONITOR ONLY — no entry today per FOMC blackout |
+| AVGO | ~$380 (Jun 12–13); chips sector up today | RSI ~36–39 (approaching but not at <30 trigger) | MONITOR RSI — no entry today |
+| AAL | $14.99 (Jun 14) | +20%+ above 50-day MA = too extended | WATCH for pullback to $13.50–$14.00 |
+| SPCX | $160.95 (Jun 14) = Day 4 | 5-day no-entry rule. Earliest entry June 20. | MONITOR only |
+| RTX | $183.53 (Jun 13) | **Reclaimed 50-day MA ($181.42)!** But insider selling + Iran de-escalation = low priority | MONITOR only |
+| BTC/USD | $64,439 | F&G 13 (Extreme Fear — well below 20 trigger) | PASS |
+
+---
+
+### NVDA Post-FOMC Entry Plan (June 18+)
+
+The setup is building. Chips are rallying today. All 5 post-FOMC entry conditions:
+
+| # | Condition | Pre-market Status |
+|---|-----------|-------------------|
+| 1 | FOMC holds (no surprise) | 96–98% probability — expected |
+| 2 | VIX drops below 18 post-FOMC | Possible if Powell sounds dovish/neutral |
+| 3 | NVDA holds above 50-day MA ($203.45) | At $205+ with chips up today — favorable |
+| 4 | Iran deal advances (no major escalation) | 80% confidence per today's reports |
+| 5 | S&P opens stable post-FOMC | Pre-market $738 suggests strong base |
+
+**Entry plan (June 18):** BUY NVDA $12.50 (5% portfolio), stop $189 (−7%), target $235+ (+15%). R:R ≈ 2.1:1. Execute at market open June 18 if all 5 conditions met at 9:30 AM ET.
+
+---
+
+### New Ticker Scan — Post-FOMC Candidates
+
+**Reviewing 2 new candidates for potential post-FOMC entry:**
+
+**MSFT (Microsoft):** Mid-expansion tech/AI play. Azure AI growth, Copilot monetization underway. Less volatile than NVDA. Would pair well with NVDA as a second position post-FOMC (different risk profile: large-cap stable vs. high-beta semis). Need to run fundamentals check. **Adding to backlog for research.**
+
+**QCOM (Qualcomm):** Beneficiary of Iran deal (oil lower = smartphone demand improves in emerging markets). Q1 2026 beat; handset + auto chip diversification. Was up 3–5% on June 12 chips rally. Less extended than AMD. Potential secondary candidate. **Adding to backlog for research.**
+
+---
+
+### Cumulative Alpha Update
+
+| Field | Value |
+|-------|-------|
+| Portfolio Value | $250.00 (100% cash) |
+| SPY pre-market today | ~$738.23 (+0.6–0.7% from Jun 12 close ~$733–734) |
+| Portfolio change from Jun 12 | $0.00 (cash — no change) |
+| Alpha today | −0.6–0.7% (SPY rallying, portfolio flat — opportunity cost of FOMC blackout timing) |
+| Cumulative alpha (Jun 10 open ~$737) | ~0.00% (SPY ~$738 = roughly back to Jun 10 start level; portfolio flat $250) |
+| Day trades used (rolling 5-day) | 0 of 3 |
+| Open positions | 0 |
+
+---
+
+### Today's Priorities
+
+| Priority | Action |
+|----------|--------|
+| **CRITICAL** | NO new positions — FOMC blackout in effect |
+| **HIGH** | Monitor NVDA price action — confirm holds above 50-day MA at today's open |
+| **HIGH** | Track FOMC outcome June 17 — hawkish vs. neutral/dovish |
+| **MEDIUM** | Watch AVGO RSI daily — looking for sub-30 trigger |
+| **LOW** | Research MSFT and QCOM for backlog |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-12 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
