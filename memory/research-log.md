@@ -45,6 +45,154 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-15 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT HONORED — NO TRADES TODAY
+
+FOMC meeting: June 16–17 (Tue–Wed). Zero trading per strategy rule. First entry window: **June 18 (Thursday)**. June 19 = Juneteenth (markets CLOSED) + Iran deal signing in Switzerland. Net trading days remaining this week: **Thursday only.**
+
+---
+
+### What Happened Today
+
+**Market Performance (EOD June 15):**
+- **SPY:** ~$751 (+1.74% on day from June 13 close; +1.90% from Jun 10 inception $737)
+- **Nasdaq/QQQ:** +2.17% — tech/growth dominated. Semiconductor sector led (MU +8.73%, AMD +7.46%, AVGO +2.24%, TSM +4.09%)
+- **VIX:** 17.68 at close — best reading since account inception, sustained all session
+- **WTI Crude:** $80.23 (-5.48%) — Iran deal completion driving continued oil premium collapse
+- **NVDA:** $211.02 (held above 50-day MA all day, closed near session highs)
+- **AVGO:** +2.24% today (~$395–400 range, at/near 50-day MA $397 at close)
+- **SPCX:** $177.99 (Day 5, intraday range $168.36–$179.43; IPO 5-day rule expires after today)
+- **BTC/USD:** $65,695 (F&G: **20** — AT the entry threshold; up from 18 at midday)
+- **S&P 500 YTD context:** Rally driven by Iran deal resolution, oil deflation → CPI tailwind → dovish FOMC expectations
+
+**Key Drivers:**
+1. **Iran deal confirmed COMPLETE** — Trump announced full deal. Strait of Hormuz reopening authorized. Signing ceremony June 19 in Switzerland. Geopolitical risk premium fully removed.
+2. **Oil deflation:** WTI -5.48% ($80.23) — removes inflation headwind ahead of FOMC. This is incrementally dovish for Warsh.
+3. **Semiconductor surge:** Broad sector rally; Micron +8.73% (AI memory demand confirmed), AMD +7.46% (Intel battle narrative), AVGO +2.24% (AI networking in demand). NVDA held gains above 50-day MA.
+4. **FOMC setup improving:** Oil deflation + strong equities entering FOMC meeting = neutral-to-dovish lean most probable outcome. Markets pricing hold at 3.50–3.75% with dovish tone.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops triggered. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted (all prior sessions; paper-api.alpaca.markets not in egress allowlist)
+
+---
+
+### EOD Position Review — Any Holds to Close?
+
+**No positions to close.** Portfolio 100% cash all day. FOMC blackout blocked all entry regardless of setup quality.
+
+---
+
+### What Worked
+
+1. **FOMC blackout discipline held.** SPY rallied +1.74% today and portfolio stayed flat — opportunity cost of ~-1.74% today, but the blackout rule is non-negotiable. A hawkish FOMC surprise on June 17 would punish any open position entered today. The rule exists precisely for this risk.
+2. **Did NOT chase AVGO when RSI trigger fired at midday.** AVGO RSI crossed above 30 at midday (41.40) with strong volume, creating the exact setup we watch for. But FOMC blackout blocked action. AVGO then continued to rally into close (~$395–400). Correct: wait for June 18 re-entry confirmation rather than breaking blackout for a same-day setup.
+3. **NVDA held above 50-day MA all session.** The setup is intact. $211.02 close vs $203–205 MA = +3.2% above. Not over-extended; RSI likely in the 50–60 range.
+
+### What Didn't Work / Opportunity Cost
+
+- **Today's alpha:** -1.74% (SPY +1.74%, portfolio flat). Expected — FOMC blackout is the reason.
+- **Cumulative alpha from Jun 10 inception (~$737):** ~-1.90% (SPY closed ~$751 = +1.90% from $737; portfolio 0.00%). This is the total cost of being in cash during the Iran deal resolution rally. It's recoverable with one good NVDA/AVGO swing trade.
+- **SPCX:** Continued to rise ($177.99 Day 5 vs $171.72 Day 5 open), above analyst consensus mean of $164. The stock is NOT dipping — it's appreciating. This is actually fine for now (still need 20+ trading days for MA formation before entry); monitor for pullback setups in 2–3 weeks.
+
+---
+
+### Critical Development: BTC Fear & Greed = 20
+
+**Crypto Fear & Greed Index reached 20 at EOD — AT the entry trigger threshold.**
+
+Per strategy rules (CLAUDE.md Crypto section):
+- Entry signal: F&G crossing BACK ABOVE 20 = "watch for reversal"
+- Current: AT 20 (not yet confirmed above, need a reading of 21+)
+- BTC: $65,695 (+2.08% today on Iran peace news)
+
+**Action June 18:** Check F&G first thing. If F&G is at 21+, this is the first viable crypto entry signal since inception. Rule: VIX < 20 + F&G > 20 + broad market NOT in selloff = consider BTC entry (max 3% portfolio = $7.50).
+
+---
+
+### ACN (Accenture) — June 18 Pre-Market Earnings Watch
+
+ACN reports Q3 FY2026 on **June 18 at 9:30 AM ET** (same time as market open).
+- Revenue estimate: $18.78B, EPS estimate: $3.72
+- Key metric: AI consulting bookings converting to revenue (record Q2 bookings of $22.1B)
+- ACN stock down ~46% from 52-week high — very depressed valuation
+- **Implication for NVDA thesis:** If ACN confirms robust enterprise AI spending in bookings/revenue, it validates the "AI capex cycle is real" thesis that supports NVDA at premium valuations
+
+**Strategy rule:** Do NOT enter ACN itself on earnings day. But use the reaction as a leading indicator:
+- ACN BEATS + confirms AI bookings → bullish for NVDA/semis → proceed with NVDA entry June 18
+- ACN MISS + pulls AI spending guidance → cautionary signal → reduce NVDA size or wait one more day
+
+---
+
+### June 18 Pre-Entry Master Checklist
+
+One shot at trading this week. Run at 9:25 AM ET June 18:
+
+| # | Check | Target | Pass/Fail |
+|---|-------|--------|-----------|
+| 1 | VIX at open | Below 20 | TBD |
+| 2 | FOMC reaction (from June 17) | Hold + neutral/dovish Powell | TBD |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | ~$211 heading in — favorable |
+| 4 | AVGO at 50-day MA (~$397) | Within 5% | ~$395–400 heading in — favorable |
+| 5 | SPY direction at open | Flat-to-up | TBD |
+| 6 | ACN earnings reaction | Neutral-to-positive | TBD |
+| 7 | Crypto F&G | Above 20 (optional) | 20 at EOD — close |
+
+**Primary trade June 18 (if all pass):**
+- BUY NVDA: $12.50 (5% portfolio), entry ~$211–215, stop ~$196–200 (-7%), target $243–247 (+15%), R:R ~2.1:1
+- **Secondary trade June 18 (if AVGO confirms):**
+- BUY AVGO: $12.50 (5% portfolio), entry ~$397–400, stop ~$369–372 (-7%), target $457–460 (+15%), R:R ~2.1:1
+- Total deployed if both: $25 (10% of portfolio). Remaining cash: $225 (90% — well above $50 floor) ✓
+- **Optional third trade (if BTC F&G > 20):**
+- BUY BTC/USD: $7.50 (3% portfolio), entry ~$65,700–66,000, stop ~$61,100 (-7%), target ~$75,550 (+15%)
+
+**Hawkish FOMC scenario (if VIX spikes >20 June 18):** Hold all cash. Revisit June 20+ for entry.
+
+---
+
+### What to Watch Tomorrow (June 16 — FOMC Day 1)
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | FOMC Day 1 begins | No rate decision until June 17 2pm ET. Watch for any pre-meeting Fed leaks (rare in blackout). |
+| **HIGH** | Iran deal monitoring | Signed/unsigned still matters. Ceremony June 19. Any collapse → oil spike → VIX rebounds. |
+| **HIGH** | NVDA price action | Watching for any slip below 50-day MA. Must hold $203–205. |
+| **MEDIUM** | AVGO follow-through | Does AVGO hold at/near 50-day MA $397? Or does it pull back to $380s? |
+| **MEDIUM** | Crypto F&G | Did F&G break above 20 or fall back? Track daily. |
+| **LOW** | Semiconductor sector | AMD, MU strength continuing? Sector breadth signals. |
+
+---
+
+### Portfolio Status (End of Day — June 15)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| SPY today | ~+1.74% (close ~$751) |
+| Today's portfolio alpha | -1.74% (FOMC blackout — unavoidable) |
+| Cumulative alpha (from Jun 10 open ~$737) | **~-1.90%** (SPY +1.90%; portfolio 0.00%) |
+| Day trades used (rolling 5-day) | 0 of 3 |
+| Open positions | 0 |
+| Cash floor check | $250 >> $50 minimum ✓ |
+| Alpaca API status | **Network-restricted** — Zack must confirm API access before June 18 trade execution |
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-15 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
