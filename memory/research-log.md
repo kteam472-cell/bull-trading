@@ -45,6 +45,166 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-16 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3 — NO PDT WARNING (new rolling window)
+
+---
+
+### ⚠️ FOMC BLACKOUT IN EFFECT — NO TRADES TODAY OR TOMORROW (JUNE 17)
+
+**FOMC meeting: June 16–17 (Tue–Wed).** Strategy rule: no new positions 5 calendar days before FOMC. Today = FOMC Day 1 (meeting opens), still fully in blackout. Rate decision: June 17 ~2:00 PM ET, Warsh press conference ~2:30 PM ET. **First entry window: Thursday June 18.** June 19 (Juneteenth) = markets CLOSED + Iran deal signing in Switzerland.
+
+**This week's trading window: Thursday June 18 is the ONLY viable trading day.**
+
+---
+
+### Market Regime
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **16.20** (-1.48 from June 15 EOD 17.68) | **BEST READING SINCE ACCOUNT INCEPTION — OFFENSE MODE deepening** |
+| SPY pre-market | ~$750.70 (June 15 close ~$751) | Essentially flat overnight — holding gains |
+| ES futures | **+1.22%** | Strong bullish momentum into FOMC Day 1 |
+| FOMC hold probability | 98% (no rate change) | Markets fully priced — no surprise risk on decision itself |
+| Warsh tone expectation | Neutral-to-hawkish | Zero cuts expected 2026; first cut Goldman projects 2027+ |
+
+**Net regime:** VIX 16.20 is the deepest OFFENSE reading of the account lifecycle. Below 17 is approaching "calm" territory on the long-term VIX distribution. Macro backdrop for June 18 entry remains the strongest since inception. The FOMC is the only remaining gating factor — and the probability of a hawkish surprise large enough to spike VIX >20 is very low given oil deflation (WTI ~$80), improving inflation trend, and already-priced hawkish base case.
+
+---
+
+### FOMC Intelligence (June 17 Rate Decision)
+
+| Factor | Detail |
+|--------|--------|
+| Decision | Hold at 3.50–3.75% — 98% probability |
+| Warsh style | Milton Friedman-style inflation hawk (sworn in May 22, 2026) |
+| Core CPI | 2.9% — elevated; no room for cuts |
+| Core PPI | 3.1% — multi-month high |
+| Iran oil impact | WTI -5% to $80 = CPI tailwind; incrementally dovish on inflation |
+| Retail Sales (May, Jun 17) | Expected +0.1% — consumer resilience key read |
+| Jobless Claims (Jun 18) | Expected ~245K in-line |
+| Housing Starts (Jun 16) | Pending release today |
+| Goldman Sachs | Abandoned 2026 cuts — expects 2027+ |
+
+**Key risk:** If Warsh dot plot moves cuts further out (from late 2027 to 2028), markets could reprice hawkishly — VIX spike possible. However, even this scenario would be partially cushioned by oil deflation narrative. Baseline: Warsh holds + sounds firm on data-dependence = VIX stays flat-to-lower. June 18 entry plans intact.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted (same as all prior sessions)
+
+---
+
+### Overnight News Review
+
+| Ticker / Topic | Overnight Development | Impact |
+|---------------|----------------------|--------|
+| NVDA | No adverse overnight news. Closed $211.93 June 15 (above 50-day MA). Analysts Strong Buy, $298.93 avg target. | ✅ Setup intact |
+| AVGO | Closed $393.94 June 15. No major news. Slight pullback from $395–400 zone. | ✅ Setup intact (confirm RSI at open June 18) |
+| MSFT | Trading $399.76. Build 2026 AI narrative: "Agents are new OS for work." Copilot agents launching across Office 365 late June. Azure AI infrastructure re-engineered. 53 analysts Strong Buy. Price near/just below 50-day MA (~$402–411 estimate). | 🟡 POTENTIAL NEW SETUP — needs MA confirmation |
+| QCOM | Trading $136.20. **17% BELOW 50-day MA ($163.26).** Technical structure broken. | ❌ Not valid entry — too far below MA |
+| SPCX | $177.99 (Day 5 = June 15). Day 6 today. IPO 5-day rule expired, but strategy requires 20-day price range before entry (~90 trading days). No entry before ~September 2026. | ❌ FOMC blackout + 20-day MA rule both block entry |
+| AAL | $15.43 (June 15). Extended above 50-day MA. | ❌ Extended — wait for pullback |
+| RTX | $179.54 (June 16). DROPPED below 50-day MA $181.42 again (from $183.53 June 13 close). CEO net-selling $56M remains red flag. | ❌ PASS — below MA + insider selling |
+| BTC/USD | ~$66,304. Fear & Greed: **Extreme Fear** (reading ~15–18 per multiple sources). Did NOT confirm above 20 since June 15 EOD reading. | ❌ F&G not yet above 20 trigger |
+| Iran deal | Stable. Signing ceremony June 19 Switzerland confirmed. Timeline dispute on enrichment (US 20yr, Iran 10yr) unresolved but political commitment intact. No overnight collapse risk. WTI ~$80/bbl. | ✅ Geopolitical tailwind intact |
+
+---
+
+### Earnings Calendar (June 16–18)
+
+| Date | Ticker | Relevance | Signal |
+|------|--------|-----------|--------|
+| Jun 16 (today) | None on watchlist | — | Clear |
+| Jun 17 (FOMC day) | KMX (CarMax) — pre-market | Not relevant | Ignore |
+| Jun 17 | FOMC Decision + Warsh | **CRITICAL** | Tone determines June 18 entry confidence |
+| Jun 18 | **ACN (Accenture)** — pre-market | Enterprise AI spend signal for NVDA thesis | Watch reaction: beat + AI bookings = go; miss = reduce NVDA size |
+| Jun 18 | KR (Kroger) | Not relevant | Ignore |
+| Jun 19 | Juneteenth — CLOSED | — | No trading |
+
+---
+
+### Backlog Review — Stale Tickers
+
+All watchlist tickers were last researched June 15 (1 day ago) — none stale (>7 days). No emergency refreshes needed.
+
+**New findings on MSFT (adding as formal pre-analysis):**
+- Price: $399.76 (June 16 pre-market)
+- 50-day MA: ~$402–411 (range from different sources; GuruFocus: $398.84 as of May 15, implies current MA ~$405–410 as price drifted down)
+- **MSFT appears 1–5% BELOW its 50-day MA** — broken technical structure, similar to AVGO's prior situation
+- BUT: RSI likely oversold given ~11% drop from $450 early-June high
+- Microsoft AI narrative extremely strong (Copilot agents = revenue monetization event)
+- Strategy rule: Need either RSI < 30 then cross back above 30, OR price to reclaim and hold 50-day MA
+- **Action for June 18:** Check MSFT RSI at open. If RSI < 30 and recovering, and stock approaching 50-day MA from below — valid secondary entry. If RSI already >45, setup is not clean.
+
+**QCOM update:**
+- Price $136.20 vs 50-day MA $163.26 = **-17% below MA** — this is not a bounce setup, this is a broken stock
+- Need to understand WHY QCOM is -17% from MA. This level of underperformance vs peers (AMD +40% from MA) = company-specific issue, not sector rotation
+- Decision: **REMOVE from near-term watchlist.** Keep in monitor list only. Re-add if a specific catalyst repairs the thesis.
+
+---
+
+### Trade Ideas — June 18 Priority Queue
+
+**All trades blocked until June 18 (post-FOMC). Execute only if VIX < 20 at 9:30 AM open June 18.**
+
+| Priority | Ticker | Setup | Size | Entry Zone | Stop | Target | R:R |
+|----------|--------|-------|------|-----------|------|--------|-----|
+| #1 | **NVDA** | 50-day MA sustained uptrend above MA | $12.50 | ~$211–215 (market open) | ~$196–200 (-7%) | $243–247 (+15%) | ~2.1:1 |
+| #2 | **AVGO** | RSI bounce from oversold + near 50-day MA | $12.50 | ~$393–400 (confirm RSI at open) | ~$366–372 (-7%) | $452–460 (+15%) | ~2.1:1 |
+| #3 | **MSFT** | RSI oversold bounce (if RSI <30 crossing >30) | $12.50 | ~$399–402 (needs RSI confirm) | ~$371–374 (-7%) | $459–462 (+15%) | ~2.1:1 |
+| Optional | **BTC/USD** | Crypto F&G oversold reversal | $7.50 | ~$66,000–67,000 | ~$61,400 (-7%) | ~$76,000 (+15%) | ~2.1:1 |
+
+**Maximum deployed June 18 scenario (all 3 stocks + BTC):** $37.50 + $7.50 = $45. Portfolio cash = $205.00 >> $50 floor ✓
+**More conservative (NVDA + AVGO only):** $25 deployed. Cash = $225.00 ✓
+
+**Pre-entry checklist for June 18 at 9:25 AM:**
+
+| # | Check | Target | Status (as of June 16) |
+|---|-------|--------|------------------------|
+| 1 | VIX at open | Below 20 | 16.20 heading in — **extremely favorable** |
+| 2 | FOMC reaction (from June 17) | Hold confirmed + not aggressively hawkish | TBD — Warsh press conference June 17 2:30pm |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | $211.93 — above ✓ |
+| 4 | AVGO price | Within 5% of 50-day MA | $393.94 ≈ 7% below $422.9 MA — needs RSI confirm |
+| 5 | SPY direction at open | Flat-to-up | ES +1.22% today — bullish setup |
+| 6 | ACN earnings reaction | Neutral-to-positive (AI bookings) | TBD — reports June 18 pre-market |
+| 7 | Crypto F&G | Above 20 (optional) | Extreme Fear — below trigger; skip BTC if still <20 |
+
+**Hawkish FOMC scenario (if VIX spikes >20 on June 17 close or June 18 open):** Hold ALL cash. Wait for VIX to return to <20 before any entry.
+
+---
+
+### Seasonal Context
+
+- **June historical:** Avg S&P return 0.0% — weakest non-summer month. BUT individual catalysts can override.
+- **Current tailwinds overriding seasonal weakness:** Iran deal (geopolitical premium removed), AI capex cycle (NVDA/semis structural demand), oil deflation (CPI tailwind → dovish lean)
+- Seasonal headwinds matter less when multiple macro catalysts align on same side
+
+---
+
+### Portfolio Status
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha (approx) | ~-1.90% (SPY ~$751 vs Jun 10 $737 inception; portfolio flat $250) |
+| Alpaca API | Network-restricted — Zack must confirm API access for June 18 trade execution |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-15 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
