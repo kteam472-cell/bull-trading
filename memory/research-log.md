@@ -375,6 +375,178 @@ Even if a perfect setup triggered this morning (which it would — VIX 16.20, ES
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-16 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT IN EFFECT — NO TRADES TODAY OR TOMORROW (JUNE 17)
+
+**FOMC meeting: June 16–17 (Tue–Wed).** Day 1 in progress. Rate decision: June 17 ~2:00 PM ET, Warsh press conference ~2:30 PM ET. **First entry window: Thursday June 18.** June 19 (Juneteenth) = markets CLOSED + Iran deal signing in Geneva.
+
+---
+
+### Market Regime — Midday Update
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **16.20** | **OFFENSE — unchanged from pre-market; deepest OFFENSE of account lifecycle** |
+| S&P 500 | +0.13% on day | ES gap-up (+1.68% pre-market) faded; market holding steady ahead of FOMC |
+| SPY (prev close Jun 15) | **$754.83** | More precise than prior ~$751 estimate; ~+2.44% from $737 inception |
+| Nasdaq | +0.02% | Essentially flat — tech sector mixed, MSFT offsetting NVDA weakness |
+| FOMC Day 1 | In session | No rate decision today; no leaks from blackout |
+
+**Net regime:** VIX 16.20 is sustained and unchanged. The ES pre-market gap-up (+1.68%) faded after open — market consolidating gains ahead of tomorrow's FOMC decision. This is normal behavior ahead of a Fed meeting: risk appetite slightly muted until Warsh speaks. For June 18 entry, a flat consolidation day is perfectly acceptable — it prevents NVDA/AVGO from running too far above entry levels before we can act.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted — same as all prior sessions.
+
+---
+
+### Watchlist Midday Update (June 16)
+
+| Ticker | Midday Price | 50-Day MA | Status | Change from Morning |
+|--------|-------------|-----------|--------|---------------------|
+| NVDA | $209.44 (range $208.53–$212.44) | ~$203–205 | **ABOVE ✓** (-1.42% from $211.93 prev close) | Slight pullback from open — NORMAL consolidation day pre-FOMC. **Setup intact: still above 50-day MA by +2.2%.** $25B bond catalyst unchanged. |
+| AVGO | $394.82 (range $388.60–$396.82) | ~$397 | Just below 50-day MA (-0.5%) | Essentially unchanged from pre-market note of $394.82. At/near MA zone. RSI likely 40–45 range (cooling from 41.40 on June 15). |
+| MSFT | $400.07 (range $392.85–$401.75) | ~$405–410 | Below 50-day MA; +2.39% today | **New development:** MSFT up +2.39% today (prev close $399.76). Opening at $396.65 then rallying to $400.07 = 1.3% below 50-day MA ($405–410). Still not at 50-day MA or RSI trigger, but moving in right direction. |
+| BTC/USD | ~$66,000 | — | F&G: **31** (Fear zone, above 20 threshold) | F&G confirmed above 20 threshold. Crypto entry technically live for June 18 if F&G holds. |
+| SPCX | Post-IPO Day 6 | N/A | IPO rule expired; 20-day MA rule still blocks | No entry until 20-day MA forms (~September 2026). |
+
+---
+
+### KEY DATA RELEASE: Housing Starts May 2026 (12:30 PM ET)
+
+**Result: -15.4% MoM — housing starts fell to 1.177M (seasonally adjusted annual rate)**
+- Prior April: 1.392M revised
+- Consensus expectation: slightly lower than April (modest decline)
+- **Actual: MISSED BADLY — lowest since May 2020**
+
+**Breakdown:**
+- Single-family starts: 882,000 (-1.9% MoM) — relatively contained
+- Multi-family (5+ units): 284,000 — collapsed (the volatile component driving the headline miss)
+- Building permits: 1.413M (-0.7% MoM) — modest decline; permits still solid = forward activity not alarming
+- Completions: 1.313M (-8.1% MoM)
+
+**Market impact assessment:**
+| Perspective | Analysis |
+|-------------|----------|
+| Housing stocks | Bearish — confirms weakness in residential construction |
+| Rate-sensitive assets | Mixed — weak housing = economic slowdown signal → potential dovish lean |
+| FOMC implication | Slightly dovish: Warsh may acknowledge housing weakness. But core CPI (2.9%) and PPI (3.1%) remain the dominant inflation reads. Housing doesn't change rate decision (hold at 3.50–3.75% still 98% probability). |
+| Tech/AI thesis | **NEUTRAL** — housing weakness doesn't impair AI capex cycle thesis |
+| June 18 entry plan | **UNCHANGED** — housing miss is noise relative to FOMC decision outcome |
+
+**Assessment:** Housing starts miss is a real data point but not market-moving for our positions. Multi-family volatility explains most of the swing. Single-family (less volatile) only down -1.9%. Permits still healthy. Net: slightly dovish on margin, does not disrupt NVDA/AVGO thesis.
+
+---
+
+### Iran Deal — MOU Signed Electronically
+
+**Upgrade from "COMPLETE" to SIGNED (MOU):**
+
+Parliament Speaker Mohammad Bagher Ghalibaf signed the document for the Iranian side. The MOU has been signed electronically by both sides.
+
+| Detail | Update |
+|--------|--------|
+| Previous status (Jun 15) | "COMPLETE" per Trump announcement |
+| Current status (Jun 16) | **MOU signed electronically by both sides** |
+| Signing ceremony | Still scheduled June 19, Geneva, VP Vance attending |
+| Funding dispute | Iran: wants $12B of frozen $24B before negotiations; US: no money until compliance verified |
+| Hormuz status | Reopening authorized per deal terms |
+| WTI impact | WTI still ~$80/bbl; funding dispute has not reversed oil move |
+
+**Risk assessment:** Funding dispute is a complication but not a deal-breaker. Both sides have signed the MOU — the political commitment is more formalized than yesterday. The funding dispute is a downstream negotiation issue, not an exit from the deal framework. **Geopolitical risk premium remains fully removed.**
+
+---
+
+### FOMC Day 1 — No Surprises
+
+Warsh's first FOMC meeting is in session. Key markers:
+- No rate decision today (decision June 17 2pm ET)
+- FOMC blackout = no Fed speak, no leaks expected
+- Market behavior: flat consolidation (S&P +0.13%) = healthy pre-FOMC positioning
+- Dot plot expectations: June SEP likely to show no 2026 cuts (Goldman: first cut 2027+)
+- **Watch tonight:** Any unusual market reactions or leaks that could signal FOMC bias
+
+**Impact on June 18 plan:** No change. FOMC Day 1 proceeding normally. Warsh's track record = hawkish on inflation but data-dependent. Hold at 3.50–3.75% is essentially certain. The risk is tone (dot plot removal of 2026 cut), not the rate decision itself.
+
+---
+
+### Cumulative Alpha Update
+
+| Field | Value |
+|-------|-------|
+| SPY June 15 close (confirmed) | **$754.83** |
+| SPY June 16 midday | ~$755.83 (est., +0.13% on day) |
+| SPY change from Jun 10 inception (~$737) | ~+2.55% |
+| Portfolio | $250.00 (0.00% return) |
+| Cumulative alpha | **~-2.55%** |
+| Opportunity cost this week | ~-2.55% total since inception (FOMC blackout + prior wait discipline) |
+
+Note: Prior research-log estimate of "-3%+" was based on ES futures +1.68% at open; actual market is only +0.13% today, so the cumulative drag is ~2.44–2.55% not 3%+. The gap is recoverable with one successful NVDA or AVGO swing.
+
+---
+
+### June 18 Pre-Entry Checklist — Midday Status
+
+| # | Check | Target | Midday Status (Jun 16) |
+|---|-------|--------|------------------------|
+| 1 | VIX at open | Below 20 | **16.20 — EXTREMELY FAVORABLE ✓** |
+| 2 | FOMC reaction | Hold + neutral/dovish Warsh | TBD — June 17 2pm ET |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | **$209.44 — above by +2.2% ✓** |
+| 4 | AVGO price | Within 5% of 50-day MA | **$394.82 — 0.5% below MA ✓** |
+| 5 | SPY direction at open | Flat-to-up | ES faded today; TBD June 18 |
+| 6 | ACN earnings reaction | Neutral-to-positive | TBD — reports June 18 pre-market |
+| 7 | Crypto F&G | Above 20 | **31 — confirmed above threshold ✓** |
+
+**5 of 7 items confirmed. Items 2 (FOMC) and 6 (ACN) pending.**
+
+New considerations for June 18:
+- **MSFT** emerging as potential 3rd equity position. Up +2.39% today but still ~1.3% below 50-day MA. If FOMC is dovish and MSFT continues moving up, RSI could reach the zone by June 18. Check at 9:25 AM June 18.
+- **Housing Starts miss** is a dovish signal that incrementally improves FOMC tone probability. Strengthens June 18 entry thesis.
+
+---
+
+### No New Opportunities
+
+**Three-filter check:**
+
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime | ✅ PASSES | VIX 16.20 — OFFENSE MODE |
+| Macro events | ⚠️ FOMC BLACKOUT | No entries today or June 17 |
+| Individual setups | ✅ Multiple valid for June 18 | NVDA, AVGO, potential MSFT |
+
+FOMC blackout remains absolute. No action regardless of setup quality.
+
+---
+
+### Portfolio Status (Midday — June 16)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha | **~-2.55%** (SPY ~+2.55% from $737 Jun 10 inception; portfolio flat 0.00%) |
+| Alpaca API | Network-restricted — unchanged |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-15 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
