@@ -205,6 +205,176 @@ All watchlist tickers were last researched June 15 (1 day ago) — none stale (>
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-16 08:30 ET — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT IN EFFECT — NO TRADES TODAY OR TOMORROW (JUNE 17)
+
+**FOMC meeting: June 16–17 (Tue–Wed). Day 1 today.** Strategy rule: no new positions 5 calendar days before FOMC. Today = FOMC Day 1 (meeting opened). Rate decision: June 17 ~2:00 PM ET, Warsh press conference ~2:30 PM ET. **First entry window: Thursday June 18.** June 19 (Juneteenth) = markets CLOSED + Iran deal signing in Geneva.
+
+---
+
+### Market Regime
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **16.20** (pre-market; new account inception low) | **DEEPEST OFFENSE READING SINCE INCEPTION** |
+| ES Futures | **+1.68%** at market open | Strong bullish momentum — broad market risk-on |
+| SPY (est.) | ~$761–765 (est. +1.68% from $751 close) | Strong gap-up expected |
+| FOMC hold probability | 98% (hold at 3.50–3.75%) | Markets fully priced — low surprise risk |
+| Warsh tone expectation | Neutral-to-hawkish | Potential policy bias shift narrative; oil deflation cushion |
+
+**Net regime:** VIX 16.20 is the deepest OFFENSE reading of the entire account lifecycle. ES futures +1.68% = strongest pre-market of the week. Broad market is pricing in FOMC hold + Iran deal completion + oil deflation tailwind. All macro stars aligning for the June 18 entry window.
+
+---
+
+### Alpaca API Status
+
+- **Network-restricted** — paper-api.alpaca.markets not in egress allowlist. Cannot verify account balance or positions via API.
+- Using last-known data: $250.00 cash, 0 open positions.
+- No change since last session. Zack must confirm API access before June 18 trade execution.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to verify. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+
+---
+
+### Pre-Market Research Review — June 16 Setup Confirmation
+
+Reviewing June 16 pre-market notes against live market-open data:
+
+| Item | Pre-Market Assessment | Market-Open Update |
+|------|----------------------|-------------------|
+| FOMC blackout | In effect today — NO TRADES | ✓ CONFIRMED — no change |
+| VIX | 16.20 (new inception low) | ✓ CONFIRMED 16.20 |
+| ES Futures | +1.22% | UPGRADED: +1.68% — stronger than pre-market indicated |
+| Market direction | Bullish risk-on | ✓ CONFIRMED — record highs in Dow; S&P, Nasdaq at 1-week highs |
+| Iran deal | Stable, signing June 19 | ✓ CONFIRMED — Geneva signing June 19; VP Vance attending |
+| BTC F&G | Extreme Fear (pre-mkt note: below 20) | **UPGRADED: 31 (Fear zone — ABOVE 20 trigger)** |
+
+**Critical upgrade: BTC Fear & Greed crossed above 20 and reached 31.** The crypto entry signal is now technically live for the first time since account inception. FOMC blackout blocks action today, but **BTC is now a valid entry candidate for June 18** if F&G holds above 20.
+
+---
+
+### Watchlist Status (Market Open — June 16)
+
+| Ticker | Price | 50-Day MA | Status | Entry Notes |
+|--------|-------|-----------|--------|-------------|
+| NVDA | ~$204–212 (data uncertain; closed $211.93 Jun 15) | ~$203–205 | **AT/ABOVE 50-day MA ✓** | **MAJOR CATALYST: $25B bond offering ($85B total demand) = extraordinary institutional confidence signal. Entry thesis STRENGTHENED.** |
+| AVGO | $394.82 (intraday low $388.60, high $396.82) | ~$397 | Just below 50-day MA | RSI bounced from 26; holding near MA. Wait for RSI confirm at open June 18. |
+| MSFT | $399.76 | ~$405–410 | 1–3% below 50-day MA | Still needs RSI < 30 recovery or MA reclaim. June 18: check RSI. |
+| BTC/USD | ~$66,304 | — | F&G **31** (Fear zone — AT/ABOVE 20 trigger) | **CRYPTO ENTRY SIGNAL NOW LIVE** — blocked by FOMC blackout today; valid for June 18. Max $7.50 (3% portfolio). |
+| ACN | — (reports Jun 18 pre-mkt) | — | Earnings June 18 8:00 AM ET | Consensus $18.78B rev / $3.72 EPS; likely beat expected per analyst signals. |
+
+---
+
+### NVDA — MAJOR BULLISH CATALYST (June 16)
+
+**NVDA: $25 Billion Bond Offering Completed — $85 Billion in Total Demand**
+
+Nvidia today completed a landmark bond offering:
+- **$25B raised** (exceeded initial $20B target by 25%)
+- **$85B in total interest** from investors — 4.25x oversubscribed
+- Purpose: refinancing + corporate initiatives (AI infrastructure expansion)
+- **Implication for June 18 entry:** This is the strongest fundamental signal of the entire account lifecycle. Institutional investors are pouring $85B in demand into NVDA bonds. This validates the AI capex cycle thesis at the highest level. A company raising $25B with $85B demand is not a company with a slowing business.
+
+**Updated June 18 NVDA thesis (now stronger):**
+- 50-day MA sustained above or at support ✓
+- AI capex cycle validated by $85B bond demand ✓
+- VIX in deepest OFFENSE regime since inception ✓
+- FOMC hold expected (98%) ✓
+- Iran deal geopolitical risk premium removed ✓
+- ACN earnings (June 18 pre-mkt) expected to confirm enterprise AI demand ✓
+
+---
+
+### BTC/USD — Crypto Entry Signal Now Active
+
+**Fear & Greed Index: 31 (FEAR zone) — above 20 threshold for first time since inception**
+
+Per strategy rules (CLAUDE.md Crypto section):
+- Entry signal: F&G crossing BACK ABOVE 20 = "watch for reversal"
+- Current: **F&G at 31 — signal is LIVE**
+- BTC: ~$66,304 (+0.9% overnight)
+- Market context: broad market strongly risk-on (ES +1.68%), Iran deal complete
+
+**But FOMC blackout blocks any action today or tomorrow.**
+
+**June 18 crypto plan (if F&G remains above 20):**
+- BUY BTC/USD: $7.50 (3% of portfolio)
+- Entry: ~$66,000–67,000 (market order at open)
+- Stop: ~$61,400 (-7% from entry)
+- Target: ~$76,000 (+15%)
+- Condition: VIX < 20 + F&G > 20 + broad market NOT in selloff ✓ (all conditions pre-met pending FOMC)
+
+---
+
+### June 18 Pre-Entry Checklist — UPDATED
+
+One shot at trading this week. Run at 9:25 AM ET June 18:
+
+| # | Check | Target | Status (June 16 market open) |
+|---|-------|--------|------------------------------|
+| 1 | VIX at open | Below 20 | 16.20 pre-market — **EXTREMELY FAVORABLE** ✓ |
+| 2 | FOMC reaction (from June 17) | Hold + neutral/dovish tone | TBD — Warsh press conf June 17 2:30pm |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | ~$204–212 — AT/ABOVE MA ✓; $25B bond = bullish |
+| 4 | AVGO at 50-day MA | Within 5% (~$377–420) | $394.82 — within 0.5% of MA ✓ |
+| 5 | SPY direction at open | Flat-to-up | ES +1.68% today — **VERY BULLISH** ✓ |
+| 6 | ACN earnings reaction | Neutral-to-positive | TBD — reports June 18 8:00 AM ET |
+| 7 | Crypto F&G | Above 20 | **31 — CROSSED THRESHOLD ✓** |
+
+**5 of 7 checklist items are pre-confirmed as of today's session.** June 18 is the highest-probability entry window of the account lifecycle.
+
+---
+
+### Economic Calendar — Remaining Week
+
+| Date | Event | Time | Impact |
+|------|-------|------|--------|
+| Jun 16 (today) | FOMC Day 1 begins | All day | No rate decision until tomorrow |
+| Jun 16 (today) | Housing Starts May 2026 | 12:30 PM ET | Medium — prior: 1,465K units |
+| Jun 17 (Wed) | **FOMC Decision + Warsh Press Conf** | ~2:00 PM / 2:30 PM ET | **CRITICAL — market-moving** |
+| Jun 17 (Wed) | Retail Sales May (est. +0.39% MoM) | 8:30 AM ET | High — already-strong data likely supports |
+| Jun 18 (Thu) | Housing Starts (revised); Jobless Claims | 8:30 AM ET | Medium — first entry day post-FOMC |
+| Jun 18 (Thu) | **ACN earnings pre-market** | 8:00 AM ET | Enterprise AI demand signal — critical for NVDA |
+| **Jun 19 (Fri)** | **JUNETEENTH — MARKETS CLOSED** | — | Iran deal signing in Geneva |
+
+---
+
+### Trade Decision
+
+**NO TRADE — FOMC BLACKOUT IN EFFECT.**
+
+Even if a perfect setup triggered this morning (which it would — VIX 16.20, ES +1.68%, NVDA at MA), the FOMC blackout rule is non-negotiable. The risk of a hawkish Warsh surprise on June 17 creating gap risk cannot be absorbed by a -7% stop on a small account. June 18 is the trade day.
+
+---
+
+### Portfolio Status
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha (approx) | ~-2.5% to -3%+ (SPY est. +1.68% today on top of -1.90% prior; portfolio flat 0.00%) |
+| Alpaca API | Network-restricted |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-15 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
