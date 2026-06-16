@@ -547,6 +547,130 @@ FOMC blackout remains absolute. No action regardless of setup quality.
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-16 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT HONORED — NO TRADES TODAY
+
+FOMC meeting: June 16–17 (Tue–Wed). Zero trading per strategy rule. Rate decision: **June 17 ~2:00 PM ET**, Warsh press conference ~2:30 PM ET. First entry window: **June 18 (Thursday)**. June 19 = Juneteenth (markets CLOSED) + Iran deal signing in Geneva.
+
+---
+
+### What Happened Today
+
+**Market Performance (EOD June 16):**
+- **SPY:** ~$752.64 close (-0.29% on day vs June 15 close $754.83; +2.12% from Jun 10 $737 inception)
+- **Range:** $751.71–$755.44 — tight consolidation band; ES pre-market gap-up (+1.68%) fully faded
+- **VIX:** **16.20** — held ALL DAY unchanged. Down 8.37% vs prior week. Deepest OFFENSE reading of entire account lifecycle.
+- **Nasdaq:** Flat-to-slightly lower; tech/AI names consolidating
+- **NVDA:** ~$212.45 close (-1.7% on day; still above 50-day MA ~$203–205 ✓ — normal pre-FOMC consolidation)
+- **AVGO:** ~$394.82 (range $388.60–$396.82; 0.5% below 50-day MA $397)
+- **MSFT:** ~$399.76–$400.07 (range $392.85–$401.75; approaching 50-day MA ~$405–410)
+- **BTC/USD:** ~$66,304–$66,449 (+0.9%); Crypto F&G: **22** (Extreme Fear — ABOVE 20 threshold ✓)
+- **WTI Crude:** ~$80/bbl (stable; Iran MOU holding)
+
+**Key Developments Today:**
+1. **FOMC Day 1 in session — no rate decision, no leaks.** ES gap-up (+1.68% pre-market) faded entirely. Market consolidated in a tight range — healthy behavior ahead of tomorrow's decision.
+2. **NY Empire State Manufacturing (June):** **5.7 vs 13.9 expected** (prior: 19.6) — major miss. Weakest outlook since 2024. Incrementally dovish signal for FOMC.
+3. **Housing Starts May:** -15.4% MoM (1.177M — lowest since May 2020). Multi-family collapse; single-family -1.9%. Second dovish data point today.
+4. **Iran MOU signed electronically by both parties** (Parliament Speaker Ghalibaf + US side). Stronger formalization than Trump's verbal "complete" announcement June 15. Funding dispute (Iran: $12B upfront; US: compliance-first) is a downstream negotiation issue, not a deal exit. Signing ceremony June 19 Geneva with VP Vance attending confirmed.
+5. **Crypto F&G EOD: 22** — confirmed above 20 threshold through close. BTC entry signal intact for June 18.
+6. **NVDA -1.7% on day** — normal consolidation after $25B bond catalyst. $212.45 close still +4.2% above 50-day MA. Setup fully intact.
+7. **SpaceX (SPCX) +20%** on AI deal announcement — not relevant to Bull positions (IPO rule + 20-day MA rule blocks entry until ~September 2026).
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops triggered. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted — unchanged. Zack must ensure API access before June 18 trade execution.
+
+---
+
+### EOD Position Review — Any Holds to Close?
+
+**No positions to close.** Portfolio 100% cash all day. FOMC blackout blocked all entry regardless of setup quality.
+
+---
+
+### What Worked
+
+1. **FOMC blackout discipline held through Day 1.** Despite VIX at inception-low 16.20 and the most compelling macro setup to date, the rule held. This protects against the binary rate decision tomorrow.
+2. **Watchlist positions consolidated rather than running away.** NVDA -1.7% = still within $208–215 entry zone for June 18. AVGO flat at $394.82 = still within entry zone. Ideal — setups intact and not over-extended.
+3. **Cumulative alpha improved.** SPY -0.29% today → cumulative alpha improved from ~-2.55% (midday) to ~-2.12% from inception. First session where portfolio outperformed SPY (however modestly).
+
+### What Didn't Work / Opportunity Cost
+
+- **Today's alpha:** **+0.29%** (SPY -0.29%, portfolio flat — first outperformance day since inception).
+- **Cumulative alpha from Jun 10 inception:** ~**-2.12%** (SPY +2.12% from $737; portfolio 0.00%).
+- **Empire State Manufacturing miss + Housing Starts miss** confirm economic softening narrative. Both are dovish and incrementally improve the probability of a neutral-to-dovish Warsh tone tomorrow.
+
+---
+
+### June 18 Pre-Entry Checklist — EOD Status
+
+| # | Check | Target | EOD Status (Jun 16) |
+|---|-------|--------|---------------------|
+| 1 | VIX at open | Below 20 | **16.20 — EXTREMELY FAVORABLE ✓** |
+| 2 | FOMC reaction (June 17) | Hold + neutral/dovish Warsh | **TBD — Warsh press conf June 17 2:30pm** |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | **~$212.45 — above by +4.2% ✓** |
+| 4 | AVGO price | Within 5% of 50-day MA | **$394.82 — 0.5% below MA ✓** |
+| 5 | SPY direction at open | Flat-to-up | **TBD — depends on FOMC reaction** |
+| 6 | ACN earnings reaction | Neutral-to-positive | **TBD — reports June 18 pre-market** |
+| 7 | Crypto F&G | Above 20 | **22 — confirmed above threshold ✓** |
+
+**5 of 7 items confirmed.** Items 2 (FOMC) and 6 (ACN) pending.
+
+**Dovish macro stack supporting Warsh neutral tone:**
+- NY Empire State Manufacturing: 5.7 vs 13.9 expected → economic softening ✓
+- Housing Starts: 1.177M (6-year low) → residential slowdown ✓
+- WTI: $80/bbl → oil deflation → CPI tailwind ✓
+- Core CPI: 2.9%, declining trend
+
+Net: multiple dovish signals today increase probability of Warsh holding neutral-to-dovish tone. June 18 entry probability **IMPROVING**.
+
+---
+
+### What to Watch Tomorrow (June 17 — FOMC Decision Day)
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | **FOMC decision + Warsh press conference** | 2:00 PM / 2:30 PM ET. Hold at 3.50–3.75% expected (98%). Watch tone: neutral/dovish → June 18 ON. Hawkish/cuts-pushed-to-2028 → VIX spike watch. |
+| **HIGH** | Retail Sales May (est. +0.39% MoM) | 8:30 AM ET. Beat = consumer resilient; miss = additional dovish signal. |
+| **HIGH** | VIX reaction to FOMC | If VIX holds <18 post-Warsh → FULL OFFENSE June 18. If VIX spikes >20 → hold all cash. |
+| **HIGH** | NVDA/AVGO price action | Must hold above/near 50-day MAs heading into June 18 open. |
+| **MEDIUM** | Iran deal stability | Any collapse before June 19 signing → oil spike → VIX spike. Monitor. |
+| **MEDIUM** | BTC F&G | Must stay above 20 for crypto entry June 18. |
+
+**Hawkish FOMC scenario (if VIX spikes >20 June 17 close or June 18 open):** Hold ALL cash. Wait for VIX to return to <20. Do not force trades.
+
+---
+
+### Portfolio Status (End of Day — June 16)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| SPY today | ~-0.29% (close ~$752.64; prior close $754.83) |
+| Today's portfolio alpha | **+0.29%** (SPY down, portfolio flat — first outperformance day) |
+| Cumulative alpha (from Jun 10 open ~$737) | **~-2.12%** (SPY ~+2.12% from $737; portfolio 0.00%) |
+| Day trades used (rolling 5-day) | 0 of 3 |
+| Open positions | 0 |
+| Cash floor check | $250 >> $50 minimum ✓ |
+| Alpaca API status | **Network-restricted** — Zack must confirm API access before June 18 trade execution |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-15 15:00 ET — PAPER
 
 **Session type:** Market-close routine (3:00 PM ET)
