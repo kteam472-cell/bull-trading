@@ -354,6 +354,147 @@ AVGO dropped from $394.82 (June 16 close) to ~$383.50 at June 17 open (-2.9%). R
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-17 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT — FINAL DAY. RATE DECISION 2:00 PM ET TODAY.
+
+**FOMC Day 2 — in session.** Rate decision 2:00 PM ET, Warsh press conference 2:30 PM ET. Zero new positions per strategy rule. **First entry window: June 18 (tomorrow only — June 19 is Juneteenth, markets CLOSED).**
+
+---
+
+### Market Regime — Midday Update
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **16.11** (up slightly from 15.77 at open; still below 17) | **OFFENSE MODE** — deepest range of account lifecycle; slight uptick is normal FOMC-day uncertainty pricing |
+| S&P 500 | +0.33% on day (7,536; US500) | Holding gains from prior close |
+| Nasdaq | Turned slightly negative ahead of FOMC | Mild FOMC caution rotation — chips recovering from Tuesday's slide |
+| Russell 2000 | Outperforming (+jumping) | Small-cap rotation suggests positioning ahead of FOMC |
+| FOMC hold probability | **97%** | Hold at 3.50–3.75% near-certain; press conference tone is what matters |
+
+**Net regime:** VIX 16.11 — marginally above this morning's 15.77 inception low, still firmly in OFFENSE territory. Slight VIX drift from 15.77→16.11 is standard FOMC-day uncertainty pricing (VIX futures showed ~18.28 earlier this week). Market consolidating normally ahead of 2pm decision. No warning signals in VIX behavior.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted — unchanged all sessions. Zack must confirm API access before June 18 trade execution.
+
+---
+
+### Watchlist Midday Update — June 17
+
+| Ticker | Midday Price | Range | 50-Day MA | Status | Change from Morning |
+|--------|-------------|-------|-----------|--------|---------------------|
+| NVDA | **$208.35** | $205.92–$209.21 | ~$203–205 | **ABOVE MA by +1.6% ✅** | Pulled back from $211.16 open (-1.3%); normal pre-FOMC consolidation. No adverse news. Bond thesis ($25B/$85B demand) intact. Setup valid but entry level tightened. Annual Meeting June 24 announced (routine — no negative impact). |
+| AVGO | **$383.50** | $381.63–$384.32 | ~$397 | **3.4% BELOW MA ⚠️** | Flat from morning; weakness confirmed/sustained. Within 5% threshold still, but RSI trajectory at ~35-38 (not at 30 trigger). June 18 entry: execute only if RSI at or crossing above 30. |
+| MSFT | ~$395–398 (est.) | — | ~$405–410 | **Below 50-day MA ❌** | Still not triggered — needs RSI <30 recovery or MA reclaim. Deprioritized. |
+| BTC/USD | **~$64,940–$65,829** | — | — | F&G: **12–15 (Extreme Fear)** ❌ | Stable/slightly lower; F&G remains collapsed from morning. BTC entry CANCELLED for June 18. |
+
+**NVDA thesis integrity check:** No news that breaks the original thesis. Bond offering ($25B raised, $85B demand) confirmed and unrevised. Annual Meeting June 24 is routine corporate governance. 59 analysts Strong Buy, avg target $298.93. AI capex cycle thesis intact.
+
+---
+
+### AVGO Mid-Morning Assessment
+
+AVGO has been flat since this morning's open ($383.50 unchanged through midday). Price has failed to reclaim the 50-day MA zone ($397), now sitting 3.4% below. RSI likely in the 35–38 range (declining from the June 15 41.40 reading as price fell from $394.82). The oversold RSI bounce signal (<30, cross above) has NOT re-triggered.
+
+**Updated June 18 AVGO entry conditions:**
+- RSI must be at or crossing above 30 at June 18 open → execute AVGO $12.50
+- RSI above 35 and not crossing → SKIP AVGO, concentrate on NVDA only
+- Price zone: $381–390 entry acceptable (no MA chase at current levels)
+
+---
+
+### FOMC Countdown — What Happens at 2pm
+
+The market is in a holding pattern. The rate decision itself (hold) is a non-event (97% priced). What moves markets:
+
+1. **Dot Plot (Summary of Economic Projections):**
+   - Remove 2026 cuts: priced, mild positive reaction
+   - Add explicit 2026 hike language: VIX spike risk
+   - Push cuts to 2027+: neutral-to-slight drag
+
+2. **Warsh press conference language (2:30 PM):**
+   - "Data dependent" + "monitoring" = neutral; VIX holds flat-to-lower
+   - "Inflation risks skewed upward" + "prepared to act" = hawkish; VIX could spike to 18–22
+   - Any mention of "restrictive for longer" = intermediate; VIX 17–19
+
+3. **VIX at June 17 close — THE KEY SIGNAL FOR JUNE 18:**
+   - **VIX < 18:** FULL OFFENSE — NVDA $12.50 + AVGO $12.50 (if RSI confirms)
+   - **VIX 18–20:** NVDA only ($12.50)
+   - **VIX > 20:** HOLD ALL CASH — no trades until VIX returns below 20
+
+---
+
+### No New Opportunities Mid-Morning
+
+**Three-filter check:**
+
+| Filter | Status | Detail |
+|--------|--------|--------|
+| Market regime | ✅ PASSES | VIX 16.11 — OFFENSE MODE |
+| Macro events | ⚠️ FOMC BLACKOUT | Absolute — no entries today |
+| Individual setups | ✅ NVDA, AVGO pre-confirmed for June 18 | Verify at June 18 open |
+
+Chips sector recovering from Tuesday's slide = constructive for NVDA entry tomorrow. No new tickers identified mid-morning. June 18 remains fully loaded with NVDA/AVGO priority.
+
+---
+
+### June 18 Pre-Entry Checklist — Midday Status
+
+| # | Check | Target | Midday Status (Jun 17) |
+|---|-------|--------|------------------------|
+| 1 | VIX at June 18 open | Below 20 | **16.11 now — TBD post-Warsh 2:30 PM ET** |
+| 2 | FOMC reaction (Warsh tone) | Hold + not aggressively hawkish | **TBD — 2:00 PM ET today** |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | **$208.35 — ABOVE by +1.6% ✅ (slightly weakened from morning $211.16)** |
+| 4 | AVGO price | Within 5% of 50-day MA | **$383.50 — 3.4% below $397 MA ⚠️ — also requires RSI >30 confirm** |
+| 5 | SPY direction at open | Flat-to-up June 18 | **TBD — entirely depends on FOMC reaction** |
+| 6 | ACN earnings reaction | Neutral-to-positive | **TBD — reports June 18 8:00 AM ET** |
+| 7 | Crypto F&G | Above 20 | **❌ FAILED — 12–15 (Extreme Fear). BTC entry CANCELLED.** |
+
+**Confirmed: 1 of 7 firm (NVDA above MA). No change from morning.**
+
+---
+
+### Portfolio Status (Midday — June 17)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha (approx) | **~-2.12%** (SPY ~+2.12% from $737 Jun 10 inception; portfolio flat 0.00%) |
+| Alpaca API | Network-restricted — unchanged |
+
+---
+
+### Today's Remaining Priority Queue
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | 2:00 PM — FOMC decision + dot plot | Remove 2026 cut only = moderate reaction. Add hike language = VIX spikes. |
+| **CRITICAL** | 2:30 PM — Warsh press conference | Any explicit 2026 hike signal or "higher for longer" aggressive language → VIX spike → hold cash June 18. |
+| **CRITICAL** | VIX at June 17 close | <18 = FULL OFFENSE June 18. 18–20 = NVDA only. >20 = HOLD CASH. |
+| **HIGH** | NVDA price close | Must close above 50-day MA ($203–205). Current $208.35 = +1.6% above — solid buffer. |
+| **HIGH** | AVGO RSI | Monitor for cross above 30 — if RSI recovers post-FOMC, June 18 AVGO entry re-activates. |
+| **MEDIUM** | BTC F&G | Needs to recover above 20 before June 18 open for entry re-activation (currently cancelled). |
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-16 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
