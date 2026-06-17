@@ -45,6 +45,156 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-17 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3 — NO PDT WARNING
+
+---
+
+### ⚠️ FOMC BLACKOUT — LAST DAY. RATE DECISION 2:00 PM ET TODAY.
+
+**FOMC meeting: June 16–17 (Tue–Wed). Day 2 — rate decision at 2:00 PM ET, Warsh press conference 2:30 PM ET.** Zero new positions today per strategy rule. **First entry window: Thursday June 18 (only trading day this week).** June 19 = Juneteenth (markets CLOSED) + Iran deal signing in Geneva.
+
+---
+
+### Market Regime
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **16.20** (June 16 EOD close — new inception low) | **OFFENSE MODE** — deepest reading of account lifecycle |
+| VIX futures | ~18.28 | Slightly elevated — normal FOMC-day uncertainty premium |
+| ES futures | **+0.28%** | Modestly positive — muted vs June 16 pre-mkt (+1.68%). Market awaiting FOMC. |
+| SPY prev close | $752.64 (June 16) | +2.12% from Jun 10 $737 inception |
+| FOMC hold prob. | **97%** | Hold at 3.50–3.75% near-certain; tone is the variable |
+| Warsh risk | Dot plot — removes 2026 cut, adds 2026 hike? | Hawkish tail risk remains; oil deflation cushion |
+
+**Net regime:** VIX 16.20 sustained. ES futures only +0.28% today (vs +1.68% yesterday) = market is in a holding pattern ahead of the Fed. This is exactly normal FOMC-day behavior. VIX futures premium of ~2 points (18.28 vs 16.20 spot) is standard uncertainty pricing — not a warning signal. Backdrop entering the rate decision is still strongest of account lifecycle.
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted (unchanged all sessions)
+
+---
+
+### Overnight News on Watchlist
+
+| Ticker / Topic | Overnight Development | Impact on June 18 |
+|---------------|----------------------|-------------------|
+| NVDA | Pre-market ~$208–209 (slight pullback from $212.45 June 16 close). No adverse news. Bond offering narrative ($25B / $85B demand) intact. | ✅ Setup intact — above 50-day MA ~$203–205 by +3–4% |
+| AVBO | $394.82 (unchanged from June 16 close). No overnight news. RSI needs confirming at June 18 open. | ✅ Setup intact — near 50-day MA |
+| MSFT | $390–398 range pre-market June 17 ($393.08 midpoint). Still 3–5% below 50-day MA ~$405–410. No RSI trigger yet. | 🟡 Deprioritized — needs RSI < 30 confirm or MA reclaim |
+| BTC/USD | **$65,829** (stable, paused ahead of FOMC). Support: $65,201. Resistance: $66,521. Consolidating tight range. | ✅ F&G at ~22 (above 20 threshold) — crypto entry still live for June 18 |
+| Iran deal | MOU signed electronically by both sides (June 16 confirmed). Financial details emerging: Iran receives sanctions waivers allowing immediate oil sales; other financial incentives deferred. Signing ceremony June 19 Geneva confirmed. | ✅ Geopolitical tailwind fully intact |
+| Retail Sales (May) | **Releasing today at 8:30 AM ET.** April was +0.5% MoM, +4.9% YoY. Consensus: +0.39% MoM. Consumer resilience = dovish-compatible data for FOMC. | Watch: beat = risk-on; miss = additional dovish signal |
+
+---
+
+### Economic Calendar — June 17
+
+| Time (ET) | Event | Consensus | Impact |
+|-----------|-------|-----------|--------|
+| **8:30 AM** | **Retail Sales May 2026** | ~+0.39% MoM | Medium — consumer health signal ahead of FOMC |
+| **2:00 PM** | **FOMC Rate Decision** | Hold 3.50–3.75% (97%) | **CRITICAL** — market-moving |
+| **2:30 PM** | **Warsh Press Conference** | Neutral-to-hawkish | **CRITICAL** — dot plot + tone determines June 18 trade plan |
+
+---
+
+### Earnings Calendar
+
+| Date | Ticker | What to Watch | Signal for June 18 |
+|------|--------|--------------|-------------------|
+| **Jun 18 pre-mkt** | **ACN (Accenture)** | Rev $18.78B, EPS $3.71 (+6.3% YoY); AI consulting bookings; utilization trajectory | Beat + AI bookings = green for NVDA; Miss + AI pullback = reduce NVDA size |
+| Jun 17 pre-mkt | KMX (CarMax) | EPS down ~32% YoY expected | Not relevant to watchlist |
+| Jun 19 | Juneteenth + Iran signing | Markets CLOSED | No trading |
+
+**ACN context:** ACN has beaten Zacks EPS consensus in the trailing 4 quarters, avg. 3.9% upside surprise. June 18 is "the first meaningful scoreboard of the AI consulting era" — three key metrics: operating margin, utilization trajectory, explicit AI revenue attribution. A beat with clear AI spending momentum = strong green for NVDA.
+
+---
+
+### FOMC Scenarios — How This Determines June 18
+
+| Outcome | VIX reaction | June 18 Action |
+|---------|-------------|---------------|
+| **HOLD + Neutral/Dovish tone** (base case 70%+) | VIX drops to 15–16 or holds flat | **FULL OFFENSE** — execute NVDA + AVBO + optional BTC at open |
+| **HOLD + Hawkish dot plot** (removes 2026 cuts / hints 2026 hike) (25%) | VIX spikes to 20–22 | **CAUTION** — size down 50%; NVDA only if VIX below 20 at June 18 open |
+| **Surprise hike or extreme hawkish shock** (<5%) | VIX spikes above 25 | **HOLD ALL CASH** — wait for VIX to return below 20 |
+
+**Decision rule for June 18 at 9:25 AM ET:**
+- VIX < 18: Execute NVDA ($12.50) + AVBO ($12.50) + BTC ($7.50) — total $32.50
+- VIX 18–20: Execute NVDA only ($12.50) — confirm ACN reaction first
+- VIX > 20: HOLD CASH — no trades until VIX recedes
+
+---
+
+### Backlog Review — Stale Tickers Check
+
+All watchlist tickers last researched **June 16** (yesterday) — none stale (>7 days). No emergency refreshes needed.
+
+**New ticker scan for today (1-2 candidates):**
+
+Looking for anything in favorable sectors (mid-expansion tech/AI + consumer discretionary benefiting from Iran/oil deal) with a fresh setup:
+- **AMD:** $496–515 range (June 12 surge +10%). Still 20%+ above 50-day MA. Extended. No entry.
+- **MU (Micron):** Surged 8.73% on June 15 (AI memory demand confirmed). Likely extended. No clean entry.
+- **No new tickers added to watchlist today** — June 18 is already fully loaded with NVDA/AVBO/BTC. Adding more candidates creates execution confusion. Focus is on quality execution of the three existing setups.
+
+---
+
+### June 18 Pre-Entry Master Checklist — Updated Status
+
+Run at 9:25 AM ET June 18. ALL must pass before any order:
+
+| # | Check | Target | Status (June 17 pre-mkt) |
+|---|-------|--------|--------------------------|
+| 1 | VIX at June 18 open | Below 20 | 16.20 heading in — **TBD post-FOMC reaction** |
+| 2 | FOMC reaction (Warsh tone) | Hold + not aggressively hawkish | **TBD — 2:00 PM ET today** |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | **$208–209 pre-mkt — above by +3–4% ✓** |
+| 4 | AVBO price | Within 5% of 50-day MA | **$394.82 — 0.5% below $397 MA ✓** |
+| 5 | SPY direction at open | Flat-to-up June 18 | **ES +0.28% today — TBD at June 18 open** |
+| 6 | ACN earnings reaction | Neutral-to-positive | **TBD — reports June 18 8:00–9:30 AM** |
+| 7 | Crypto F&G | Above 20 | **~22 (Fear) — above threshold ✓** |
+
+**Pre-confirmed: 3 of 7 firm (NVDA, AVBO, BTC F&G). Items 1, 2, 5, 6 pending FOMC + ACN.**
+
+---
+
+### Portfolio Status
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha (approx) | **~-2.12%** (SPY $752.64 Jun 16 close vs $737 Jun 10 inception = +2.12%; portfolio flat) |
+| Alpaca API | Network-restricted |
+
+---
+
+### Today's Priority Queue
+
+| Priority | Action |
+|----------|--------|
+| **WATCH** | 8:30 AM — Retail Sales May (beat = risk-on; miss = dovish signal) |
+| **CRITICAL** | 2:00 PM — FOMC decision (hold expected 97%) |
+| **CRITICAL** | 2:30 PM — Warsh press conference (tone + dot plot) |
+| **HIGH** | Monitor VIX reaction post-Warsh — determines June 18 entry size |
+| **HIGH** | Monitor NVDA + AVBO price action through FOMC reaction |
+| **MEDIUM** | Monitor BTC/USD F&G — must hold above 20 for June 18 crypto entry |
+
+**NO TRADES TODAY — FOMC BLACKOUT IS ABSOLUTE.**
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-16 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
