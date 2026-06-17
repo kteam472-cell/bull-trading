@@ -195,6 +195,165 @@ Run at 9:25 AM ET June 18. ALL must pass before any order:
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-17 08:30 ET — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week:** 0 of 3
+
+---
+
+### ⚠️ FOMC BLACKOUT — LAST DAY. RATE DECISION 2:00 PM ET TODAY.
+
+**FOMC Day 2 — final blackout day.** Rate decision 2:00 PM ET, Warsh press conference 2:30 PM ET. Zero new positions per strategy rule. **First entry window: June 18 (tomorrow).** June 19 = Juneteenth (markets CLOSED) + Iran deal signing in Geneva.
+
+---
+
+### Market Regime — Market Open Update
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **15.77** (NEW INCEPTION LOW — down from 16.20 June 16 EOD) | **DEEPEST OFFENSE READING OF ACCOUNT LIFECYCLE** |
+| S&P 500 (June 16 close) | 7,511.35 (-0.57%) | Modest consolidation ahead of FOMC |
+| SPY (est.) | ~$752–755 | Holding near June 16 close |
+| FOMC hold probability | **97%** | Fully priced — decision not the risk; DOT PLOT IS |
+| December 2026 hike odds | **40%** (futures-implied) | NEW — market pricing hike risk, not cut risk |
+
+**Critical note:** VIX 15.77 is the new account inception low. However, the dominant risk today is the dot plot, not the rate decision. Warsh is expected to ELIMINATE the single 2026 rate cut from the March projections. Inflation is at 4.2% YoY (3-year high), Retail Sales beat today, and 40% market-implied December hike odds. VIX spike to 20+ on the dot plot reaction is credible (~35–45% probability).
+
+---
+
+### Retail Sales May 2026 — 8:30 AM Release (BEAT)
+
+**Result: +0.42% MoM (beat consensus +0.39%) | +7.19% YoY | 8th consecutive month of growth**
+
+| Perspective | Analysis |
+|-------------|----------|
+| Consumer health | Strong — resilient spending despite elevated gas, tariffs, geopolitical headwinds |
+| FOMC implication | **HAWKISH fuel** — strong consumer = no need for Warsh to soften tone |
+| June 18 entry | Neutral-to-slightly-negative — gives Warsh more ammunition for hawkish dot plot |
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to verify. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted (unchanged — paper-api.alpaca.markets not in egress allowlist)
+
+---
+
+### Watchlist Status — Market Open June 17
+
+| Ticker | Open Price | 50-Day MA | Status | Change vs. Prior Note |
+|--------|-----------|-----------|--------|----------------------|
+| NVDA | **$211.16** (+1.8% from prev close $207.41) | ~$203–205 | **ABOVE MA by +3–4% ✅** | Strengthened — setup intact |
+| AVGO | **~$383.50** (range $381–$384) | ~$397 | **3.4% BELOW MA ⚠️** | WEAKENED — dropped from $394.82 (June 16 close). Still within 5% threshold; verify RSI at June 18 open |
+| MSFT | **$395.79** (range $390–$397) | ~$405–410 | **~2.5% BELOW MA ❌** | Not triggered — needs RSI confirm or MA reclaim |
+| BTC/USD | **~$65,829** | — | F&G: **12–15 (EXTREME FEAR)** ❌ | **CRITICAL: F&G COLLAPSED from 22 (June 16) to 12–15 — BELOW 20 THRESHOLD. BTC entry CANCELLED.** |
+| ACN | **~$166.00** | — | Pre-earnings (reports June 18 pre-mkt) | 91.5% beat probability; 15 of 16 prior quarter beats; but stock fell 5.22% after Q2 beat — market wants AI bookings ACCELERATION |
+
+---
+
+### ⚠️ CRITICAL: BTC Entry Cancelled — F&G Collapsed to 12–15
+
+The Crypto Fear & Greed Index dropped from 22 (June 16 close) to **12–15 (Extreme Fear)** today. Strategy rule: entry signal = F&G crossing BACK ABOVE 20. Signal is no longer live.
+
+**BTC/USD entry for June 18: CANCELLED.** Previously planned $7.50 BTC allocation freed up. Total planned June 18 deployment reduced to $25 max (NVDA + AVGO). Will re-evaluate if F&G recovers above 20 before June 18 open.
+
+---
+
+### FOMC Scenarios — Updated Risk Assessment
+
+| Outcome | Probability | VIX reaction | June 18 Action |
+|---------|------------|-------------|---------------|
+| **HOLD + removes 2026 cut only** (removes 1 cut, tone measured) | ~55% | VIX holds 15–18 | **OFFENSE** — NVDA $12.50 + AVGO $12.50 at open |
+| **HOLD + hawkish + "higher for longer" / hike language** | ~35% | VIX spikes 18–22 | **CAUTION** — NVDA $12.50 only; skip AVGO |
+| **Extreme hawkish shock / explicit 2026 hike signal** | ~10% | VIX spikes 23+ | **HOLD CASH** — no trades until VIX returns below 20 |
+
+**Updated probability note:** Hawkish risk elevated vs. prior estimates. Inflation at 4.2% YoY (3-year high), Retail Sales beat today, 40% December hike market pricing, Warsh's known hawk history. Base case shifted from "neutral + hold" to "remove 2026 cut + hawkish hold."
+
+**Decision rule for June 18 at 9:25 AM ET — UPDATED:**
+- VIX < 18: Execute NVDA ($12.50) + AVGO ($12.50, verify RSI at open) — total $25
+- VIX 18–20: Execute NVDA only ($12.50) — confirm ACN reaction first
+- VIX > 20: HOLD CASH — no trades until VIX recedes
+
+---
+
+### AVGO Setup — Updated Assessment
+
+AVGO dropped from $394.82 (June 16 close) to ~$383.50 at June 17 open (-2.9%). RSI has likely pulled back from 41.40 (June 15) toward 35–38 range as price faded. 
+
+**June 18 AVGO entry: Execute ONLY IF RSI is at or crossing above 30 at open.** If RSI below 30 and still falling, skip AVGO — concentrate on NVDA only. Updated entry zone: ~$383–390. Updated stop: ~$356–363 (-7%). Target: ~$441–448 (+15%).
+
+---
+
+### ACN Earnings Preview (June 18 Pre-Market)
+
+| Detail | Data |
+|--------|------|
+| Current price | ~$166.00 (52-week range $155.82–$315.95 — deeply depressed) |
+| Consensus | Revenue $18.78B, EPS $3.72 |
+| Beat probability | **91.5%** (15 of 16 prior quarter beats) |
+| Key risk | Q2 beat but stock fell 5.22% — market wants AI bookings acceleration |
+| Watch | AI bookings growth rate (needs $2.5B+ or triple-digit YoY), guidance revision, margin commentary |
+| Signal for NVDA | Beat + AI acceleration → proceed NVDA/AVGO. Miss → reduce size or wait. |
+
+---
+
+### June 18 Pre-Entry Checklist — Updated Status
+
+| # | Check | Target | Updated Status (June 17 open) |
+|---|-------|--------|-------------------------------|
+| 1 | VIX at June 18 open | Below 20 | 15.77 now — **TBD post-Warsh 2:30 PM ET; hawkish risk elevated** |
+| 2 | FOMC reaction (Warsh tone) | Hold + not aggressively hawkish | **HIGH RISK** — 40% hike odds, dot plot likely removes 2026 cuts — TBD 2:00 PM ET |
+| 3 | NVDA price | Above 50-day MA (~$203–205) | **$211.16 — ABOVE by +3–4% ✅** |
+| 4 | AVBO price | Within 5% of 50-day MA | **$383.50 — 3.4% below MA ⚠️ — weakened but within threshold; verify RSI June 18 open** |
+| 5 | SPY direction at open | Flat-to-up June 18 | TBD — depends entirely on FOMC reaction |
+| 6 | ACN earnings reaction | Neutral-to-positive | TBD — reports June 18 8:00 AM ET; 91.5% beat odds |
+| 7 | Crypto F&G | Above 20 | **❌ FAILED — 12–15 (Extreme Fear). BTC entry CANCELLED.** |
+
+**Confirmed: 1 of 7 firm (NVDA above MA). Items 1, 2, 5 pending FOMC + ACN. Item 4 weakened. Item 7 FAILED.**
+
+---
+
+### Trade Decision
+
+**NO TRADE — FOMC BLACKOUT IS ABSOLUTE (LAST DAY).**
+
+---
+
+### Portfolio Status
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash) |
+| Daily P&L | $0.00 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Open Positions | 0 |
+| Cash Floor Check | $250 >> $50 minimum ✓ |
+| Cumulative Alpha (approx) | **~-2.12%** (SPY ~$752–755 range vs $737 Jun 10 inception; portfolio flat 0.00%) |
+| Alpaca API | Network-restricted — Zack must ensure API access before June 18 trade execution |
+
+---
+
+### Today's Critical Watch Items
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | 2:00 PM — FOMC decision + dot plot | Remove 2026 cut only = moderate reaction. Add hike language = VIX spikes. |
+| **CRITICAL** | 2:30 PM — Warsh press conference | Any explicit 2026 hike signal or "higher for longer" aggressive language → VIX spike → hold cash June 18. |
+| **CRITICAL** | VIX at June 17 close | VIX below 18 = FULL OFFENSE June 18. 18–20 = NVDA only. Above 20 = HOLD CASH. |
+| **HIGH** | NVDA price today | Must hold above 50-day MA ($203–205) through session close. |
+| **HIGH** | AVGO RSI | Monitor for recovery above 30 — needed for June 18 AVGO entry validity. |
+| **MEDIUM** | BTC F&G | At 12–15. Must recover above 20 before June 18 open for entry re-activation (currently cancelled). |
+| **MEDIUM** | Iran deal | Signing ceremony June 19 Geneva. Any collapse → oil spike → VIX spike. Monitor. |
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-16 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
