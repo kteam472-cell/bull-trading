@@ -24,14 +24,14 @@
 
 *Current economic cycle phase assessment*
 
-**Last updated:** 2026-06-17 (Wednesday Pre-Market — FOMC Decision Day)
-**Cycle phase:** Mid-Expansion — Iran deal MOU signed electronically by both sides; oil $80/bbl; AI capex cycle driving semis/tech. Risk-on rotation intact.
-**VIX trend this week:** **16.20** (Jun 16 EOD close — account inception low). VIX futures ~18.28 (FOMC day uncertainty premium — normal). Sustained OFFENSE MODE.
-**Fed:** FOMC rate decision **TODAY at 2:00 PM ET** — 97% probability of hold at 3.50–3.75%. Key risk = Warsh dot plot tone (removes 2026 cut projections / adds hike). Post-FOMC VIX reaction determines June 18 trade size: <18 = full offense; 18–20 = NVDA only; >20 = hold cash.
-**Leading sectors (week of June 16):** XLK/Tech (AI demand; NVDA, AVBO near entry zones), Consumer Discretionary (oil deflation tailwind)
-**Lagging/exit sectors:** XLE (oil $80 = energy premium gone), Defense (RTX back below 50-day MA), Enterprise SaaS (ADBE overhang), QCOM (17% below 50-day MA — company-specific)
-**Macro regime:** Full OFFENSE pending FOMC outcome. BTC $65,829 (F&G ~22 — above 20 threshold ✓). Iran deal signing June 19 confirmed. Retail Sales May reporting today 8:30 AM ET.
-**Sector rotation recommendation:** Mid-expansion playbook (XLK dominant). June 18: NVDA #1, AVBO #2, BTC #3 (optional). Execution conditional on Warsh tone (monitor VIX at June 17 close and June 18 open).
+**Last updated:** 2026-06-18 (Thursday Pre-Market — TRADING DAY / Post-FOMC)
+**Cycle phase:** Mid-Expansion — FOMC held rates (3.50–3.75%), hawkish tone (9/18 members see 2026 hike). Oil ~$79-80/bbl (Iran deal intact). AI capex cycle thesis intact. Duration risk elevated = small-cap headwind; large-cap tech holding.
+**VIX today:** **18.44** (pre-market; ↑ from 16.41 Jun 17 close). CAUTION zone (18-20). Nasdaq futures +0.63% = recovery signal. Open VIX at 9:25 AM ET is the decision trigger.
+**Fed:** FOMC COMPLETE — Warsh delivered hawkish dot plot (removed 2026 cuts, raised PCE to 3.6%, dropped forward guidance). No next FOMC meeting until late July 2026. No new blackout window for ~3 weeks.
+**Leading sectors (week of June 18):** XLK/Tech (Nasdaq futures recovering +0.63%), AI infrastructure. Nasdaq-heavy portfolio favored.
+**Lagging/exit sectors:** Small-caps (Russell 2000 -0.87% after FOMC — higher-for-longer = credit headwind), XLE (oil $79-80 = energy premium removed), Defense (RTX below 50-day MA), QCOM (broken structure).
+**Macro regime:** CAUTION MODE (VIX 18.44 pre-market). BTC F&G 15 (Extreme Fear — crypto CANCELLED). Iran deal signing June 19 = positive backdrop. ACN earnings 8:00 AM = critical enterprise AI spend signal.
+**Sector rotation recommendation:** Mid-expansion playbook (XLK). Today: NVDA only ($12.50) if VIX <20 + ACN neutral/positive. No AVGO at VIX 18.44. No crypto. Monitor AVGO for future re-entry if RSI resets and VIX returns below 18.
 
 ---
 
@@ -44,7 +44,7 @@
 | LEN | Jun 11 ✅ REPORTED | — | — | No | Homebuilder; review if rate picture changes post-FOMC. |
 | **FOMC** | **Jun 16–17 🔴 NO TRADING** | Hold expected (96–98%) | — | — | **FOMC BLACKOUT — no new positions Jun 15–17.** Rate held at 3.50–3.75% expected. Kevin Warsh presser ~2:30 PM Wed Jun 17. Hawkish surprise = VIX spike + defensive pivot. Dovish/neutral = VIX < 18 + full offense launch Jun 18. |
 | KMX | Jun 17 | Bearish | — | No | CarMax — EPS expected down ~32% YoY. Not relevant. |
-| ACN | Jun 18 | Neutral | — | No | Accenture — IT services/consulting. Watch: confirms or denies enterprise tech spending (relevant to MSFT/NVDA thesis). |
+| ACN | **Jun 18 🔴 TODAY 8:00 AM ET** | Neutral | — | No | Accenture Q3 FY2026 — consensus EPS $3.72, Rev $18.78B. 93.75% historical beat rate. Multiple downgrades (MS OW→EW $177; Truist Buy→Hold). Key signal: AI bookings growth ($2.5B+ threshold). Options pricing 7.6% move. **GO/NO-GO signal for NVDA entry today.** |
 | KR | Jun 18 | Neutral | — | No | Kroger — consumer staples. Not relevant. |
 | **—** | **Jun 19 — JUNETEENTH 🔴 CLOSED** | — | — | — | US markets closed. No trading. |
 | KBH | Jun 23 | Neutral | — | No | KB Home — housing. Not relevant to current watchlist. |
