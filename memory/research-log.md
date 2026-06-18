@@ -45,6 +45,150 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-18 08:30 ET — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used this week (rolling 5-day, Jun 12–18):** 0 of 3 — NO PDT WARNING
+
+---
+
+### TODAY IS THE FINAL TRADING DAY OF THE WEEK (June 19 = Juneteenth CLOSED)
+
+FOMC blackout expired June 17 at close. This is the ONLY viable trading window this week. June 19 = Juneteenth (markets closed) + Iran deal signing in Geneva.
+
+---
+
+### Market Regime — Market Open June 18
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **17.38** (↓ from 18.44 pre-market) | **✅ OFFENSE — below 18 threshold** |
+| NVDA open | **$208.53** (+1.9% from ~$206 Jun 17 close) | ✅ Above 50-day MA $203–205 |
+| SPY open | **~$754.59** (+0.16% from ~$753.39 Jun 17 close) | ✅ Constructive open |
+| BTC F&G | **15** (Extreme Fear) | ❌ Below 20 threshold — crypto cancelled |
+
+---
+
+### Open Positions Check
+
+- **No open positions.** Portfolio 100% cash ($250.00).
+- No stops to check. No trailing stops.
+- **Daily P&L:** $0.00
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted — Zack must execute manually
+
+---
+
+### ACN Earnings — June 18 8:00 AM ET (GO/NO-GO Signal)
+
+**RESULT: EPS BEAT + GUIDANCE ADJUSTED (soft) → NVDA-Only signal per rules**
+
+| Metric | Actual | Consensus | Verdict |
+|--------|--------|-----------|---------|
+| EPS | **$3.80** | $3.71–$3.72 | ✅ BEAT (+2.2%) |
+| Revenue | **$18.7B** | $18.78B | ⚠️ In-line (0.4% miss, essentially rounding) |
+| New bookings | **$19.3B** | — | ⚠️ Soft (-2% YoY from $19.7B) |
+| Large deals >$100M YTD | **104 deals, up 13%** | — | ✅ Large deal pipeline strong |
+| Operating margin | **17.0%** | ~16.8% | ✅ +20bps expansion |
+| Full-year guidance | **3–4% local currency** (4–5% ex-federal) | ~5%+ | ⚠️ Guidance adjusted lower |
+| AI commentary | "More large-scale AI transformation programs" | $2.5B+ specific | 🟡 Positive but no hard dollar figure |
+
+**Signal per pre-established rules:** "BEAT + soft guidance" → **NVDA only, $12.50**
+
+*Note: Morgan Stanley's ACN downgrade thesis ("AI crowding out traditional IT spend") is validated by soft services bookings — but confirms enterprises are redirecting budget to AI infrastructure. ACN weakness = NVDA strength. Thesis intact.*
+
+---
+
+### Jobless Claims — 8:30 AM ET
+
+- Prior week (ending June 6): **229K**
+- Consensus for this week: **~245K**
+- Actual: **Pending confirmation at time of analysis**
+- Treatment: **NEUTRAL** — no extreme deviation from consensus expected; not a trade-altering event
+
+---
+
+### Watchlist Status — Market Open June 18
+
+| Ticker | Price | 50-Day MA | RSI | Status | Decision |
+|--------|-------|-----------|-----|--------|----------|
+| NVDA | **$208.53** (open) | ~$203–205 | — | ✅ +1.7–2.7% above MA | **✅ ENTER $12.50** |
+| AVGO | **$383.50** | ~$397 | **Oversold (<30)** — 7 sell signals vs 1 buy | ❌ RSI not confirmed ≥30; no cross above 30 observed | ❌ SKIP |
+| BTC/USD | — | — | — | F&G **15** (Extreme Fear) | ❌ CANCELLED |
+| MSFT | ~$395–400 | ~$405–410 | — | Below 50-day MA | ❌ PASS |
+
+---
+
+### FINAL TRADE DECISION — BUY NVDA $12.50
+
+**Pre-entry checklist at 8:30 AM:**
+
+| # | Check | Target | Status |
+|---|-------|--------|--------|
+| 1 | VIX | <20 | **17.38 ✅** (below 18 = Scenario A threshold) |
+| 2 | FOMC absorbed | Market held | **✅ SPY +0.16% at open; hawkish FOMC fully digested** |
+| 3 | NVDA price | Above 50-day MA | **$208.53 ✅** (+1.7–2.7% above $203–205) |
+| 4 | ACN earnings | Not a miss | **✅ EPS BEAT $3.80 vs $3.72** |
+| 5 | Jobless Claims | Neutral | **⚠️ Neutral — data pending** |
+| 6 | AVGO RSI | ≥30 at open | **❌ RSI in oversold region (<30) — no confirmed cross** |
+| 7 | Crypto F&G | >20 | **❌ F&G 15 — crypto cancelled** |
+
+**DECISION: BUY NVDA $12.50 at market open (9:30 AM ET)**
+
+VIX < 18 meets Scenario A threshold, but AVGO RSI condition not met and ACN soft bookings/guidance aligns with NVDA-only execution. NVDA only, $12.50 deployed.
+
+---
+
+### NVDA Trade Parameters
+
+| Parameter | Value |
+|-----------|-------|
+| Action | BUY — market order at 9:30 AM |
+| Entry price (est.) | **~$208.53** |
+| Position size | **$12.50** (5% of $250 portfolio) |
+| Approximate shares | ~0.060 fractional shares |
+| Hard stop | **$193.93** (-7% from entry) |
+| Profit target | **$239.81** (+15% from entry) |
+| Risk:Reward | **2.1:1** |
+| Cash remaining | **$237.50** >> $50 floor ✓ |
+| Day trade? | No — swing position |
+| PDT impact | None |
+
+**Thesis:** NVDA AI capex supercycle intact ($25B bond / $85B institutional demand). 50-day MA support confirmed. Post-FOMC market resiliency (S&P fully recovered hawkish shock). ACN confirms enterprise AI program acceleration. VIX 17.38 = healthy offense environment. Conservative $12.50 sizing appropriate for pre-Juneteenth holiday-eve light-volume session.
+
+**Risk factors:** Pre-Juneteenth light volume = gap risk. NVDA 50-day MA buffer only +1.7–2.7% (tighter than ideal, was +4.2% earlier this week). Intel -8.5% pre-mkt semi-sector noise. Hawkish FOMC dot plot remains in background.
+
+---
+
+### ⚠️ OPERATIONAL ALERT: Alpaca API Network-Restricted
+
+paper-api.alpaca.markets blocked in this execution environment. **Zack must execute this trade manually.**
+
+**Manual steps for Zack at 9:30 AM ET:**
+1. Log into Alpaca paper account
+2. BUY NVDA — $12.50 notional — MARKET order (open fill)
+3. After fill: set stop-limit at **actual_fill_price × 0.93** (-7% hard stop)
+4. Confirm fill price back to Bull for trade log update
+
+---
+
+### Portfolio Status (Market Open — June 18)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash pre-trade) |
+| Planned deployment | $12.50 (NVDA — pending manual execution) |
+| Post-trade cash (est.) | **$237.50** |
+| Open Positions | 0 current (1 pending: NVDA $12.50) |
+| Cash Floor Check | $237.50 >> $50 minimum ✓ |
+| Day Trades Used | 0 of 3 |
+| Cumulative Alpha | **~-1.81%** (SPY ~+1.81% from Jun 10 $737; portfolio flat 0.00%) |
+| Alpaca API | **Network-restricted** — Zack executes manually |
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-18 — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)

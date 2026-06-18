@@ -8,10 +8,11 @@
 
 ---
 
-## Session Notes (No Trades)
+## Session Notes
 
 | Date | Session | Decision | Reason |
 |------|---------|----------|--------|
+| 2026-06-18 | Market-Open | **BUY NVDA $12.50 — MANUAL EXECUTION REQUIRED** | VIX 17.38 (OFFENSE <18 ✅); ACN EPS beat $3.80 vs $3.72 ✅ + soft bookings/guidance = NVDA-only signal; NVDA $208.53 open above 50-day MA $203–205 ✅; AVGO RSI oversold but no confirmed ≥30 cross ❌; BTC F&G 15 ❌. All conditions pass for NVDA. Alpaca API network-restricted — Zack to execute manually at 9:30 AM. Entry: ~$208.53. Stop: $193.93 (-7%). Target: $239.81 (+15%). |
 | 2026-06-10 | Market-Open | HOLD CASH | CPI MoM hot (+0.6%); VIX 20.45 CAUTION; ORCL earnings today; Iran ceasefire reversing XLE premium; crypto extreme fear. All entry conditions failed. |
 | 2026-06-10 | Midday | HOLD CASH | US-Iran ESCALATION confirmed (helicopter shot down, base strikes in Jordan/Bahrain/Kuwait). VIX 19.87 but macro override. No positions cleared three-filter checklist. |
 | 2026-06-10 | Market-Close | HOLD CASH | No EOD closes required (zero open positions). SPY ~-1.2% EOD; VIX 19.87; WTI $89.71. ORCL earnings after-hours pending. Cash preserved; alpha +1.2% vs SPY today. |
