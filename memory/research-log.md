@@ -45,6 +45,135 @@
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-18 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week (rolling 5-day, Jun 12–18):** 0 of 3 — NO PDT WARNING
+
+---
+
+### TODAY IS THE FINAL TRADING DAY OF THE WEEK (June 19 = Juneteenth CLOSED)
+
+---
+
+### Market Regime — Midday June 18
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **~17.5–18.4** (day range 16.02–18.84; drifting higher in afternoon) | **✅ OFFENSE** — below 20 threshold; approaching caution zone |
+| SPY | **~$754** (range $751.71–$755.44) | Flat session — post-FOMC digestion, holiday-eve low energy |
+| NVDA | **$208.82** (range $206.50–$209.87) | ✅ +0.14% above entry $208.53; above 50-day MA |
+| AVGO | **$408.24** (+6.5% from $383.50 prior close) | MISSED — JPMorgan catalyst; correctly skipped per rules |
+| BTC F&G | **15** (Extreme Fear) | ❌ Below 20 threshold — crypto cancelled |
+| NVDA Volume | **51.6M vs 154M avg** | ⚠️ 33% of normal volume — holiday-eve Juneteenth effect confirmed |
+
+---
+
+### Open Positions Check
+
+- **1 open position (PENDING CONFIRMATION from Zack):** NVDA ~$12.50 @ ~$208.53 entry
+- **Current NVDA price:** $208.82 (+$0.29 from entry, +0.14%)
+- **Hard stop $193.93:** NOT triggered ✓ (current $208.82 is 7.7% above stop)
+- **Trailing stop activation (+10% gain):** NOT reached (need $229.38+)
+- **Daily P&L:** ~+$0.02 unrealized (essentially flat)
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted — Zack must confirm NVDA execution status
+
+---
+
+### NVDA Thesis Integrity Check
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price above 50-day MA ($203–205) | **✅ INTACT** | $208.82 = +1.8% above MA |
+| AI capex thesis ($25B bond, $85B demand) | **✅ INTACT** | No adverse news |
+| New catalyst (midday) | **✅ BULLISH** | IDC confirms NVDA #1 data center Ethernet switching vendor by revenue — first time ever |
+| Volume | **⚠️ LIGHT** | 51.6M vs 154M avg (33% normal) — holiday-eve Juneteenth. Normal for this session. |
+| Stop NOT triggered | **✅ SAFE** | $208.82 >> $193.93 stop (7.7% buffer) |
+| Adverse news | **None** | "Obliterated" headline appears to be stale (from prior week dip, not today) |
+
+**Decision: HOLD NVDA. Thesis intact. No action required.**
+
+---
+
+### AVGO — Missed Opportunity Analysis
+
+AVGO surged +6.5% ($383.50 → $408.24) on multiple catalysts:
+- **JPMorgan raised PT to $580** (from $500); maintained Buy rating
+- **Google TPU delay fears dismissed** — mass production for 2028 remains on schedule
+- **Debt buyback program announcement** — financial confidence signal
+- **Sector momentum** — Apple/Intel partnership boosting semi sentiment
+- **AI infrastructure joint platform** with PE partners (multi-billion dollar)
+
+**Was skipping AVGO at open correct?** ✅ YES — RSI was not confirmed ≥30 at 9:30 AM open per strategy rules. The RSI bounce signal requires RSI to cross ABOVE 30 from oversold, not just be in the oversold zone. Rules were followed correctly.
+
+**The opportunity cost:** Approximately +6.5% on a potential $12.50 position = ~$0.81 unrealized profit missed. This is acceptable — the RSI rule exists to avoid catching falling knives. Many oversold stocks stay oversold.
+
+**AVGO next week:** Now trading ABOVE 50-day MA (~$397) at $408.24 (+2.8%). If it holds above MA on Monday June 23 open and RSI remains constructive (≥50, not overbought), it becomes a valid 50-day MA breakout entry candidate. **Add to watchlist for Monday June 23.**
+
+---
+
+### Daily P&L Check
+
+| Metric | Value | Limit | Status |
+|--------|-------|-------|--------|
+| Unrealized P&L (NVDA) | ~+$0.02 | — | ✅ Tiny gain |
+| Realized P&L | $0.00 | — | N/A |
+| Total daily P&L | ~+$0.02 | -$12.50 | **✅ NOT triggered** |
+
+---
+
+### New Opportunity Scan — Midday June 18
+
+| Ticker | Midday Price | Setup | Status |
+|--------|-------------|-------|--------|
+| AVGO | $408.24 (+6.5%) | Extended — already moved | ❌ Do not chase +6.5% intraday |
+| MSFT | ~$395–400 | Below 50-day MA | ❌ No RSI trigger |
+| SPY/Broad market | ~$754 | Flat, light volume | ❌ Holiday-eve, no new positions |
+| BTC/USD | ~$64,350 | F&G 15 | ❌ CANCELLED |
+
+**No new entries warranted.** Holiday-eve session, light volume, no clean setups at valid entry levels (nothing oversold bouncing; the one quality setup that moved today — AVGO — is now extended).
+
+---
+
+### Seasonal / Calendar Notes
+
+- **June 18 = last trading day of the week** (June 19 = Juneteenth CLOSED)
+- **Holiday-eve effect confirmed:** Volume at 33% of normal (NVDA 51.6M vs 154M avg)
+- **Holiday-eve drift risk:** Markets historically sell off slightly into extended weekends. NVDA position is small ($12.50) — no size adjustment needed.
+- **Next entry window: Monday June 23** — first full trading day of next week
+
+---
+
+### Portfolio Status — Midday June 18
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.02 (NVDA +$0.02 unrealized, if executed) |
+| Cash | ~$237.50 (post-NVDA deployment) |
+| Open Positions | 1 (NVDA ~$12.52 market value; PENDING CONFIRMATION) |
+| Daily P&L | ~+$0.02 |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Cash Floor Check | ~$237.50 >> $50 minimum ✓ |
+| Cumulative Alpha | **~-2.30%** (SPY ~$754 = +2.30% from $737 Jun 10 inception; portfolio ~0.00%) |
+| Alpaca API | **Network-restricted** — Zack must confirm NVDA execution |
+
+---
+
+### Today's Remaining Queue
+
+| Time | Priority | Action |
+|------|----------|--------|
+| All afternoon | HIGH | Monitor NVDA — hold above $193.93 stop |
+| All afternoon | MEDIUM | Watch VIX — if >20, assess NVDA hold (thesis is medium-term, not stop-triggered) |
+| EOD | HIGH | Market-close routine 3:00 PM ET — log final prices, update portfolio |
+| June 19 | — | **Juneteenth CLOSED** — no trading |
+| June 23 | HIGH | First day back — check AVGO RSI for entry; check NVDA trailing stop |
+
+---
+
 ## MARKET-OPEN INTELLIGENCE — 2026-06-18 08:30 ET — PAPER
 
 **Session type:** Market-open routine (8:30 AM ET)
