@@ -12,6 +12,7 @@
 
 | Date | Session | Decision | Reason |
 |------|---------|----------|--------|
+| 2026-06-18 | Market-Close | **HOLD NVDA. No positions closed.** | S&P 500 +1.15% (rebound from FOMC). NVDA $208.48 close (flat vs $208.53 entry; -$0.005 unrealized). Stop $193.93 NOT triggered. AH $206.30 (6.4% above stop). ACN -14.3% validates AI infra thesis. VIX 18.44 (OFFENSE ✅). No EOD closes — thesis intact, Juneteenth weekend ahead. Next trading day June 23. ⚠️ DATA CORRECTION: June 17 SPY close revised to ~$743.53 (-1.21% actual; 3pm estimate of +0.10% was pre-close). Cumulative alpha: ~-2.04%. ⚠️ Alpaca API network-restricted — NVDA position still PENDING CONFIRMATION from Zack. |
 | 2026-06-18 | Market-Open | **BUY NVDA $12.50 — MANUAL EXECUTION REQUIRED** | VIX 17.38 (OFFENSE <18 ✅); ACN EPS beat $3.80 vs $3.72 ✅ + soft bookings/guidance = NVDA-only signal; NVDA $208.53 open above 50-day MA $203–205 ✅; AVGO RSI oversold but no confirmed ≥30 cross ❌; BTC F&G 15 ❌. All conditions pass for NVDA. Alpaca API network-restricted — Zack to execute manually at 9:30 AM. Entry: ~$208.53. Stop: $193.93 (-7%). Target: $239.81 (+15%). |
 | 2026-06-10 | Market-Open | HOLD CASH | CPI MoM hot (+0.6%); VIX 20.45 CAUTION; ORCL earnings today; Iran ceasefire reversing XLE premium; crypto extreme fear. All entry conditions failed. |
 | 2026-06-10 | Midday | HOLD CASH | US-Iran ESCALATION confirmed (helicopter shot down, base strikes in Jordan/Bahrain/Kuwait). VIX 19.87 but macro override. No positions cleared three-filter checklist. |

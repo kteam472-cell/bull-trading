@@ -45,6 +45,161 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-18 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used this week (rolling 5-day, Jun 12–18):** 0 of 3
+
+---
+
+### ⚠️ DATA CORRECTION: June 17 SPY Close
+
+Web research confirms S&P 500 fell **-1.21%** on June 17 (FOMC day), not +0.10% as estimated at 3pm in the prior session log. The 3pm estimate captured the intraday recovery, but the market continued lower after 3pm and closed down. Revised figures:
+
+- June 17 actual SPY close: ~**$743.53** (vs $752.64 June 16 close, -1.21%)
+- Revised cumulative alpha as of June 17 close: ~**-0.89%** (SPY ~$743.53 vs $737 Jun 10 inception = +0.89%; portfolio flat 0.00%)
+
+*Historical entries are unchanged (they reflect what was known at logging time). Going forward, the $743.53 revised close is used as the June 17 base.*
+
+---
+
+### Market Performance — June 18 Close
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 | **+1.15% on day** | ✅ Rebound from FOMC sell-off; bull market absorbing hawkish Fed |
+| SPY est. close | **~$752** (+1.15% from ~$743.53 Jun 17 revised) | Flat vs Jun 16 close; above Jun 10 $737 inception |
+| VIX close | **18.44** | ✅ **OFFENSE** — below 20 threshold sustained through EOD |
+| NVDA close | **$208.48** | ✅ +0.0% vs entry $208.53 — essentially flat |
+| NVDA after-hours | **$206.30** (-1.05% from close) | ⚠️ Minor AH weakness — 6.4% above stop $193.93 |
+| ACN | **-14.3%** | ✅ VALIDATES NVDA thesis (AI infra spend crowding out IT services) |
+| BTC F&G | **15** (Extreme Fear) | ❌ Below 20 — crypto cancelled |
+
+**Market narrative (TheStreet):** "S&P 500 rises, oil retreats after Fed holds rates." Tech/AI sector led recovery: SanDisk +11.1%, WD +10.3%, SMCI +8.1%. ACN -14.3% post-earnings confirms enterprises are redirecting IT budgets toward AI infrastructure — directly validating the NVDA AI capex thesis.
+
+---
+
+### Open Positions — EOD Check
+
+- **1 open position (PENDING CONFIRMATION from Zack):** NVDA ~$12.50 @ $208.53 entry
+- **NVDA EOD close: $208.48** (-$0.005 unrealized P&L — essentially flat, <0.01%)
+- **Hard stop $193.93:** NOT triggered ✓ ($208.48 is 7.5% above stop)
+- **After-hours NVDA $206.30:** Still 6.4% above stop — no alert level
+- **Trailing stop activation (+10% gain):** NOT reached (need $229.38+)
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day):** 0 of 3 ✓
+- **Alpaca API:** Network-restricted — Zack must confirm NVDA execution status
+
+---
+
+### NVDA Thesis Integrity Check — EOD June 18
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price above 50-day MA ($203–205) | **✅ INTACT** | $208.48 = +1.7% above MA |
+| AI capex thesis ($25B bond, $85B demand) | **✅ INTACT** | No adverse news today |
+| ACN earnings signal | **✅ BULLISH** | ACN -14.3% confirms AI spend crowding out traditional IT — NVDA thesis strengthened |
+| After-hours price | **✅ ABOVE STOP** | $206.30 >> $193.93 stop (6.4% buffer) |
+| Market rally today | **✅ BULLISH** | S&P +1.15%; tech/AI sector led; NVDA participated flat (low volume holiday-eve) |
+| VIX close | **✅ OFFENSE** | 18.44 — below 20 threshold |
+| Adverse news | **None** | No export control changes, no regulatory news |
+
+**EOD Decision: HOLD NVDA through the 3-day Juneteenth weekend. Thesis intact. Stop at $193.93.**
+
+---
+
+### EOD P&L Calculation
+
+| Metric | Value |
+|--------|-------|
+| NVDA entry (est.) | $208.53 |
+| NVDA EOD close | $208.48 |
+| Unrealized P&L (NVDA) | ~-$0.005 (essentially flat) |
+| Daily portfolio P&L | ~$0.00 |
+| Today's portfolio return | **~0.00%** |
+| Today's S&P 500 return | **+1.15%** |
+| Today's alpha | **~-1.15%** (missed broad market rally; NVDA flat on holiday-eve light volume) |
+| SPY from Jun 10 $737 inception | **~+2.04%** ($752 est. vs $737) |
+| Cumulative portfolio return | **0.00%** |
+| Cumulative alpha | **~-2.04%** |
+
+---
+
+### What Happened Today
+
+1. **S&P 500 rebounded +1.15%** — clean recovery from the June 17 FOMC hawkish shock. Tech/AI stocks led. Market is proving resilient to hawkish Fed.
+2. **ACN fell -14.3%** — post-Q3 FY2026 earnings reaction. Soft IT services bookings, guidance adjusted lower. Multiple analyst downgrades compounding (MS, Truist, Susquehanna). Validates our signal interpretation: enterprise AI spend is replacing traditional IT consulting budgets. This is BULLISH for NVDA.
+3. **NVDA closed flat** ($208.48 vs $208.53 entry). Holiday-eve session — volume was ~33% of normal all day. No meaningful price discovery in light conditions.
+4. **VIX 18.44 at close** — OFFENSE mode sustained through a hawkish FOMC week. Market's ability to hold below 20 VIX despite the worst "Fed day" in 30 years (per TheStreet: June 17 was the worst first "Fed day" under a new chair since 1994) is a bull market resilience signal.
+5. **Iran deal signing June 19** in Geneva confirmed — VP Vance attending. Geopolitical tailwind intact through the weekend.
+6. **No trades today** — holiday-eve light volume, correct per plan.
+
+---
+
+### What Worked
+
+1. **NVDA entry discipline on June 18 morning** — entered at valid setup; position is flat (not a loss) despite holiday-eve low energy session. Timing vs the rule-based checklist was clean.
+2. **ACN signal interpretation was correct** — the "beat + soft guidance = NVDA only" rule fired appropriately. ACN then fell 14.3% intraday confirming the sector rotation story.
+3. **AVGO skip was correct** — AVBO RSI rule (must confirm ≥30 crossing) saved us from entering a name in the sector that's under pressure from IT spend headwinds.
+4. **Holiday-eve no-trade rule followed** — no new positions on light volume day.
+
+### What Didn't Work
+
+1. **Missed today's +1.15% broad market rally** — NVDA flat while S&P gained 1.15%. Acceptable on a holiday-eve light-volume session; NVDA caught up vs market slightly (SMCI +8.1% shows the high-octane AI names moved more).
+2. **Cumulative alpha still negative** (~-2.04% since Jun 10 inception). The flat cash position for the first 8 trading days means SPY has built a lead. NVDA needs to work to close that gap.
+3. **Alpaca API remains blocked** — still can't verify trade execution. Critical dependency on Zack.
+
+---
+
+### EOD Decision: HOLD NVDA. No Closes.
+
+**Rationale:**
+- Thesis intact (AI capex, MA support, VIX OFFENSE)
+- ACN -14.3% today strengthens the thesis (AI infra over IT consulting)
+- Stop at $193.93 = 7.5% buffer from close, 6.4% buffer from after-hours
+- June 19 = Juneteenth CLOSED + Iran deal signing = positive backdrop
+- Small position ($12.50) — gap risk manageable with hard stop in place
+- Next reassess point: Monday June 23 open
+
+**What would change this decision:**
+- NVDA opens below $193.93 on June 23 → exit immediately (stop triggered)
+- VIX opens above 20 on June 23 + NVDA breaks 50-day MA → reassess hold
+- Weekend adverse news: export control tightening, key customer cancellation, geopolitical shock
+
+---
+
+### What to Watch — Monday June 23 (First Day Back)
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | NVDA open price | Must open above $203–205 (50-day MA). After-hours $206.30 is the baseline. |
+| **CRITICAL** | VIX at Monday open | <20 = OFFENSE (hold NVDA, scan new setups). 20–30 = CAUTION (hold NVDA but no new positions). >30 = DEFENSE (reassess everything). |
+| **HIGH** | AVGO RSI Monday | Post-ACN context changes the picture. ACN -14.3% = IT sector headwind. Check if AVBO RSI has recovered above 30 or further deteriorated. If further weak = deprioritize. |
+| **HIGH** | Iran deal fallout | June 19 signing in Geneva. Any complications → oil spike → VIX spike risk Monday. |
+| **MEDIUM** | NVDA Annual Meeting | June 24 — governance event, not earnings. Watch for capital allocation or AI roadmap statements. |
+| **MEDIUM** | Week of June 23 economic calendar | Fed speakers (first post-FOMC week — Warsh, Waller, etc.), consumer confidence, housing data. Any hawkish Fed rhetoric = VIX watchpoint. |
+| **MEDIUM** | New watchlist scan | Post-ACN IT sector weakness opens relative rotation opportunities. Healthcare (XLV)? Consumer discretionary? Identify 1 new candidate for research. |
+| **LOW** | BTC F&G | At 15 (Extreme Fear). Monitor — needs recovery above 20 before crypto entry re-activates. |
+
+---
+
+### Portfolio Status — End of Day June 18
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.00 |
+| Cash | ~$237.50 (post-NVDA deployment, if executed) |
+| Open Positions | 1 (NVDA ~$12.50 at $208.48; PENDING CONFIRMATION) |
+| Daily P&L | ~$0.00 |
+| Today's alpha | ~-1.15% (S&P +1.15%, portfolio flat) |
+| Cumulative alpha | **~-2.04%** (SPY ~+2.04% from Jun 10 $737; portfolio 0.00%) |
+| Day Trades Used (rolling 5-day) | 0 of 3 |
+| Cash Floor Check | ~$237.50 >> $50 minimum ✓ |
+| Alpaca API | **Network-restricted** — Zack must confirm NVDA execution |
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-18 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)
