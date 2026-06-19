@@ -1,9 +1,47 @@
-# Pending Telegram Message — 2026-06-19 Pre-Market
+# Pending Telegram Messages — Network-Blocked
 
-> Telegram API blocked in execution environment. Message below was intended for Zack (chat_id: 8635221594).
-> **Action required:** Zack to send this or read directly. Then delete this file.
+> Telegram API blocked in execution environment (api.telegram.org not in egress allowlist).
+> **Action required:** Zack to read these directly or send manually. Then delete this file.
+> Fix: Add `api.telegram.org` and `paper-api.alpaca.markets` to network egress allowlist in environment settings.
 
 ---
+
+## EOD Message — 2026-06-19 (Market-Close / Juneteenth)
+
+🐂 Bull EOD — June 19 (Juneteenth, Markets Closed)
+
+📊 PORTFOLIO
+• Total value: ~$250.00
+• Cash: ~$237.50
+• NVDA: ~$12.50 position (AH ~$210.33, above entry $208.53 ✅)
+• Cumulative alpha: -1.32% (SPY +1.32% from $737 inception)
+
+📅 TODAY
+• Markets CLOSED — Juneteenth
+• No trades. No stops triggered.
+• Iran deal SIGNED in Geneva ✅ (VP Vance in person, Trump virtual)
+• NVDA stop at $193.93 SAFE — 8.4% buffer from AH price
+
+⚠️ DATE CORRECTION
+Prior sessions wrote "Next trading: June 23" — WRONG.
+Next trading = June 22 (Monday). June 22 is first day after Juneteenth.
+(Pre-written "June 23" entries in repo were planning notes, not actual session logs.)
+
+📅 WEEK AHEAD (June 22–26)
+• Jun 22 (Mon): First day back — check NVDA open + VIX at open
+• Jun 24 (Wed): NVDA Annual Meeting (9am PT, online) + MU earnings AH
+• Jun 25 (Thu): PCE May — CRITICAL
+  Rule: PCE ≤3.4% → AVGO entry. PCE >3.6% → defense mode (VIX spike risk).
+
+⚠️ STILL NEEDED FROM ZACK
+• Confirm NVDA fill price and stop order at $193.93 in Alpaca paper account
+• Whitelist paper-api.alpaca.markets + api.telegram.org in environment egress settings
+
+All memory files updated and pushed to GitHub.
+
+---
+
+## Pre-Market Message — 2026-06-19 (Juneteenth, earlier today)
 
 🐂 Bull Pre-Market — Fri Jun 19 (Juneteenth)
 
@@ -15,30 +53,24 @@
 • Thesis intact — no adverse weekend news
 • ⚠️ Still need your NVDA execution confirmation, Zack
 
-🌍 IRAN DEAL — Geneva signing in progress TODAY ✅
+🌍 IRAN DEAL — Geneva signing TODAY ✅
 • VP Vance confirmed attending
-• Geopolitical tailwind locked in for Mon Jun 23 open
+• Geopolitical tailwind locked in for June 22 open
 
-📅 NEXT WEEK (Jun 23–27)
-• Mon Jun 23: Reopen + Micron (MU) earnings (AI memory read)
-• Tue Jun 24: NVDA Annual Mtg + Bank stress tests + Fed speakers
+📅 NEXT WEEK (Jun 22–26)
+• Mon Jun 22: Reopen + assess AVGO/NVDA setup
+• Wed Jun 24: NVDA Annual Mtg + MU earnings AH + Bank stress tests
 • 🔴 Thu Jun 25: PCE May — Warsh forecast 3.6%. Hot reading = VIX spike.
   NO new positions before PCE releases.
 
-📈 AVGO — Setup Change
-• +6.5% Jun 18 (JPMorgan PT $500→$580) → now +2.8% above 50-day MA
-• Setup upgraded: RSI bounce → 50-day MA breakout candidate
-• Jun 23 plan: VIX <18 + RSI constructive → BUY $12.50 (half-size; insider selling flag)
+📈 AVGO — Setup
+• +6.5% Jun 18 (JPMorgan PT $580) → now +2.8% above 50-day MA
+• Jun 22 plan: VIX <18 + RSI constructive → BUY $12.50 (half-size; insider selling flag)
+• PCE Thursday = binary risk: consider waiting until post-PCE (Jun 26)
 
-🎯 JUNE 23 OPEN PLAN
-• VIX <18: HOLD NVDA + ENTER AVGO $12.50
-• VIX 18–20: HOLD NVDA only, no new positions
-• VIX >20: DEFENSE — hold cash, reassess everything
-
-📊 Cumulative alpha: ~-2.04% (SPY +2.04% since Jun 10; portfolio flat)
+📊 Cumulative alpha: ~-1.32% (SPY $746.74 actual Jun 18 close vs $737 Jun 10 inception)
 Day trades used this week: 0 of 3
 
-🔐 Alpaca API + Telegram both network-blocked in this execution environment.
-Fix: Add api.telegram.org and paper-api.alpaca.markets to network egress allowlist in environment settings.
+🔐 Alpaca API + Telegram both network-blocked.
+Fix: Add api.telegram.org and paper-api.alpaca.markets to network egress allowlist.
 Please confirm NVDA fill price when you can.
-All memory files updated and pushed to GitHub.
