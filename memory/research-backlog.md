@@ -11,12 +11,13 @@
 | Ticker | Sector | Why on watchlist | Cycle fit | Entry trigger | Last researched | Notes |
 |--------|--------|-----------------|-----------|--------------|----------------|-------|
 | NVDA | Tech/Semis | AI GPU demand structural; 62 analysts Strong Buy, $298.42 avg target (+45.5% upside); Q1 FY27 beat (EPS $1.87 vs $1.78, Rev $81.62B vs $79.2B); Q2 guide $91B > $86.84B consensus | Mid-expansion | **Post-FOMC entry June 18.** VIX < 20 + NVDA holds above 50-day MA ($203.45) + FOMC hold (no hawkish surprise). | 2026-06-17 | **~$208–209** (Jun 17 pre-mkt; June 16 close $212.45). Slight pullback from close — normal FOMC-day consolidation. Above 50-day MA by +3–4% ✓. $25B bond offering ($85B demand) still the primary fundamental catalyst. TOP PRIORITY — execute at market open June 18 if full checklist passes (VIX < 20, FOMC tone neutral, ACN reaction positive). |
-| AVGO | Tech/Semis | Post-earnings dip (−12.59% Jun 4); 48 analyst Strong Buy; CEO reaffirmed $100B AI chip revenue 2027 target; AI rev +143% YoY | Mid-expansion | RSI drops below 30 then crosses back ABOVE 30 (oversold bounce confirmation) + volume above 20-day avg | 2026-06-17 | **$394.82** (Jun 16 close; stable). RSI bounced 26→41 on June 15 — trigger fired but FOMC blocked. At/near 50-day MA region. Confirm RSI (target 40-55 range) and volume at June 18 open. Insider net selling $106M (RED FLAG — use half-size $12.50 if entering). |
+| AVGO | Tech/Semis | Post-earnings dip recovery; +6.5% Jun 18 on JPMorgan PT raise to $580 (from $500); Google TPU delay dismissed; debt buyback program; AI rev +143% YoY; CEO reaffirmed $100B AI chip revenue 2027 | Mid-expansion | **SETUP CHANGED → 50-day MA breakout.** Price $408.24 (+2.8% above 50-day MA ~$397). RSI est. 55-65 (constructive). Monitor: holds above $405 MA zone with volume. Entry June 23 IF VIX <18 + RSI not overbought. | 2026-06-19 | **$408.24** (Jun 18 close; +6.5% on day). JPMorgan raised PT to $580. Setup transformed from RSI bounce → 50-day MA breakout candidate. ⚠️ Insider selling -$106M 90 days = half-size only ($12.50). ⚠️ PCE June 25 = risk event. Entry June 23: VIX <18 + RSI 50-65 + holds $405+ → BUY $12.50. VIX 18-20 → SKIP. |
 | AAL | Airlines/Consumer | Lower oil from Iran deal = fuel cost relief; Starlink Wi-Fi deal (Q1 2027); SAF supply deal; analyst upgrades to $18–24 targets; debt paydown confirmed | Mid-expansion | Pullback to 50-day MA (~$12.62) or consolidation in $13.50–$14.00 zone with volume | 2026-06-16 | **$15.43** (Jun 15). +22%+ above 50-day MA = too extended. CFRA downgraded to Sell ($12 PT). Wait for pullback to $13.50–$14.00 post-FOMC. Not actionable at current price. |
 | SPCX | Space/Technology | Largest IPO in history ($1.77T); Starlink $11.4B revenue (+50% YoY); 10M+ subscribers; $5B FCF projected 2026 | Mid-expansion | Strategy requires 20-day price range established before entry. **Earliest viable entry: ~September 2026** (~90 trading days post-IPO for 50-day MA to form). | 2026-06-16 | **$177.99** (Jun 15, Day 5). Day 6 today. 5-day IPO rule expired after June 15, BUT 20-day price range / 50-day MA formation rule prevents entry until ~September 2026. Morningstar FV $63–75. Park in long-term monitor. |
 | RTX | Defense/Aerospace | Strong fundamentals (revenue +9%, Patriot munitions +40% YoY); Jefferies Buy ($220 PT); defense budgets multi-year structural spend | Late-cycle | Price reclaim AND hold above 50-day MA ($181.42) + volume confirmation + insider selling abating | 2026-06-16 | **$179.54** (Jun 16). DROPPED back below 50-day MA $181.42 again (was $183.53 Jun 13, now $179.54 = -1% below MA). CEO net selling $56M in 90 days persists. Iran de-escalation removes conflict premium. PASS — broken back below MA. |
 | MSFT | Tech/Software/AI | Azure AI cloud growth; Copilot agent monetization (Build 2026: "Agents are new OS for work"); diversified AI exposure less volatile than semis; 53 analysts Strong Buy | Mid-expansion | RSI < 30 then crosses back above 30 (oversold bounce) OR price reclaims 50-day MA with volume | 2026-06-16 | **$399.76** (Jun 16 pre-market). 50-day MA estimated ~$405–410 (down ~11% from $450 early-June high). Currently ~1–3% BELOW 50-day MA — similar setup to AVGO but without confirmed RSI trigger yet. Strong AI catalyst from Build 2026 Copilot agents. **Action June 18:** Check RSI at open — if RSI < 30 crossing above, enter. If RSI 35+, setup not clean. |
 | QCOM | Tech/Semis | Handset + auto chip diversification; Q1 2026 beat | Mid-expansion | RSI oversold bounce OR fundamental catalyst required | 2026-06-16 | **$136.20** (Jun 16). **17% BELOW 50-day MA ($163.26)** — technically broken, not a bounce setup. Requires either a specific fundamental catalyst or RSI < 30 trigger. Likely company-specific underperformance vs peers (AMD +40% above MA vs QCOM -17%). **Deprioritized — monitor only.** Revisit if a catalyst appears. |
+| MU | Tech/Semis | AI memory (HBM3) structural demand; Q3 earnings ~Jun 23-24; +8.73% Jun 15 on AI demand signal | Mid-expansion | **Earnings-driven entry:** Beat on AI/HBM demand + RSI not overbought post-earnings → assess momentum entry at 9:30 AM after report. Do NOT buy before earnings. | 2026-06-19 | **Monitoring for earnings catalyst.** MU reporting ~Jun 23-24. AI high-bandwidth memory (HBM3) is critical for NVDA GPU stack — MU beat validates AI capex thesis. If beats: gap up at open, check RSI, volume > 150% 20-day avg, VIX <20 → consider $12.50 entry post-earnings. Skip if gaps up >10% at open (overbought). |
 
 ---
 
@@ -24,14 +25,15 @@
 
 *Current economic cycle phase assessment*
 
-**Last updated:** 2026-06-18 (Thursday Pre-Market — TRADING DAY / Post-FOMC)
-**Cycle phase:** Mid-Expansion — FOMC held rates (3.50–3.75%), hawkish tone (9/18 members see 2026 hike). Oil ~$79-80/bbl (Iran deal intact). AI capex cycle thesis intact. Duration risk elevated = small-cap headwind; large-cap tech holding.
-**VIX today:** **18.44** (pre-market; ↑ from 16.41 Jun 17 close). CAUTION zone (18-20). Nasdaq futures +0.63% = recovery signal. Open VIX at 9:25 AM ET is the decision trigger.
-**Fed:** FOMC COMPLETE — Warsh delivered hawkish dot plot (removed 2026 cuts, raised PCE to 3.6%, dropped forward guidance). No next FOMC meeting until late July 2026. No new blackout window for ~3 weeks.
-**Leading sectors (week of June 18):** XLK/Tech (Nasdaq futures recovering +0.63%), AI infrastructure. Nasdaq-heavy portfolio favored.
-**Lagging/exit sectors:** Small-caps (Russell 2000 -0.87% after FOMC — higher-for-longer = credit headwind), XLE (oil $79-80 = energy premium removed), Defense (RTX below 50-day MA), QCOM (broken structure).
-**Macro regime:** CAUTION MODE (VIX 18.44 pre-market). BTC F&G 15 (Extreme Fear — crypto CANCELLED). Iran deal signing June 19 = positive backdrop. ACN earnings 8:00 AM = critical enterprise AI spend signal.
-**Sector rotation recommendation:** Mid-expansion playbook (XLK). Today: NVDA only ($12.50) if VIX <20 + ACN neutral/positive. No AVGO at VIX 18.44. No crypto. Monitor AVGO for future re-entry if RSI resets and VIX returns below 18.
+**Last updated:** 2026-06-19 (Juneteenth Holiday — Markets CLOSED)
+**Cycle phase:** Mid-Expansion — FOMC held rates (3.50–3.75%), hawkish tone (9/18 members see 2026 hike). Oil ~$79-80/bbl (Iran deal SIGNED today in Geneva). AI capex cycle thesis intact. Duration risk elevated = small-cap headwind; large-cap tech holding.
+**VIX last close:** **18.44** (Jun 18). OFFENSE (below 20). Post-Iran deal signing could push VIX lower on Monday June 23.
+**Fed:** FOMC COMPLETE (Jun 16-17). Warsh delivered hawkish dot plot (removed 2026 cuts, raised PCE to 3.6%, dropped forward guidance). Next FOMC: July 28-29. Next blackout: ~July 22. **~4 weeks of clear trading runway.**
+**Key risk next week:** PCE May data June 25 (Thu) — first major inflation print under Warsh. Hot reading = VIX spike risk. Consider holding off new positions until after PCE.
+**Leading sectors (week of June 23):** XLK/Tech (AI infrastructure leading). NVDA thesis intact. AVGO breakout above 50-day MA.
+**Lagging/exit sectors:** Small-caps (higher-for-longer victims), XLE (oil ~$79-80 = Iran deal priced), Defense (RTX below 50-day MA), QCOM (broken structure), IT consulting (ACN -14.3%).
+**Macro regime:** OFFENSE (VIX 18.44 Jun 18 close). Iran deal geopolitical tailwind CONFIRMED (Geneva signing today). BTC F&G ~19 (Extreme Fear — crypto CANCELLED). PCE June 25 = binary event.
+**Sector rotation recommendation:** Mid-expansion playbook (XLK). Week of June 23: NVDA HOLD + possible AVGO entry (VIX <18 only + before PCE caution). No crypto. No small-cap. No defense.
 
 ---
 
@@ -44,11 +46,17 @@
 | LEN | Jun 11 ✅ REPORTED | — | — | No | Homebuilder; review if rate picture changes post-FOMC. |
 | **FOMC** | **Jun 16–17 🔴 NO TRADING** | Hold expected (96–98%) | — | — | **FOMC BLACKOUT — no new positions Jun 15–17.** Rate held at 3.50–3.75% expected. Kevin Warsh presser ~2:30 PM Wed Jun 17. Hawkish surprise = VIX spike + defensive pivot. Dovish/neutral = VIX < 18 + full offense launch Jun 18. |
 | KMX | Jun 17 | Bearish | — | No | CarMax — EPS expected down ~32% YoY. Not relevant. |
-| ACN | **Jun 18 🔴 TODAY 8:00 AM ET** | Neutral | — | No | Accenture Q3 FY2026 — consensus EPS $3.72, Rev $18.78B. 93.75% historical beat rate. Multiple downgrades (MS OW→EW $177; Truist Buy→Hold). Key signal: AI bookings growth ($2.5B+ threshold). Options pricing 7.6% move. **GO/NO-GO signal for NVDA entry today.** |
+| ACN | **Jun 18 ✅ REPORTED** | Bearish | — | No | EPS $3.80 BEAT vs $3.72 est. Revenue $18.7B in-line. Bookings -2% YoY soft. Guidance 3-4% (adjusted lower). Stock -14.3% on day. VALIDATES NVDA thesis: enterprise AI spend crowding out IT consulting. |
 | KR | Jun 18 | Neutral | — | No | Kroger — consumer staples. Not relevant. |
-| **—** | **Jun 19 — JUNETEENTH 🔴 CLOSED** | — | — | — | US markets closed. No trading. |
+| **—** | **Jun 19 — JUNETEENTH 🔴 CLOSED** | — | — | — | US markets closed. Iran deal Geneva signing ceremony. No trading. |
 | KBH | Jun 23 | Neutral | — | No | KB Home — housing. Not relevant to current watchlist. |
-| *No major tech June 15–27* | — | — | — | — | Apple, Google, Meta, Microsoft, Amazon all reported Q1 FY27 in April–May. No major tech catalysts in this window. FOMC dominates. |
+| **FDX** | **Jun 23** | Neutral | — | No | FedEx Q4 FY2026 — global shipping/macro read. Not directly relevant to AI/tech watchlist. |
+| **MU (Micron)** | **Jun 23–24** | **BULLISH** | — | No | **⚠️ AI memory (HBM3) demand read. MU +8.73% Jun 15 on AI demand signal.** Do NOT buy before earnings (gap risk). If beats on AI/HBM demand → assess post-earnings momentum entry at 9:30 AM. |
+| Bank stress tests | Jun 24 | — | — | No | Federal Reserve annual bank stress test results. Financials sector volatility. VIX watch. |
+| Fed speakers | Jun 23-27 | — | — | No | First post-FOMC week. Warsh, Waller, others may speak. Watch for hawkish follow-through = VIX spike risk. |
+| **PCE May 2026** | **Jun 25** | **~3.4–3.6% core** | — | No | **🔴 CRITICAL RISK EVENT.** Warsh raised PCE forecast to 3.6% (from 2.7% March). Hot reading = rate hike odds spike, VIX spike, risk-off. Consider NO new positions before PCE is released. |
+| Q1 GDP Final | Jun 25 | ~2.7% | — | No | Backward-looking. Medium impact. |
+| **FOMC (next)** | **Jul 28-29** | Hold or hike? | — | — | **Blackout starts ~Jul 22 (5 days prior). ~4 weeks of clear trading runway from now.** |
 
 ---
 
