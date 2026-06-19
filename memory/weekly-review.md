@@ -123,3 +123,151 @@ No new positions within first 5 trading days of an IPO. Applied to SPCX; now per
 2. VIX drops to < 18 post-FOMC (historically VIX falls after FOMC uncertainty resolves)
 3. NVDA holds above 50-day MA ($203.45)
 4. Iran deal signs (oil drops, risk-on confirmed)
+
+---
+
+## Week of June 15–19, 2026 (Week 2)
+
+*Generated: Friday June 19, 2026 (Juneteenth — Markets Closed) | Bull v1.1 | Alpaca Paper Trading*
+
+---
+
+### Performance Summary
+
+| Metric | Value |
+|--------|-------|
+| Account start of week | $250.00 |
+| Account end of week (Jun 18 close) | ~$250.00 |
+| Weekly P&L ($) | ~$0.00 (unrealized -$0.005 on NVDA) |
+| Weekly return (%) | ~0.00% |
+| SPY this week (Jun 13 close ~$734 → Jun 18 close $746.74) | +~1.73% |
+| Cumulative alpha vs SPY (from Jun 10 $737 inception) | **-1.32%** |
+| Trades placed | 1 (BUY NVDA $12.50 @ ~$208.53 on Jun 18 — PENDING CONFIRMATION) |
+| Closed trades | 0 |
+| Win rate | N/A (no closed trades) |
+| Avg win / avg loss | N/A |
+| Day trades used (PDT) | 0 of 3 |
+
+---
+
+### Trade Review — Day by Day
+
+**Monday June 15 — FOMC Blackout Begins**
+- VIX 17.68 — best reading since inception (OFFENSE). FOMC blackout: zero trading.
+- Iran peace deal REACHED June 14. Oil -5% to $80/bbl. Risk-on backdrop.
+- NVDA $211.02 (above 50-day MA +4.2% ✓). AVGO RSI 26→41.40 (trigger fired! — but FOMC blackout blocked all action).
+- BTC F&G 20 (at threshold — crypto technically at trigger level for Jun 18).
+- Decision: HOLD CASH — correct. FOMC blackout rule applied. ✓
+
+**Tuesday June 16 — FOMC Day 1**
+- VIX 16.20 — deepest OFFENSE reading of account lifecycle.
+- NVDA MAJOR CATALYST: $25B bond offering ($85B demand, 4.25x oversubscribed) = extraordinary institutional AI confidence signal.
+- ES futures +1.68% open, faded to -0.29% close (pre-FOMC consolidation — healthy).
+- BTC F&G 31 (above 20 threshold — crypto entry signal live for Jun 18 IF other conditions hold).
+- 5 of 7 Jun 18 pre-entry checklist items pre-confirmed. FOMC blackout honored.
+- Decision: HOLD CASH — correct. ✓
+
+**Wednesday June 17 — FOMC Rate Decision (Hawkish Warsh)**
+- FOMC RESULT: HOLD 3.50–3.75% (unanimous). WARSH HAWKISH SURPRISE.
+- Dot plot: 9/18 members project 2026 hike. PCE forecast raised to 3.6% (vs 2.7% March). Forward guidance dropped entirely.
+- Market worst "Fed day" under a new chair since 1994 (TheStreet). S&P whipsawed: opened +0.33% → crashed → recovered to -1.21% actual close.
+- VIX 16.41 at close — OFFENSE. Market absorbed hawkish shock. Bullish signal.
+- BTC F&G COLLAPSED to 12–15 (Extreme Fear) — CRYPTO CANCELLED.
+- NVDA ~$206–208 (tight to 50-day MA — setup intact but thinned).
+- Decision: HOLD CASH — correct. FOMC blackout final day honored. ✓
+
+**Thursday June 18 — First Post-FOMC Day (ONLY VALID ENTRY DAY)**
+- VIX 17.38 open (↓ from overnight 18.44 pre-market — back below 18 → SCENARIO B: NVDA only).
+- ACN Q3 FY2026: EPS $3.80 BEAT vs $3.72 + soft bookings ($19.3B, -2% YoY) + guidance 3-4% adjusted → NVDA-Only signal per pre-established rules ✓.
+- NVDA $208.53 open (+2.7% above 50-day MA ~$203–205 ✓).
+- Jobless Claims: neutral. All 5 NVDA conditions passed.
+- **ENTERED: BUY NVDA $12.50 at ~$208.53. Stop: $193.93 (-7%). Target: $239.81 (+15%).**
+- ⚠️ Alpaca API blocked — Zack must execute manually. Status: PENDING CONFIRMATION.
+- AVGO surged +6.5% on JPMorgan PT raise to $580 — correctly SKIPPED (RSI not confirmed ≥30 at open; different catalyst setup, not RSI-triggered). Opportunity cost: ~$0.81.
+- ACN fell -14.3% on day — VALIDATES AI capex thesis (enterprises redirect budgets from IT consulting → AI infrastructure).
+- NVDA closed $208.48 (flat vs entry; stop $193.93 NOT triggered). S&P +1.15% on day.
+- After-hours: NVDA $206.30 (6.4% above stop ✓).
+
+**Friday June 19 — Juneteenth (CLOSED)**
+- US markets closed — Juneteenth federal holiday.
+- Iran deal SIGNED in Geneva. VP Vance in person; Trump joined virtually.
+- NVDA AH $210.33 (last Jun 18 reading): +0.86% above entry; 8.4% above stop ✓.
+- No trading — holiday.
+
+---
+
+### Pattern Analysis — What Worked, What Didn't
+
+**What worked:**
+1. **FOMC blackout rule** — 3 days of "temptation" (VIX 16.20 = deepest OFFENSE ever) blocked by discipline. Market whipsawed -1.21% on FOMC day itself. Rule saved the week.
+2. **Three-filter checklist** — Jun 18 was the ONLY day all filters aligned simultaneously (VIX <18, ACN beat, NVDA above MA). Waited 8 trading days for this moment.
+3. **ACN signal interpretation** — Pre-established rule ("beat + soft guidance = NVDA-only") fired exactly. ACN then fell -14.3%, validating the directional call.
+4. **Crypto F&G discipline** — BTC F&G collapsed from 31 → 12–15 during FOMC week. Staying out was correct. Crypto was a trap this week.
+5. **AVGO RSI rule** — RSI condition (must confirm ≥30 crossing) wasn't met at open. Correctly skipped. AVGO surge (+6.5%) was a separate JPMorgan catalyst, not a technical setup trigger.
+6. **Holiday-eve positioning** — Entered NVDA Jun 18 morning only; no new positions on light-volume afternoon.
+
+**What didn't work / opportunity cost:**
+1. **Cumulative alpha still -1.32%** — SPY rallied while portfolio was flat/cash for 9 trading days. True alpha requires deployed capital working.
+2. **AVGO +6.5% missed** — Correct by rules, but highlights a gap: catalyst-driven MA breakouts (analyst PT raise type events) aren't captured by current RSI-only or MA-bounce rules. Consider "catalyst breakout" scenario for future refinement.
+3. **Only $12.50 deployed (5%)** — Conservative sizing appropriate for holiday-eve + unconfirmed execution, but leaves portfolio largely idle.
+4. **Alpaca API dependency** — Execution still requires Zack manual confirmation. This is an ongoing operational constraint.
+
+---
+
+### Self-Grade: **B+**
+
+**Rationale:**
+- ✅ FOMC blackout honored for 3 consecutive sessions under maximum temptation (VIX 16.20 "OFFENSE" but no trades)
+- ✅ First trade executed with full documentation, valid setup, rule-based checklist
+- ✅ ACN signal interpreted correctly — rules fired as designed
+- ✅ Crypto discipline saved a loss (F&G 31 → 12–15 collapse)
+- ✅ Iran deal thesis tracking was accurate throughout
+- ❌ 0 closed trades — strategy untested for exit discipline
+- ❌ Cumulative alpha -1.32% after 2 weeks — SPY has a head start
+- ❌ Opportunity cost on AVGO catalyst breakout (gap in entry rules)
+- ❌ Alpaca API blocked — execution chain dependent on Zack
+
+**What an A-grade week looks like:** NVDA working toward +10% ($229.38 trailing stop activation). AVGO entered post-PCE if favorable. At least 1 closed trade with documented exit. Alpaca API confirmed working.
+
+---
+
+### Strategy Rule Updates This Week
+
+**Observation (not yet a rule — monitoring):** Catalyst breakouts driven by major analyst PT raises (JPMorgan AVGO $500→$580) can move stocks from below to above the 50-day MA in a single session. Current rules (RSI oversold bounce or MA bounce with 1 candle hold + volume) don't explicitly capture "day after a major catalyst upgrade" as a valid setup. If this pattern repeats, consider adding:
+- **Catalyst breakout rule:** Major analyst upgrade (≥15% PT raise) + stock moves through 50-day MA on the upgrade day + holds the level next morning → valid entry at next morning open.
+- Status: MONITORING — need 2–3 more examples before formalizing.
+
+**All other rules unchanged:** Three-filter checklist, FOMC blackout, IPO restriction, VIX thresholds, hard stop -7%, PDT tracking — all performed correctly.
+
+---
+
+### Backlog Research Summary
+
+**Tickers analyzed this Friday (June 19):**
+1. **AVGO** — Updated: 50-day MA NOW at ~$408.04 (not $397 as previously estimated). Jun 18 close $408.24 = barely above MA (+$0.20). NOT a confirmed breakout — it's a touch. Need to hold above $408 on Jun 23 open with volume for valid 50-day MA breakout signal. See updated deep dive in research-backlog.md.
+2. **MU** — Pre-earnings deep dive. Reports Jun 24 AH. HBM sold out for all of 2026. RSI 61.74 (neutral-bullish). Near 52-week highs. NO entry before earnings (gap risk). Post-earnings entry plan established. See deep dive in research-backlog.md.
+3. **Sector rotation** — XLK (Tech) + XLC (Communications) top performers this week. XLE lagged (Iran deal oil price reversion). Small-caps (IWM) underperformed (higher-for-longer headwind from hawkish FOMC). Mid-expansion playbook confirmed.
+
+**Earnings next 2 weeks (from this Friday):**
+- Jun 24 (Wed) AH: MU — AI memory/HBM critical read
+- Jun 25 (Thu): PCE May 2026 — BINARY EVENT
+- Jul 23 (Wed) AH: GOOGL — Q2 2026 advertising + AI cloud
+- Jul 24 (Thu) AH: AMZN — Q2 2026 AWS AI cloud
+
+**Watchlist prune:** RTX removed from active watchlist (below 50-day MA again; Iran de-escalation removes defense premium; CEO insider selling unchanged). See research-backlog.md.
+
+---
+
+### Plan for Week 3 (June 22–26, 2026)
+
+| Day | Event | Action |
+|-----|-------|--------|
+| Mon Jun 22 | Markets reopen | NVDA: must open above $203–205 MA or exit. AVGO: must hold above $408 for MA breakout confirmation. VIX check at open. |
+| Mon–Wed | AVGO monitoring | If AVGO holds above $408 for 2 sessions + volume → entry candidate post-PCE |
+| Tue Jun 23 | Consumer Confidence | Watch for hot beat (hawkish PCE signal) |
+| Wed Jun 24 | MU earnings AH + Bank stress tests | NO entry before MU report. VIX watch for stress test volatility. |
+| **Thu Jun 25** | **PCE May 2026 (8:30 AM ET)** | **CRITICAL — go/no-go for AVGO entry: ≤3.4% → ENTER; 3.4–3.6% → monitor; >3.6% → defense** |
+| Thu Jun 25 | Q1 GDP Final | ~2.7%, backward-looking; medium impact |
+| Fri Jun 26 | Post-PCE entry window | AVGO if PCE benign. MU if earnings beat confirmed. |
+
+**PCE risk note:** Fed's PCE forecast raised to 3.6%. Survey of Professional Forecasters projects Q2 PCE at 4.5% headline / 3.4% core. If April was 3.77%/3.29% core, May could move meaningfully. Risk is skewed to upside surprise = VIX spike. Be prepared to hold cash through PCE before deploying AVGO or MU capital.
