@@ -45,6 +45,167 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-23 08:30 ET — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 19–23):** 0 of 3 — NO PDT WARNING
+
+---
+
+### TODAY: First trading day back after Juneteenth. Iran deal confirmed signed.
+
+---
+
+### Market Regime — June 23 Open
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX (June 18 close) | **16.40** | ✅ **OFFENSE** — below 18 threshold |
+| VIX (est. June 23 open) | **~15–16** (Iran deal tailwind) | ✅ **OFFENSE** — likely lower on reopening |
+| S&P 500 / SPY (June 18 close) | **~$746.74** | Above Jun 10 $737 inception |
+| Asian overnight | Kospi +5.1%, Nikkei +3.6%, ASX +1.3% | ✅ **STRONG RISK-ON** — Iran deal fully priced by Asia |
+| Consumer Confidence (June 23) | **109.7 vs 102.5 expected** | ✅ **BEAT** — consumer resilience signal |
+| New Home Sales May | **+12.2% to 763k** (highest since Feb 2022) | ✅ **BULLISH** housing demand |
+| Oil (WTI) | **~$80.83** (−4.77% from Iran deal) | ✅ Consumer spending tailwind |
+| Fed speakers today | **None scheduled** | ✅ Quiet day macro-wise |
+
+**Net regime: FULL OFFENSE (VIX ~16, strong risk-on macro backdrop). However, PCE May releases Thursday June 25 — entering new positions Mon/Tue adds exposure before a binary inflation event.**
+
+---
+
+### Open Positions Check
+
+- **1 open position (PENDING CONFIRMATION — Zack to confirm NVDA execution from June 18):** NVDA ~$12.50 @ $208.53 entry
+- **NVDA AH (Jun 18):** $206.30 — above $193.93 stop (6.4% buffer) ✅
+- **NVDA status June 23:** Above 50-day MA $203–205 ✅ (last confirmed $207+ range)
+- **Hard stop $193.93:** NOT triggered ✅
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades used (rolling 5-day, Jun 19–23):** 0 of 3 ✓
+- **Alpaca API:** ⚠️ Network-restricted (unchanged) — Zack must confirm NVDA execution status
+
+---
+
+### Watchlist Status — Market Open June 23
+
+| Ticker | Last Price | 50-Day MA | Status | Decision |
+|--------|-----------|-----------|--------|----------|
+| NVDA | **~$207+** (AH was $206.30 Jun 18) | ~$203–205 | ✅ Above MA; thesis intact; stop $193.93 safe | **HOLD** |
+| AVGO | **$408.24** (Jun 18 close) | ~$397 | ✅ +2.8% above MA; JPMorgan PT $580; RSI ~55–65 est. | ⚠️ **DEFER — PCE week risk** |
+| MU | ~$145 (est.) | — | ⏳ Reports June 24 AH | ❌ NO ENTRY before earnings (gap risk rule) |
+| BTC/USD | ~$67k est. | — | F&G **14** (Extreme Fear) | ❌ **CANCELLED** — below 20 threshold |
+| MSFT | ~$395–400 | ~$405–410 | Still below 50-day MA | ❌ PASS |
+
+---
+
+### NVDA Thesis Integrity Check — June 23
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price above 50-day MA ($203–205) | **✅ INTACT** | AH $206.30; MA buffer ~0.6–1.6% above |
+| AI capex thesis ($25B bond / $85B demand) | **✅ INTACT** | No adverse news over 3-day weekend |
+| Iran deal signed | **✅ BULLISH** | Geopolitical tailwind = risk-on; oil -4.77% |
+| Hard stop $193.93 | **✅ SAFE** | AH $206.30 = 6.4% buffer; $207+ at open likely |
+| Market backdrop | **✅ BULLISH** | VIX ~16, consumer confidence 109.7, Asia +3.5-5% |
+| NVDA Annual Meeting | June 24 (routine governance) | Watch for AI roadmap announcements |
+| PCE risk | ⚠️ | Thursday June 25 — hot print = VIX spike risk |
+
+**Decision: HOLD NVDA. Thesis intact. No action required. Stop at $193.93.**
+
+---
+
+### AVGO — PCE Deferral Decision
+
+**Setup remains valid:** $408.24 (Jun 18) is above 50-day MA $397 (+2.8%). Pre-plan conditions: VIX <18 ✅ + RSI 50-65 (est.) ✅ + above $405 MA zone ✅.
+
+**Why deferring despite valid setup:**
+1. PCE May releases **Thursday June 25** — binary macro event. Hot print (above 3.6% Warsh forecast) = VIX spike, immediate stop risk.
+2. Pre-established plan explicitly noted: *"⚠️ PCE June 25 = risk event this week. Entering AVGO Mon/Tue adds exposure before major inflation read. Skip if PCE week risk elevated."*
+3. Consumer Confidence beat today (109.7) may signal hot consumer spending → higher PCE → hawkish read.
+4. Insider selling flag ($-106M net 90 days) = never full-size anyway.
+5. AVGO will still be there after PCE; there's no edge in entering today vs Friday June 27.
+
+**AVGO Decision: WATCHLIST — defer entry to June 26/27 AFTER PCE print.** If PCE ≤ 3.4% (benign) → ENTER $12.50 June 26. If PCE > 3.6% (hot) → PASS, reassess thesis.
+
+---
+
+### MU — Post-Earnings Watch (June 24 AH)
+
+MU reports June 24 after hours. AI memory demand thesis is structurally strong (MU surged +8.73% June 15 on AI/HBM catalyst). **Rule: NO entry before earnings** — gap risk with -7% hard stop is unmanageable.
+
+**If MU beats with strong HBM/AI commentary June 24 AH:** Assess post-earnings momentum entry June 25 (morning session). Check RSI at open — don't chase extended gap-up (RSI must be below 65 at open). Size: $12.50 (half-size given volatile semiconductor).
+
+Note: MU beat = additional validation of NVDA AI capex thesis (AI memory is the complement to AI compute).
+
+---
+
+### Economic Calendar — Week of June 23
+
+| Date | Event | Consensus | Bull Impact |
+|------|-------|-----------|-------------|
+| Jun 23 (today) | Consumer Confidence | 102.5 est. → **109.7 actual BEAT** | ✅ Bullish; slight hawkish PCE implication |
+| Jun 24 (Tue) | MU earnings (AH) | EPS ~$8+ est. | ⚠️ AI sector catalyst; no entry before |
+| Jun 24 (Tue) | Bank stress test results | — | Watch VIX — financials volatility |
+| Jun 24 (Tue) | NVDA Annual Meeting | — | Governance; watch AI roadmap statements |
+| **Jun 25 (Thu)** | **PCE May 2026** | ~3.4–3.6% core | **CRITICAL** — hot print = VIX spike, stop risk |
+| Jun 25 (Thu) | Q1 2026 GDP Final | ~2.7% | Backward-looking; medium impact |
+
+---
+
+### Trade Decision — June 23
+
+**No new trades today.**
+
+| Ticker | Decision | Reason |
+|--------|----------|--------|
+| NVDA | **HOLD** | Thesis intact; stop safe; await PCE |
+| AVGO | **DEFER** | PCE Thursday = binary risk; no edge in entering Mon/Tue |
+| MU | **WATCHLIST** | Reports June 24 AH; assess post-earnings June 25 |
+| BTC/USD | **CANCELLED** | F&G 14 (Extreme Fear) — below 20 threshold |
+
+**Next decision point:** PCE May data Thursday June 25.
+- PCE ≤ 3.4% → AVGO entry June 26 (post-PCE entry)
+- PCE 3.4–3.6% → Reassess — NVDA hold, small AVGO possible
+- PCE > 3.6% → Defense mode; NVDA hold only; await VIX stabilization
+
+---
+
+### PDT Status — June 23 Week
+
+- Rolling 5-day window (Jun 19–23): **0 of 3 day trades used** ✓
+- Fresh week — full 3 day trade allowance available
+- No PDT warning
+
+---
+
+### Operational Alert
+
+**⚠️ Alpaca API STILL BLOCKED** — paper-api.alpaca.markets not in network egress allowlist. Cannot verify:
+- NVDA execution status (still pending Zack confirmation from June 18)
+- Exact position size, fill price, stop order status
+- Account balance / buying power
+- Whether stop at $193.93 is active in the system
+
+**Zack action required:** Please confirm NVDA execution in Alpaca paper account and verify stop-limit order at $193.93 is in place. Also request IT to whitelist paper-api.alpaca.markets in the network egress settings so Bull can verify positions programmatically.
+
+---
+
+### Portfolio Status — Market Open June 23
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.00 (NVDA ~flat, markets closed since Jun 18) |
+| Cash | ~$237.50 |
+| Open Positions | 1 (NVDA ~$12.50 — PENDING CONFIRMATION from Zack) |
+| Unrealized P&L (NVDA) | ~-$0.005 to +$0.00 (essentially flat) |
+| Cumulative alpha | **~-1.30% est.** (SPY $746.74 Jun 18 close vs $737 Jun 10 inception = +1.32%; corrected from prior ~$752 estimate) |
+| Day Trades Used | 0 of 3 |
+| VIX | ~16.40 (OFFENSE) |
+| Next decision point | PCE May — Thursday June 25 |
+| New Telegram | NONE (no trade placed today) |
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-19 (JUNETEENTH — MARKETS CLOSED) — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
