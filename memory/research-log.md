@@ -45,6 +45,160 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-19 15:00 ET — PAPER (JUNETEENTH — MARKETS CLOSED)
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 13–19):** 0 of 3 — NO PDT WARNING
+
+---
+
+### ⚠️ JUNETEENTH — US MARKETS CLOSED. No trading. EOD routine running for intelligence update only.
+
+---
+
+### Market Status — June 19 EOD
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| US Markets | **CLOSED — Juneteenth** | NYSE, Nasdaq closed. No equity trading. |
+| SPY (last close Jun 18) | **$746.74** | +1.32% from $737 Jun 10 inception ✅ |
+| VIX (last reading Jun 18) | **~18.44 at close** | ✅ **OFFENSE** — below 20 threshold |
+| NVDA (Jun 18 close) | **$208.48** | ✅ Flat vs $208.53 entry; above 50-day MA |
+| NVDA (AH Jun 18, latest) | **~$210.33** (7:59 PM EDT Jun 18) | ✅ +0.86% from close; 8.4% above stop $193.93 |
+| Iran deal | **SIGNED IN GENEVA TODAY** ✅ | VP Vance + Iran FM + Trump (virtual). Hormuz open. |
+| Oil (WTI last) | **~$79–81/bbl** | ✅ Consumer spending tailwind |
+
+---
+
+### NVDA Position — EOD June 19 (Holiday)
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Entry price | $208.53 (Jun 18 market open) | Pending Zack confirmation |
+| Last close (Jun 18) | $208.48 | -$0.005 unrealized P&L (essentially flat) |
+| After-hours (Jun 18 latest) | ~$210.33 | +$1.80 above entry = ~+0.86% |
+| Hard stop ($193.93) | **✅ SAFE** | AH ~$210.33 = 8.4% buffer above stop |
+| Trailing stop (+10% = $229.38) | NOT reached | ✅ |
+| 50-day MA (~$203–205) | **✅ INTACT** | $210.33 AH = ~+2.6% above MA |
+| Thesis | **✅ INTACT** | AI capex; Iran deal signed = geopolitical tailwind |
+| Adverse news | **None** | No export control, no customer news |
+
+**Decision: HOLD NVDA through the weekend. Stop $193.93 intact.**
+
+---
+
+### Iran Deal — SIGNED ✅ (June 19 Geneva)
+
+The US-Iran framework was formally signed today in Geneva by VP Vance and Iranian FM Abbas Araghchi, with Trump joining virtually. Key terms confirmed:
+- 60-day ceasefire, both parties lift maritime blockades
+- Strait of Hormuz reopened to commercial traffic
+- Iran pledges never to acquire nuclear weapons; nuclear talks begin
+- Oil (WTI) remaining ~$79–81/bbl — Iran oil supply returning over time = continued energy tailwind
+
+**Market impact for June 22 open:** Geopolitical risk premium further reduced. This signing was known/anticipated; the incremental positive is completion of the formal framework. No gap-up expected, but market backdrop remains constructive.
+
+---
+
+### ⚠️ CRITICAL DATE CORRECTION
+
+**Previous sessions logged "Next trading: June 23" — THIS IS WRONG.**
+
+- June 19 = Friday (Juneteenth, CLOSED)
+- June 20 = Saturday
+- June 21 = Sunday
+- **June 22 = Monday = FIRST TRADING DAY AFTER JUNETEENTH**
+- June 23 = Tuesday
+
+**Next trading day is June 22 (Monday), not June 23.** 
+
+⚠️ The repo contains entries labeled "Market-Open June 23" and "Midday June 23" that were written prematurely by prior sessions running on June 19. These entries reflect planning/expectations, not actual market data from June 23. When running the June 22 routines, treat those entries as forward planning notes, not confirmed facts. All actual June 22 data should be freshly gathered at session start.
+
+---
+
+### Economic Calendar — Week of June 22
+
+| Date | Event | Consensus | Bull Impact |
+|------|-------|-----------|-------------|
+| **Jun 22 (Mon)** | **First trading day back** | — | NVDA open price critical; VIX at open determines mode |
+| Jun 23 (Tue) | Consumer Confidence | — | Watch — beat implies hot consumer spending → PCE hawkish read |
+| **Jun 24 (Wed)** | **MU Earnings AH** | Beat expected (HBM/AI) | ⚠️ HIGH — post-earnings watch Thu morning; no entry before |
+| **Jun 24 (Wed)** | **NVDA Annual Meeting** (9am PT online) | — | Routine governance; watch for AI roadmap/capital allocation commentary |
+| Jun 24 (Wed) | Bank Stress Tests | — | Financials volatility; VIX watch |
+| **Jun 25 (Thu)** | **PCE May 2026** (8:30 AM ET) | ~3.4–3.6% core | **CRITICAL** — hot print = VIX spike, stop risk for NVDA |
+| Jun 25 (Thu) | Q1 GDP Final | ~2.7% | Backward-looking |
+
+**PCE Decision Rule (established):**
+- PCE ≤ 3.4% → AVGO entry June 25/26; NVDA hold
+- PCE 3.4–3.6% → Monitor; NVDA hold only
+- PCE > 3.6% → Defense mode; VIX spike likely; hold all cash except NVDA (with stop protection)
+
+---
+
+### Analyst Coverage Update — NVDA
+
+| Analyst | Rating | PT | Date |
+|---------|--------|-----|------|
+| Deutsche Bank | Hold | $255 | June 2026 (recent) |
+| JPMorgan (AVGO) | Buy | $580 (AVGO) | Jun 18 |
+
+Deutsche Bank's $255 PT on NVDA vs current ~$210 = 21% upside even from a "Hold" rating. No adverse analyst action today.
+
+---
+
+### What Happened Today (June 19)
+
+1. **Markets closed for Juneteenth.** No trading. Expected.
+2. **Iran deal signed in Geneva** — formal completion of the framework that was announced June 14 and MOU-signed June 16. VP Vance attended in person; Trump joined virtually. This removes the remaining geopolitical overhang. Markets will treat this as a confirmation of the existing risk-off relief, not a new catalyst gap-up.
+3. **NVDA held above stop in AH** — last AH reading $210.33, well above entry $208.53 and stop $193.93. Overnight weekend risk: macro shock, adverse NVDA-specific news (none identified). Position is small ($12.50) — gap risk manageable.
+4. **Prior sessions incorrectly dated June 23 as next trading day** — corrected above to June 22 (Monday).
+
+---
+
+### What Worked / What Didn't
+
+**Worked:**
+- Juneteenth no-trading discipline honored across all sessions
+- NVDA thesis remains intact through the holiday — thesis buy (June 18) is performing
+- Iran deal tracking was precise — reading was correct from June 14 announcement
+
+**Didn't Work:**
+- Prior sessions wrote premature entries labeled "June 23" (market-open and midday). These should NOT have been written as session logs — they were planning notes mislabeled as actual session records. Date correction issued above.
+- Cumulative alpha still ~-1.32% (SPY $746.74 vs $737 inception = +1.32%; portfolio flat)
+- Alpaca API still blocked — NVDA execution status still unconfirmed by Zack
+
+---
+
+### What to Watch — Monday June 22 (First Day Back)
+
+| Priority | Item | Signal |
+|----------|------|--------|
+| **CRITICAL** | NVDA open price | Must open above $203–205 (50-day MA). AH $210.33 is baseline. |
+| **CRITICAL** | VIX at June 22 open | <20 = OFFENSE. VIX last at 18.44 (Jun 18); Iran deal could push it lower. |
+| **HIGH** | AVGO Monday open | If VIX <18 + RSI 50-65 + holds above $405 MA zone → consider $12.50 entry (PCE risk caveat) |
+| **HIGH** | MU earnings setup | Reports June 24 AH — no entry before. Watch post-earnings Thursday morning. |
+| **MEDIUM** | Iran deal market impact | Fully priced? Watch oil (WTI) — if spikes back up = deal complications |
+| **MEDIUM** | Fed speakers (post-FOMC week) | Warsh/Waller hawkish rhetoric risk; watch VIX reaction |
+
+---
+
+### Portfolio Status — EOD June 19 (Holiday)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.00 (NVDA flat; markets closed) |
+| Cash | ~$237.50 |
+| Open Positions | 1 (NVDA ~$12.50; PENDING CONFIRMATION from Zack) |
+| Unrealized P&L | ~+$0.11 est. (AH $210.33 vs $208.53 entry) |
+| Cumulative alpha | **~-1.32%** (SPY $746.74 Jun 18 actual close vs $737 Jun 10 inception = +1.32%; portfolio ~0.00%) |
+| Day Trades Used | 0 of 3 |
+| VIX (last known) | ~18.44 (Jun 18 close) — OFFENSE |
+| Next trading day | **June 22 (Monday)** ← CORRECTED from prior "June 23" entries |
+| Iran deal | ✅ SIGNED Geneva Jun 19 |
+| Alpaca API | ⚠️ Network-restricted — Zack must confirm NVDA execution + stop |
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-23 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)
