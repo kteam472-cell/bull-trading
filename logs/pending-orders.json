@@ -1,0 +1,20 @@
+{
+  "description": "Structured trade signals. Bull writes PENDING orders here when Alpaca API is unreachable. Local relay (pmi_relay.py) picks these up and executes.",
+  "orders": [
+    {
+      "id": "NVDA-2026-06-18",
+      "symbol": "NVDA",
+      "side": "buy",
+      "notional": 12.5,
+      "approx_shares": 0.06,
+      "entry_price": 208.53,
+      "stop_loss_price": 193.93,
+      "stop_loss_pct": 0.07,
+      "target_price": 239.81,
+      "target_pct": 0.15,
+      "status": "PENDING",
+      "signal_date": "2026-06-18",
+      "reasoning": "VIX 17.38 OFFENSE. ACN beat + soft bookings = NVDA-only signal. NVDA above 50-day MA. All 5 entry conditions met. Alpaca API blocked in cloud env \u2014 relay execute."
+    }
+  ]
+}
