@@ -12,9 +12,11 @@
       "stop_loss_pct": 0.07,
       "target_price": 239.81,
       "target_pct": 0.15,
-      "status": "PENDING",
+      "status": "FAILED",
       "signal_date": "2026-06-18",
-      "reasoning": "VIX 17.38 OFFENSE. ACN beat + soft bookings = NVDA-only signal. NVDA above 50-day MA. All 5 entry conditions met. Alpaca API blocked in cloud env \u2014 relay execute."
+      "reasoning": "VIX 17.38 OFFENSE. ACN beat + soft bookings = NVDA-only signal. NVDA above 50-day MA. All 5 entry conditions met. Alpaca API blocked in cloud env \u2014 relay execute.",
+      "result": "Alpaca 401: {\"message\": \"unauthorized.\"}\n",
+      "executed_date": "2026-06-22"
     }
   ]
 }
