@@ -45,6 +45,149 @@
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-22 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 18–22):** 0 of 3 — NO PDT WARNING
+
+---
+
+### Market Regime — Midday June 22
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **~16.78** (last confirmed Jun 19 close; today's tech pressure minor) | ✅ **OFFENSE** — below 20 |
+| S&P 500 | **-0.35%** on day | Mixed — rotation from large cap tech to small caps |
+| Nasdaq | **-0.27%** (GOOGL -7.04% dragging index) | Concentrated headwind, not broad |
+| Russell 2000 | **+2.12%** on day | Small caps outperforming — risk-on rotation |
+| NVDA | **~$210.70** (range $206.50–$211.39; open $207.33) | ✅ Recovering from open dip; thesis intact |
+| SPY (est. midday) | **~$744 est.** (from $746.93 open; -0.35% on day) | Constructive; normal consolidation |
+
+**Market narrative:** Nasdaq-100 quarterly rebalancing effective today (first rebalance under new rank-based methodology). GOOGL -7.04% on specific company headwinds (AI capex, talent departures, dilution). SMCI +15.5%, SanDisk +7.2% leading. Russell 2000 +2.12% = rotation to small caps. Broad regime remains OFFENSE.
+
+---
+
+### Open Positions Check — Midday June 22
+
+| Position | Entry | Stop | Midday Est. | Status |
+|----------|-------|------|-------------|--------|
+| NVDA | $208.53 (Jun 18) | $193.93 (-7%) | ~$210.70 (+1.04%) | ✅ **ABOVE ENTRY. ABOVE STOP. HOLD.** |
+
+- **NVDA open:** $207.33 (briefly dipped below entry at open; normal rebalancing-day noise)
+- **NVDA midday est.:** ~$210.70 (recovering — now above entry ✅)
+- **Today's range:** $206.50–$211.39 (stop $193.93 never threatened — 7%+ buffer at all times)
+- **Hard stop $193.93:** NOT triggered ✅ (~8.7% buffer at current ~$210.70)
+- **Trailing stop activation (+10% = $229.38):** NOT reached ✅
+- **Daily P&L (NVDA est.):** ~+$0.13 (0.05993 shares × ($210.70 - $208.53) = ~+1.04%)
+- **Daily loss cap ($12.50):** NOT triggered ✅ (in slight gain)
+- **Alpaca API:** ⚠️ STILL BLOCKED — cannot programmatically verify execution; Zack must confirm
+
+---
+
+### NVDA Thesis Integrity Check — Midday June 22
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price above entry $208.53 | **✅** | ~$210.70 midday (+1.04% unrealized gain) |
+| Price above 50-day MA (~$203–205) | **✅ INTACT** | +2.8–3.8% above MA |
+| Hard stop $193.93 | **✅ SAFE** | 8.7% buffer at $210.70 |
+| AI capex thesis | **✅ INTACT** | GOOGL raises $84.75B equity to fund AI compute — confirms AI infrastructure demand → BULLISH for NVDA |
+| GOOGL -7.04% today | **✅ BULLISH FOR NVDA** | GOOGL capex $180–190B FY2026 (+47% FCF drop) = massive AI chip demand. Talent departures and dilution concerns are GOOGL-specific, not NVDA-negative. |
+| Nasdaq-100 rebalance today | **✅ NO ADVERSE IMPACT** | NVDA stays in index. New additions are AI-adjacent (CRWV = NVDA's #1 GPU customer) |
+| Iran deal | **⚠️ MONITORING** | 60-day nuclear talks proceeding in Switzerland. VP Vance: "feel great about Lebanon." Trump Hezbollah ultimatum still hanging but oil WTI declining = market not panicking |
+| NVDA Annual Meeting | **Tomorrow June 24** | Routine governance; watch for AI roadmap / Blackwell-Vera commentary |
+| PCE risk | **⚠️ KEY** | Thursday June 25 — hot print (>3.6%) = VIX spike risk |
+
+**Decision: HOLD NVDA. Thesis intact. No action.**
+
+---
+
+### Nasdaq-100 / S&P 500 Quarterly Rebalance — June 22 (Effective Today)
+
+**First rebalance under new rank-based methodology (effective May 1, 2026).**
+
+| Index | Added | Removed |
+|-------|-------|---------|
+| Nasdaq-100 | ALAB, CRWV, NBIS, RKLB, TER | CHTR, CTSH, INSM, VRSK, ZS |
+| S&P 500 | MRVL, FLEX | POOL, CPB |
+
+**Key implications:**
+- **CRWV (CoreWeave)**: NVDA's single largest GPU customer. Now in Nasdaq-100 — institutional index funds must buy. Confirms AI infrastructure buildout is so large it's creating investable public companies. NVDA thesis strengthened.
+- **MRVL (Marvell)**: AI networking semiconductors. S&P 500 inclusion = institutional buying. Complements NVDA AI compute thesis (networking layer).
+- **NVDA**: No change. Stays in Nasdaq-100 at full weight.
+- Rebalancing creates price dislocations on the day itself — unusual flows, not fundamental signals.
+
+---
+
+### GOOGL -7.04% Today — Assessment for Bull Portfolio
+
+**Why GOOGL fell:**
+1. AI capex $180–190B FY2026 projection (47% FCF decline to $10.1B)
+2. AI talent departures: John Jumper (Nobel laureate, DeepMind VP → Anthropic); Noam Shazeer (Gemini co-lead → OpenAI)
+3. $84.75B secondary equity offering for AI compute (dilution)
+4. California court denied new trial on youth-addiction platform case (regulatory)
+
+**Impact on Bull portfolio:**
+- **NVDA thesis**: ✅ BULLISH. GOOGL spending $180–190B on AI compute = NVDA's GPU sales. The bigger GOOGL's AI capex, the more NVDA earns.
+- **GOOGL as watchlist candidate**: Not yet. Too many company-specific headwinds. Monitor after stabilization.
+- **Market regime**: The GOOGL sell-off is sector-rotation noise (Russell 2000 +2.12%), NOT a macro crisis.
+
+---
+
+### Daily P&L Check
+
+| Metric | Value | Limit | Status |
+|--------|-------|-------|--------|
+| Unrealized P&L (NVDA est.) | ~+$0.13 | — | ✅ Slight gain |
+| Realized P&L | $0.00 | — | N/A |
+| Daily P&L | ~+$0.13 | -$12.50 | **✅ NOT triggered** |
+
+---
+
+### New Opportunity Scan — Midday June 22
+
+| Ticker | Midday Price | Setup | Decision |
+|--------|-------------|-------|----------|
+| CoreWeave (CRWV) | — (recently added to NDX) | AI infra; NVDA #1 GPU customer; Nasdaq-100 inclusion buying | ⚠️ **WATCHLIST** — interesting post-PCE; rebalancing-day dislocation; need RSI + price stability |
+| MRVL | — (just added to S&P 500) | AI networking; S&P inclusion buying | ⚠️ **WATCHLIST** — check post-PCE (Jun 26) |
+| AVGO | ~$408–411 | Above 50-day MA | ❌ **DEFER** — PCE Thursday binary event |
+| MU | — | Pre-earnings | ❌ **NO ENTRY** before Jun 24 AH report |
+| SMCI | +15.5% today | Momentum but extended | ❌ Do not chase intraday rip |
+| GOOGL | -7.04% today | Company-specific headwinds | ❌ **PASS** — too many concurrent headwinds |
+
+**No new entries today.** PCE May (Thursday June 25) prevents any new positions this week. Holding $237.50 cash is correct.
+
+---
+
+### Economic Calendar — Key Events Remaining
+
+| Date | Event | Consensus | Impact |
+|------|-------|-----------|--------|
+| **Jun 24 (Wed)** | **MU Earnings AH** | $34.66B rev, $19.95 EPS, ~81% GM | HIGH — HBM/AI supercycle test; assess post-earnings Thu morning |
+| **Jun 24 (Wed)** | NVDA Annual Meeting (9am PT) | — | Watch AI roadmap / Blackwell-Vera commentary |
+| **Jun 24 (Wed)** | Bank Stress Tests (4 PM ET) | — | 32 banks; financials VIX watch |
+| **Jun 25 (Thu)** | **PCE May 2026** | Core ~3.4% | **CRITICAL** — determines AVGO/CRWV entry and broader portfolio posture |
+| Jun 25 (Thu) | Q1 GDP Final | ~2.7% | Backward-looking; medium impact |
+
+---
+
+### Portfolio Status — Midday June 22
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.13 est. (NVDA ~+$0.13 unrealized at ~$210.70) |
+| Cash | ~$237.50 |
+| Open Positions | 1 (NVDA ~$12.63 est.; PENDING ZACK CONFIRMATION) |
+| Daily P&L | ~+$0.13 est. |
+| Cumulative Alpha | **~-0.94% est.** (SPY ~$744 midday vs $737 Jun 10 inception = +0.95%; portfolio +0.05%) |
+| Day Trades Used | 0 of 3 |
+| VIX | ~16.78 (OFFENSE) |
+| Next critical event | MU earnings Jun 24 AH; PCE May Jun 25 (CRITICAL) |
+| Telegram | **NONE** — no position closed, no stop hit, no daily loss cap triggered |
+
+---
+
 ## MARKET-OPEN INTELLIGENCE — 2026-06-22 08:30 ET — PAPER
 
 **Session type:** Market-open routine (8:30 AM ET)
