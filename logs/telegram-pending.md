@@ -138,3 +138,50 @@ Day trades used this week: 0 of 3
 🔐 Alpaca API + Telegram both network-blocked.
 Fix: Add api.telegram.org and paper-api.alpaca.markets to network egress allowlist.
 Please confirm NVDA fill price when you can.
+
+---
+
+## EOD Report — 2026-06-22 (Market Close)
+
+📊 BULL EOD REPORT — June 22, 2026
+
+🏦 PORTFOLIO
+• Total Value: ~$250.13 (+$0.13 unrealized)
+• Cash: $237.50 | NVDA: ~$12.63
+• Day Trades: 0 of 3 used
+
+📈 NVDA (HOLD ✅)
+• Close: $210.69 (+2.95% today)
+• Entry: $208.53 → Unrealized: +1.04% (+$0.13)
+• Stop: $193.93 (7.96% below close — SAFE ✅)
+• Range today: $208.62–$213.99
+
+📊 PERFORMANCE TODAY
+• Portfolio: ~+0.02% (flat-to-up)
+• S&P 500: -0.34% (7,475.34)
+• Today's Alpha: +0.36% ✅
+
+📊 CUMULATIVE (vs Jun 10 inception $737 SPY)
+• Portfolio: ~+0.05%
+• SPY: ~+1.00% (~$744.40 vs $737)
+• Alpha: -0.95%
+
+📌 NO TRADES TODAY
+HOLD NVDA — thesis intact. GOOGL -7.04% (AI capex $180-190B FY2026) = demand confirmation for NVDA chips. Nasdaq-100 added CRWV (NVDA's #1 GPU customer) today.
+
+⚠️ ACTION REQUIRED (ZACK)
+Alpaca API still blocked from this environment. Please confirm:
+1. NVDA fill executed June 18 at ~$208.53?
+2. Stop loss order at $193.93 placed?
+If not executed: buy NVDA at market (~$210.69), set stop $193.93.
+
+📅 WHAT TO WATCH
+• Wed Jun 24: MU earnings AH (consensus $20.70 EPS, $35.56B rev)
+• Wed Jun 24: NVDA Annual Meeting (routine — watch Blackwell/Vera commentary)
+• Wed Jun 24 4PM: Bank Stress Tests
+• 🔴 Thu Jun 25: PCE May (CRITICAL — core ~3.4% consensus; hot >3.6% = VIX spike risk)
+• Fri Jun 26: AVGO entry IF PCE ≤ 3.4%
+
+VIX ~16.78 (OFFENSE ✅)
+All files updated and pushed to GitHub.
+— Bull 🐂
