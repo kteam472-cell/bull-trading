@@ -45,6 +45,154 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-22 08:30 ET — PAPER
+
+**Session type:** Market-open routine (8:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 18–22):** 0 of 3 — NO PDT WARNING
+
+---
+
+### Market Regime — Market Open June 22
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **~16.78** (Jun 19 close; last confirmed) | ✅ **OFFENSE** — below 20 |
+| SPY | **$746.93** (+0.03% from Jun 18 close $746.74) | Essentially flat; constructive |
+| NVDA pre-market | **$210.10** (-0.28% from prior close $210.69) | ✅ Above entry $208.53 (+0.75%) |
+| Iran deal | Still fragile — VP Vance in Bürgenstock; 60-day roadmap agreed | ⚠️ Monitoring |
+| Oil (WTI) | **~$75.50** (−0.47%) | ✅ Declining — consumer tailwind |
+| AVGO | **$411.46** (ex-div $0.65 today; net above 50-day MA ~$408) | ⚠️ Defer — PCE Thu |
+| Crypto F&G | **~47 (Neutral)** per CoinMarketCap (improved from prior 14–23 range) | Improving but not entering |
+
+**Note:** A prior session running on June 22 labeled its market-open entry as "2026-06-23 08:30 ET" due to date confusion. This entry (Jun 22 08:30 ET) supersedes that mislabeled entry with fresh web-verified data.
+
+---
+
+### Open Positions Check — Market Open June 22
+
+| Position | Entry | Stop | Pre-Market Est. | Status |
+|----------|-------|------|----------------|--------|
+| NVDA | $208.53 (Jun 18) | $193.93 (-7%) | $210.10 (+0.75%) | ✅ **ABOVE ENTRY. ABOVE STOP. HOLD.** |
+
+- **NVDA pre-market $210.10:** 8.3% above stop $193.93 ✅
+- **50-day MA (~$203–205):** NVDA +2.5–3.5% above ✅
+- **Unrealized P&L (est.):** ~+$0.09 on $12.50 position
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **PDT day trades:** 0 of 3 ✓
+- **⚠️ NVDA pending-orders.json:** Still "PENDING" since Jun 18 (4 trading days). Relay (pmi_relay.py) should have executed by now. Zack must confirm NVDA execution and stop order status.
+
+---
+
+### NVDA Thesis Integrity Check — June 22 Open
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price above entry $208.53 | **✅** | Pre-market $210.10 (+0.75% unrealized gain) |
+| Price above 50-day MA (~$203–205) | **✅ INTACT** | +2.5–3.5% above MA |
+| AI capex thesis | **✅ INTACT** | Q1 FY2027: $81.62B revenue, 90% YoY growth; Meta + AWS partnerships |
+| Amazon Trainium external sales | **⚠️ MONITORING** | Amazon planning external Trainium rack sales (~2 years); Trainium 3rd gen essentially sold out. Near-term: minimal. NVDA Blackwell still dominant standard. Not thesis-breaking today. |
+| Hard stop $193.93 | **✅ SAFE** | 8.3% buffer from pre-market |
+| NVDA Annual Meeting | June 24 (routine governance) | Watch for AI roadmap / Blackwell Vera commentary |
+| PCE risk | **⚠️ KEY** | Thursday June 25 — hot print (>3.6%) = VIX spike risk |
+
+**Decision: HOLD NVDA. Thesis intact. No action.**
+
+---
+
+### Watchlist Status — Market Open June 22
+
+| Ticker | Price | Status | Decision |
+|--------|-------|--------|----------|
+| NVDA | $210.10 pre-mkt | ✅ Above entry, above MA, above stop | **HOLD** |
+| AVGO | $411.46 | ✅ Above 50-day MA ~$408; ex-div $0.65 today | **DEFER — post-PCE Jun 26** |
+| MU | — | ⏳ Reports June 24 AH; consensus: $34.66B rev, $19.72 EPS | **WATCHLIST — no entry before earnings** |
+| Crypto (BTC/USD) | — | F&G ~47 (Neutral, improved) | **PASS — not in conviction entry zone** |
+
+---
+
+### AVGO — PCE Deferral Reaffirmed
+
+AVGO at $411.46 is above the 50-day MA (~$408.04) ✅. Setup is technically valid. However:
+- PCE May releases Thursday June 25 (CRITICAL binary event)
+- Hot print (>3.6%) = immediate VIX spike, stop risk on new entry
+- Established rule: no new positions before PCE this week
+- AVGO ex-div today ($0.65): price adjusts down; net price $411.46 still above MA after adjustment ✅
+
+**Decision: DEFER AVGO entry to June 26 (post-PCE confirmation).**
+- PCE ≤ 3.4% → ENTER AVGO $12.50 June 26
+- PCE 3.4–3.6% → Reassess
+- PCE > 3.6% → PASS, defend NVDA hold
+
+---
+
+### MU Pre-Earnings Watch
+
+MU earnings June 24 AH (Q3 FY2026). Consensus: $34.66B revenue, $19.72 EPS (~932% YoY growth). HBM capacity sold out through end-2026. **Rule: NO entry before earnings — gap risk unmanageable with -7% stop.**
+
+If MU beats with strong HBM/AI commentary → assess post-earnings momentum entry June 25 morning. Check RSI at open (must be < 65). Size: $12.50. Treat MU beat as secondary confirmation of NVDA AI capex thesis.
+
+---
+
+### Crypto Update — June 22
+
+F&G index now reading ~47 (Neutral) per CoinMarketCap — improved significantly from the 14–23 range (Extreme Fear) of prior sessions. However, our crypto entry criterion requires F&G above 20 AND a specific setup. "Neutral" is not an entry signal; we look for recovery FROM Extreme Fear. No active crypto thesis. **PASS for now.**
+
+---
+
+### Trade Decisions — June 22
+
+**No new trades today.**
+
+| Ticker | Decision | Reason |
+|--------|----------|--------|
+| NVDA | **HOLD** | Pre-market $210.10; thesis intact; stop $193.93 safe (8.3% buffer) |
+| AVGO | **DEFER** | PCE Thursday = binary risk; no edge in entering before Jun 25 print |
+| MU | **WATCHLIST** | Reports Jun 24 AH; assess post-earnings June 25 morning |
+| Crypto | **PASS** | F&G ~47 (Neutral) — not in fear-reversal entry zone |
+
+---
+
+### Economic Calendar — Key Dates Remaining
+
+| Date | Event | Consensus | Impact |
+|------|-------|-----------|--------|
+| Jun 23 (Tue) | Consumer Confidence | ~102.5 | Hot = hawkish PCE signal |
+| **Jun 24 (Wed)** | **MU Earnings AH** | $34.66B rev, $19.72 EPS | HIGH — AI memory demand read |
+| Jun 24 (Wed) | NVDA Annual Meeting | — | Governance; watch AI roadmap |
+| Jun 24 (Wed) | Bank Stress Tests 4PM | — | VIX watch |
+| **Jun 25 (Thu)** | **PCE May 2026** | Core ~3.4% | CRITICAL — determines AVGO entry |
+| Jun 25 (Thu) | Q1 GDP Final | ~2.7% | Backward-looking |
+
+---
+
+### ⚠️ Operational Alert — Pending Order Status
+
+**pending-orders.json** still shows NVDA order as "PENDING" (placed June 18 — now 4 trading days old). The relay (pmi_relay.py) should have executed and updated status within 3 minutes if running. Possible issues:
+1. Relay not running on Zack's Mac
+2. Order executed but status not updated by relay
+3. Network/authentication issue with relay
+
+**Action required from Zack:** Confirm NVDA execution status. If fill price differs from $208.53 est., notify Bull for trade log correction. If not executed: execute now at market, adjust stop to $193.93 (-7%), and update pending-orders.json to "EXECUTED".
+
+---
+
+### Portfolio Status — Market Open June 22
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.09 est. (NVDA ~+$0.09 unrealized if executed) |
+| Cash | ~$237.50 |
+| Open Positions | 1 (NVDA ~$12.59 market value est.; PENDING CONFIRMATION) |
+| Unrealized P&L (NVDA) | ~+$0.09 est. (pre-mkt $210.10 vs entry $208.53) |
+| Cumulative Alpha | **~-1.31% est.** (SPY $746.93 vs $737 Jun 10 inception = +1.35%; portfolio +0.04% est.) |
+| Day Trades Used | 0 of 3 |
+| VIX | ~16.78 (OFFENSE) |
+| Next critical event | MU earnings Jun 24 AH; PCE May Jun 25 (CRITICAL) |
+| Telegram | **NONE** — no new trade placed, no stop triggered |
+
+---
+
 ## PRE-MARKET INTELLIGENCE — 2026-06-22 06:00 ET — PAPER
 
 **Session type:** Pre-market routine (6:00 AM ET)
