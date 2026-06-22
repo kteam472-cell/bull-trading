@@ -5141,3 +5141,122 @@ TSLA at 52-week high with volume spike. Momentum breakout setup. However, fundam
 PASS — Volume threshold met, but RSI above 70 (extended), insider selling in past 90 days, decelerating revenue, and mixed analyst revisions all fail the checklist. The technical setup is real but fundamentals do not confirm. Wait for a pullback to the 50-day before reconsidering.
 
 *[PAPER — backtest for format validation]*
+
+---
+
+## MARKET-CLOSE INTELLIGENCE — 2026-06-22 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day):** 0 of 3
+
+---
+
+### Final Market Snapshot — June 22, 2026
+
+| Index / Asset | Close | Change |
+|---------------|-------|--------|
+| S&P 500 | 7,475.34 | -0.34% |
+| SPY (est.) | ~$744.40 | -0.34% |
+| NVDA | $210.69 | **+2.95%** |
+| VIX | ~16.78 | OFFENSE ✅ |
+
+**S&P 500 context:** Modest -0.34% decline after Iran deal optimism proved temporary — market digesting hawkish FOMC (Warsh) + higher-for-longer narrative. Russell 2000 strong (+2.12%) = small-cap rotation, not broad risk-off. Nasdaq-100 rebalance (CRWV, MRVL added) drove some large-cap tech volatility.
+
+---
+
+### NVDA Position — End-of-Day Review
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Close price | $210.69 | Range $208.62–$213.99 |
+| vs Entry $208.53 | **✅ +1.04%** | +$0.13 unrealized on $12.50 position |
+| vs 50-day MA ~$203–205 | **✅ +2.8–3.8%** | Uptrend intact |
+| vs Hard Stop $193.93 | **✅ SAFE** | 7.96% buffer below close |
+| Daily performance | **+2.95%** | Outperformed S&P by +3.29% today |
+| Trailing stop activation | Not yet | Requires +10% from entry ($229.38) |
+| Thesis | **✅ INTACT** | AI capex confirmed; GOOGL -7.04% = demand for NVDA |
+| EOD close? | **NO — HOLD** | No earnings tonight; Annual Meeting Jun 24 = routine |
+
+---
+
+### What Happened Today
+
+- NVDA had its strongest single day since we entered (+2.95%), closing at $210.69. Open dipped briefly to $208.62 (rebalancing day volatility) then surged to intraday high of $213.99 before settling at $210.69.
+- **GOOGL -7.04%** was the dominant story: $180–190B FY2026 AI capex spend, $84.75B dilution from stock grants/options, regulatory pressure, talent departures. This is structurally BULLISH for NVDA — GOOGL isn't cutting AI spending, they're accelerating it, which means more GPU demand.
+- **Nasdaq-100 quarterly rebalance effective today**: CRWV (CoreWeave, NVDA's #1 hyperscale GPU customer) added to NDX. Institutional flows into CRWV = further validation of the AI infra narrative.
+- **S&P 500 -0.34%** — mild decline from large-cap tech drag (GOOGL) offset by Russell 2000 +2.12% rotation into small caps.
+- Iran deal: 60-day nuclear framework talks proceeding in Bürgenstock. Hezbollah tension managed via VP Vance 60-day roadmap. Market treating as stable-but-evolving.
+- VIX ~16.78 throughout the day — held OFFENSE territory despite mild S&P decline.
+
+---
+
+### What Worked / What Didn't
+
+**Worked:**
+- Holding NVDA through the rebalancing-day open dip ($208.62) vs selling on weakness → position recovered strongly to $210.69 close (+2.95%).
+- Deferring AVGO to post-PCE was correct — PCE Thursday is a binary event; no edge in entering a second position this week.
+- Not chasing CRWV on the rebalance addition (too extended at IPO-level valuation, no 20-day MA yet).
+
+**Didn't work / Neutral:**
+- Alpaca API still network-blocked → cannot confirm NVDA execution or set the $193.93 stop programmatically. This is a persistent operational risk. **Zack must confirm position and set stop.**
+
+---
+
+### What to Watch Tomorrow (June 23)
+
+| Priority | Item | Action |
+|----------|------|--------|
+| 🔴 HIGH | PCE May — Thu Jun 25 | CRITICAL binary event. Core ~3.4% consensus = right at threshold. Hot (>3.6%) = VIX spike risk on NVDA position. Prepare: if PCE hot, VIX >20 → assess NVDA stop placement. |
+| 🔴 HIGH | MU Earnings — Wed Jun 24 AH | Revised consensus: $20.70 EPS, $35.56B rev. Strong beat with HBM/AI commentary = secondary NVDA thesis confirmation. Assess MU momentum entry Jun 25 morning if clean beat. |
+| 🟡 MED | NVDA Annual Meeting — Wed Jun 24 | Routine governance. Watch for: Blackwell production ramp numbers, Vera Rubin timeline, AI software ecosystem (CUDA monetization). No expected stock move unless surprise announcement. |
+| 🟡 MED | Bank Stress Tests — Wed Jun 24 4PM | VIX watch — fail surprise = risk-off spike. Unlikely but monitor. |
+| 🟢 LOW | AVGO — defer to Jun 26 | PCE ≤ 3.4% → ENTER $12.50 June 26. PCE 3.4–3.6% → reassess. PCE >3.6% → PASS. |
+| 🟢 LOW | CRWV watchlist | Post-PCE candidate (NVDA's #1 customer; NDX addition = institutional backing). Needs 20-day MA to establish before entry. Monitor. |
+
+---
+
+### Trade Decisions — June 22 Close
+
+**No new trades. No EOD closes.**
+
+| Ticker | Decision | Reason |
+|--------|----------|--------|
+| NVDA | **HOLD** | Close $210.69; stop $193.93 safe (7.96% buffer); thesis intact; no earnings tonight |
+| AVGO | **DEFER** | PCE Thursday = binary risk; defer to June 26 per plan |
+| MU | **WATCHLIST** | Reports Jun 24 AH — assess post-earnings June 25 |
+| Crypto | **PASS** | F&G ~47 (Neutral — not in fear-reversal entry zone) |
+
+---
+
+### Portfolio Status — Market Close June 22
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.13 est. |
+| Cash | ~$237.50 |
+| Open Positions | 1 (NVDA ~$12.63; PENDING ZACK CONFIRMATION) |
+| Unrealized P&L (NVDA) | ~+$0.13 (+1.04% vs entry $208.53) |
+| Today's Portfolio Return | ~+0.02% (NVDA +$0.04 on day vs $210.10 open) |
+| Today's S&P Return | -0.34% |
+| Today's Alpha | **+0.36%** |
+| Cumulative Return | ~+0.05% |
+| Cumulative SPY Return | ~+1.00% (SPY ~$744.40 vs $737 inception Jun 10) |
+| Cumulative Alpha | **~-0.95%** |
+| Day Trades Used | 0 of 3 |
+| Next critical event | NVDA Annual Meeting Jun 24; MU earnings Jun 24 AH; PCE May Jun 25 |
+
+---
+
+### ⚠️ Operational Alert (Persistent)
+
+**NVDA order still "PENDING" in pending-orders.json** (placed Jun 18 — now 4 trading sessions old). Alpaca API is network-blocked from this environment — relay execution cannot be confirmed.
+
+**Zack: Action required.** Confirm:
+1. Was NVDA filled on June 18 at market (~$208.53)?
+2. Is the $193.93 stop order placed in Alpaca?
+3. If not executed: execute now at market (~$210.69); set stop at $193.93; update pending-orders.json to "EXECUTED".
+
+Unrealized gain estimate assumes execution at $208.53. If fill price differs, Bull will correct the trade log.
+
+---
