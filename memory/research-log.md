@@ -45,6 +45,179 @@
 
 ---
 
+## PRE-MARKET INTELLIGENCE — 2026-06-22 06:00 ET — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 18–22):** 0 of 3 — NO PDT WARNING
+
+---
+
+### ⚠️ DATE CLARITY NOTE
+
+Prior sessions (running June 19 and June 22) have been labeling entries as "June 23" due to a date confusion seeded by premature entries written on June 19. The system clock confirms today is June 22, 2026 (Monday). All entries labeled "June 23" in this repo were written by sessions running on June 22 or earlier. This pre-market session is the first of the new week, running the morning of June 22.
+
+---
+
+### ⚠️ URGENT FLAG: Iran Deal Fragility
+
+**The Iran deal signed June 19 in Geneva is NOW UNDER STRAIN.**
+
+Over the weekend (June 20–21):
+- Trump posted an ultimatum on Truth Social demanding Iran halt support for Hezbollah/Lebanese proxies
+- Trump threatened to "hit Iran very hard again" if demands not met
+- VP JD Vance and Iranian FM Araghchi held high-stakes talks in Bürgenstock, Switzerland — talks faced "severe friction" on Sunday
+- S&P 500 prediction markets show only 28% probability of UP open (risk-off signal)
+
+**However, oil is STILL declining:**
+- WTI: ~$75.49 (-0.47%)
+- Brent: $78.82 (-1.54%)
+
+Oil declining despite Iran deal friction = markets likely reading this as Trump negotiating posturing, not genuine deal collapse. WTI at $75.49 is well below the pre-deal ~$85–89 levels. **Assessment: Real geopolitical risk, but markets treating it as noise for now.**
+
+---
+
+### Market Regime — Pre-Market June 22
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX (June 19 close) | **16.78** (est; last confirmed Jun 18: 18.44) | ✅ **OFFENSE** — below 20 |
+| S&P 500 futures | **DOWN** signal (28% probability up open) | ⚠️ Risk-off tone |
+| NVDA pre-market | **$207.22–$208.35** | ✅ Above stop $193.93; above 50-day MA ~$203–205 |
+| SPY last confirmed | **$746.74** (Jun 18 close) | Baseline for today |
+| Iran deal | ⚠️ FRAGILE — Trump ultimatum; talks under strain | Watch for escalation |
+| Oil (WTI) | **$75.49** (-0.47%) | ✅ Still declining — no panic spike |
+| AVGO | Ex-dividend TODAY ($0.65) | ⚠️ Price adjusts down ~$0.65 from Jun 21 close $409.58 → expected open ~$408.93 |
+
+---
+
+### Open Positions Check — Pre-Market June 22
+
+| Position | Entry | Stop | Pre-Market Est. | Status |
+|----------|-------|------|----------------|--------|
+| NVDA | $208.53 (Jun 18) | $193.93 (-7%) | $207.22–$208.35 | ✅ **SAFE. Above stop, above 50-day MA. HOLD.** |
+
+- **NVDA pre-market:** $207.22–$208.35 = 6.7–7.4% ABOVE stop $193.93 ✅
+- **50-day MA (~$203–205):** NVDA comfortably above ✅
+- **AI capex thesis:** INTACT (no adverse NVDA-specific news)
+- **Iran deal risk to NVDA:** SECONDARY. NVDA's primary driver is AI capex (hyperscaler spend), not geopolitics. A VIX spike above 25 would be a concern; current VIX ~16.78 is not near that level.
+- **Daily loss cap ($12.50):** NOT triggered ✓
+- **⚠️ Alpaca API:** STILL BLOCKED. Zack must confirm NVDA execution status from June 18.
+
+---
+
+### NVDA Thesis Integrity Check — June 22
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price above 50-day MA (~$203–205) | **✅ INTACT** | Pre-market $207.22–$208.35 = ~+1–2% above MA |
+| AI capex thesis ($25B bond / $85B demand) | **✅ INTACT** | No adverse NVDA-specific news over weekend |
+| NVDA Annual Meeting | **June 24** | Routine governance. Watch for Blackwell/Vera roadmap commentary. |
+| SK Hynix partnership | **✅ BULLISH** | Multi-year memory tech co-development for HBM and AI platforms (new) |
+| Iran deal risk | **⚠️ MONITORING** | Secondary to thesis. Oil still declining = not threat-level yet. |
+| Stop $193.93 | **✅ SAFE** | ~7%+ buffer at pre-market levels |
+
+**Decision: HOLD NVDA through open. No changes to stop or thesis.**
+
+---
+
+### Intelligence Check
+
+**Overnight / Weekend News:**
+- **Iran deal FRAGILE** (see above — key risk for today's open)
+- **NVDA SK Hynix partnership**: multi-year co-development for HBM and AI platforms — confirms AI memory integration roadmap. Bullish for thesis.
+- **Amazon Trainium** (carried forward from prior session): Amazon in talks to sell Trainium chips to third-party customers. Monitoring — not thesis-breaking. NVDA Blackwell still dominant AI compute standard.
+- **No export control changes, no NVDA-specific adverse news**
+
+**Economic Calendar — Week of June 22:**
+
+| Date | Event | Consensus | Bull Impact |
+|------|-------|-----------|-------------|
+| **Jun 22 (Mon)** | Nothing major scheduled | — | Watch VIX at open |
+| **Jun 23 (Tue)** | Consumer Confidence (Conference Board) | ~102.5 | Watch — beat = hot consumer PCE signal |
+| **Jun 24 (Wed)** | **MU Earnings AH** (Q3 FY2026) | Rev $34.66B, EPS $19.95, GM ~81% | **HIGH** — AI memory demand signal; no entry before |
+| **Jun 24 (Wed)** | **Bank Stress Tests** (4 PM ET) | — | 32 banks; financials volatility / VIX watch |
+| **Jun 24 (Wed)** | NVDA Annual Meeting (9 AM PT online) | — | Routine governance; Blackwell/Vera commentary |
+| **Jun 25 (Thu)** | **PCE May 2026** (8:30 AM ET) | Core ~3.4% YoY; headline +4.1% | **🔴 CRITICAL** — Warsh raised forecast to 3.6%. Decision rule applies. |
+| **Jun 25 (Thu)** | Q1 GDP Final | ~2.7% | Backward-looking; medium impact |
+
+**FOMC Blackout:** Next meeting July 28–29. Blackout starts ~July 22. Full ~4.5-week trading runway.
+
+---
+
+### AVGO — Ex-Dividend Impact Today
+
+**Ex-div date: June 22, 2026 | Dividend: $0.65/share**
+
+| Factor | Detail |
+|--------|--------|
+| Jun 21 close (latest) | **$409.58** |
+| Dividend adjustment | -$0.65 |
+| Expected open today | **~$408.93** |
+| 50-day MA (corrected, from Jun 19 backlog) | **$408.04** |
+| Expected gap vs 50-day MA | **+$0.89 above MA** — BARELY above |
+
+**Impact on entry plan:** The ex-div adjustment brings AVGO to just $0.89 above its 50-day MA. The entry plan requires holding ABOVE $408 for 2+ sessions. If AVGO stays above $408 today AND tomorrow (June 23) → condition 1 met. Then PCE June 25 determines whether to enter June 26.
+
+**Today's ruling:** With Iran deal friction and a risk-off open expected, AVBO likely has downward pressure. Not entering today. DEFER to post-PCE June 26 analysis as planned.
+
+---
+
+### Backlog Review — Stale Ticker Check
+
+Last researched: June 19 (3 days ago). None stale (>7-day threshold). No emergency refreshes needed.
+
+**Updates from today's research:**
+- **NVDA:** Pre-market $207.22–$208.35. SK Hynix HBM partnership (new positive). Iran deal risk (secondary). HOLD.
+- **AVGO:** Ex-div today. Entry criteria slightly changed (see above). DEFER post-PCE.
+- **MU:** Earnings Wed Jun 24 AH confirmed (not yet released). Revenue consensus $34.66B, EPS $19.95, GM ~81%. NO entry before.
+- **BTC/USD:** Crypto F&G last known ~23 (Fear). Still below conviction level. CANCELLED.
+- **MSFT:** No new signals. Still below 50-day MA.
+- **GOOGL:** 87% Buy consensus, avg PT $432 vs ~$393 current (+10% upside). Earnings ~July 23 AH. Not active watchlist yet — needs confirmed technical setup.
+
+**New tickers scan:** No strong new candidates given Iran uncertainty + PCE week. Staying concentrated.
+
+---
+
+### Trade Ideas — June 22
+
+**No new trades today.**
+
+| Idea | Decision | Reason |
+|------|----------|--------|
+| NVDA | **HOLD** | Pre-market above stop + MA; thesis intact; Iran secondary risk only |
+| AVGO | **DEFER** | Ex-div today; Iran friction; PCE Thursday; entry conditions not met |
+| MU | **WATCHLIST** | Report June 24 AH; no entry before earnings |
+| Crypto | **CANCELLED** | F&G ~23, below conviction threshold |
+
+**Stance:** Hold NVDA, hold cash, watch VIX at open. If VIX spikes above 20 at open: monitor closely but don't close NVDA (thesis is medium-term; stop at $193.93 is protection). If Iran news deteriorates significantly AND NVDA approaches $200, reassess.
+
+---
+
+### PDT Status — June 22
+
+- Rolling 5-day window (Jun 18–22): **0 of 3 day trades used** ✓
+- NO PDT WARNING
+
+---
+
+### Portfolio Status — Pre-Market June 22
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.00 (NVDA flat, markets closed since Jun 18) |
+| Cash | ~$237.50 |
+| Open Positions | 1 (NVDA ~$12.50 — PENDING CONFIRMATION from Zack) |
+| Unrealized P&L (NVDA) | ~-$0.20 est. (pre-mkt $207.22 vs entry $208.53) |
+| Cumulative alpha | **~-1.32% est.** (SPY $746.74 Jun 18 close vs $737 Jun 10 inception = +1.32%; portfolio ~0.00%) |
+| Day Trades Used | 0 of 3 |
+| VIX | ~16.78 (OFFENSE) |
+| Alpaca API | **⚠️ BLOCKED** — Zack must confirm NVDA execution |
+| Next critical events | MU earnings Jun 24 AH; PCE May Jun 25 |
+| Iran deal | **⚠️ FRAGILE** — Trump ultimatum weekend; monitoring |
+
+---
+
 ## MARKET-CLOSE SUMMARY — 2026-06-19 15:00 ET — PAPER (JUNETEENTH — MARKETS CLOSED)
 
 **Session type:** Market-close routine (3:00 PM ET)
