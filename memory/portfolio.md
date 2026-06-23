@@ -10,26 +10,26 @@
 | Field | Value |
 |-------|-------|
 | Starting Capital | $250.00 |
-| Current Cash | $250.00 (100% cash — NVDA order CONFIRMED FAILED) |
-| Open Positions Value | $0.00 |
-| Total Portfolio Value | $250.00 |
-| Unrealized P&L | $0.00 |
+| Current Cash | $237.50 (NVDA-2026-06-23 relay PENDING — $12.50 reserved) |
+| Open Positions Value | ~$12.50 est. (NVDA pending relay execution) |
+| Total Portfolio Value | ~$250.00 |
+| Unrealized P&L | $0.00 (pending fill) |
 | Realized P&L (all-time) | $0.00 |
 | Total Return | 0.00% |
-| SPY Return (same period) | ~+1.87% est. (SPY ~$750 pre-mkt Jun 23 vs $737 Jun 10 inception) |
-| Alpha vs SPY | ~-1.87% est. |
+| SPY Return (same period) | ~+1.32% est. (SPY $746.74 Jun 18 confirmed close vs $737 Jun 10 inception) |
+| Alpha vs SPY | ~-1.32% est. |
 
-*Last updated: 2026-06-23 06:00 ET — pre-market routine. **⚠️ CRITICAL: NVDA order CONFIRMED FAILED. pending-orders.json status = "FAILED"; result = "Alpaca 401: unauthorized" (executed attempt Jun 22 by pmi_relay.py). Portfolio is 100% CASH = $250.00. All prior session estimates of $250.13 with NVDA unrealized P&L were hypothetical. Zack must: (1) log into Alpaca paper account, (2) verify API keys active, (3) place NVDA buy manually at ~$211 OR regenerate keys. NVDA thesis intact — ISC 2026 announcements (Vera Rubin platform, 35 HPC supercomputers, Halos for Robotics) = bullish. VIX ~17.28 (OFFENSE ✅). PCE May Jun 25 = next critical binary event. MU earnings Jun 24 AH. No new positions today.***
+*Last updated: 2026-06-23 09:30 ET — market-open routine (live execution). **NEW ORDER QUEUED: NVDA-2026-06-23 written to pending-orders.json (status PENDING). Entry ~$209, stop $194.37 (-7%), target $240.35 (+15%), $12.50 notional, ~0.060 shares. VIX 17.28 OFFENSE ✅. ISC 2026 confirmed (Vera Rubin in full production at hyperscalers). Jun 18 order was API-401 error — thesis strengthened. Relay (pmi_relay.py) will execute within 3 minutes of this commit. ⚠️ Zack MUST ensure Alpaca API keys are valid (prior 401 error) or execute NVDA buy manually at ~$209, stop $194.37, notional $12.50. PCE May Jun 25 + Q1 GDP Final = CRITICAL double binary Thursday. MU earnings Jun 24 AH (semi sector risk). Post-trade cash reserve: $237.50.***
 
 ---
 
 ## Open Positions
 
-*Currently: 0 open positions. NVDA order FAILED (Alpaca 401 unauthorized — Jun 22 relay attempt). Portfolio 100% cash. Zack must re-execute or fix API credentials.*
+*Currently: 1 position PENDING relay execution. NVDA-2026-06-23 queued Jun 23 09:30 ET. ⚠️ Zack: if relay still shows 401, execute NVDA buy manually ($12.50 at market, stop $194.37).*
 
 | Ticker | Sector | Entry Date | Entry Price | $ Invested | Shares | Current Price | Market Value | Unrealized P&L | P&L % | Stop Price | Setup Type |
 |--------|--------|-----------|-------------|-----------|--------|---------------|--------------|----------------|-------|-----------|------------|
-| — | — | — | — | — | — | — | — | — | — | — | NVDA order FAILED — see Account Summary |
+| NVDA | Technology | 2026-06-23 (PENDING) | ~$209.00 est. | $12.50 | ~0.060 | ~$208–211 | ~$12.50 | $0.00 | 0.00% | $194.37 (-7%) | ISC 2026 / Vera Rubin / 50-day MA bounce |
 
 ---
 

@@ -45,6 +45,104 @@
 
 ---
 
+## MARKET-OPEN INTELLIGENCE — 2026-06-23 09:30 ET — PAPER
+
+**Session type:** Market-open routine (8:30–9:30 AM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 19–23):** 0 of 3 — NO PDT WARNING
+
+---
+
+### Market Regime — Market Open June 23
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **17.28** (+2.98% on day; 1-month range 15.18–23.34) | ✅ **OFFENSE** — below 20 |
+| ES Futures | **+0.98%** pre-market | ✅ Constructive open |
+| NVDA pre-market | **~$208–211** (conflicting sources; near original entry $208.53) | ✅ At/near entry zone |
+| SPY | **$747.73** pre-mkt (~$744.39 current; prev close $746.74) | Stable |
+| Iran deal | SIGNED ✅ — 60-day nuclear talks proceeding | Geopolitical tail risk reduced |
+| Crypto F&G | **22** (Extreme Fear / borderline) | ❌ No crypto entry |
+| Amazon Trainium | Early talks to sell to 3rd parties (no deals) | ⚠️ Monitoring — NOT thesis-breaking |
+| Bank stress tests | June 24 4PM ET (tomorrow) | Low NVDA relevance |
+
+---
+
+### Open Positions Check — June 23 Open
+
+| Position | Original Entry | Stop | Status |
+|----------|---------------|------|--------|
+| NVDA (FAILED Jun 18) | $208.53 | $193.93 | ⚠️ API-401 failure confirmed Jun 22 |
+
+**Action:** Writing NEW pending order NVDA-2026-06-23 to replace failed Jun 18 order.
+
+---
+
+### NVDA Thesis Integrity Check — June 23 Open
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| Price at/near entry zone | **✅** | Pre-mkt ~$208–211; original entry $208.53 |
+| Price above 50-day MA (~$203–205) | **✅ INTACT** | +$3–8 above MA |
+| ISC 2026 Vera Rubin | **✅ CONFIRMED & STRENGTHENED** | Full production announced; AWS/Google/MSFT/OCI H2 2026; 35 supercomputers; Los Alamos National Lab win |
+| AI capex demand | **✅ INTACT** | Hyperscaler commitment confirmed via hyperscaler Vera Rubin orders |
+| Amazon Trainium competitive risk | **⚠️ MONITORING** | Early-stage external sales talks; no deals; Trainium 3rd gen sold out; NVDA Blackwell/Vera Rubin dominant standard |
+| VIX regime | **✅ OFFENSE** | 17.28 — below 20 |
+| ES futures | **✅ CONSTRUCTIVE** | +0.98% pre-mkt |
+| PCE Thursday binary | **⚠️ MANAGED** | Jun 25 — sizing conservatively at $12.50 (not $25 max) to manage gap risk |
+| MU earnings tomorrow | **⚠️ MANAGED** | Jun 24 AH — MU beat likely → BULLISH for NVDA; MU miss → semi headwind only |
+
+**Decision: ENTER NVDA — new pending order written (NVDA-2026-06-23)**
+
+---
+
+### Trade Parameters — NVDA-2026-06-23
+
+| Parameter | Value |
+|-----------|-------|
+| Symbol | NVDA |
+| Side | BUY |
+| Notional | $12.50 (5% of $250 portfolio — PCE-week conservative sizing) |
+| Approx shares | ~0.060 |
+| Entry price (est.) | ~$209.00 (relay executes at market open) |
+| Stop loss | $194.37 (-7% from $209) |
+| Profit target | $240.35 (+15% from $209) |
+| Post-trade cash | $237.50 (>$50 floor ✅) |
+| Max loss | $0.875 (7% of $12.50) |
+| Relay file | pending-orders.json — NVDA-2026-06-23 |
+
+**Why override "no new trades" pre-market plan:** Live market data showed VIX 17.28 (OFFENSE), ES +0.98%, NVDA exactly back at original entry zone, and ISC 2026 Vera Rubin announcement strengthening the thesis. PCE risk is managed by smaller size ($12.50 vs. $25 max). The "no trades" pre-market note was a cautious prediction; live conditions support entry.
+
+---
+
+### Watchlist Update — June 23
+
+| Ticker | Price | Status | Decision |
+|--------|-------|--------|----------|
+| NVDA | ~$208–211 | ✅ At entry zone; thesis strengthened | **BUY — relay queued** |
+| AVGO | $393.94 | ❌ BELOW 50-day MA ~$408 | **PASS — disqualified (below MA)** |
+| MU | ~$1,230+ | ⏳ Reports Jun 24 AH | **WATCHLIST — assess post-earnings** |
+| CRWV | — | NVDA's #1 GPU customer | **WATCHLIST — post-PCE Jun 26** |
+| Crypto | BTC ~$63,500; F&G 22 | Below 20 entry threshold zone | **PASS** |
+
+---
+
+### Portfolio Status — Market Open June 23
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | ~$250.00 |
+| Cash | $237.50 (after NVDA-2026-06-23 relay queued) |
+| Open Positions | 1 PENDING (NVDA ~$12.50; relay pending execution) |
+| Daily P&L | $0.00 (no confirmed fills) |
+| Cumulative Alpha | **~-1.32% est.** (SPY $746.74 Jun 18 vs $737 Jun 10 inception = +1.32%; portfolio flat) |
+| Day Trades Used | 0 of 3 |
+| VIX | 17.28 (OFFENSE) |
+| Next critical events | MU earnings Jun 24 AH; Bank stress tests Jun 24 4PM; PCE May + Q1 GDP Final Jun 25 |
+| Telegram | **SENT** — new trade signal NVDA-2026-06-23 queued |
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-22 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)
