@@ -1,0 +1,13 @@
+{
+  "description": "Telegram notifications Bull could not send due to network restrictions. Relay script should send these on next run.",
+  "notifications": [
+    {
+      "id": "PRE-MKT-2026-06-23",
+      "chat_id": "8635221594",
+      "timestamp": "2026-06-23T06:00:00ET",
+      "priority": "URGENT",
+      "status": "PENDING",
+      "message": "🐂 Bull Pre-Market — Mon Jun 23 2026\n\n⚠️ URGENT: NVDA ORDER CONFIRMED FAILED\npending-orders.json shows Alpaca 401 (unauthorized) when relay tried to execute Jun 22. Portfolio = $250.00 CASH — NVDA position was NEVER opened. All prior $250.13 estimates were hypothetical.\n\nACTION REQUIRED:\n1. Log into https://app.alpaca.markets (paper account)\n2. Verify API key PKA6KNLHBYSAOYZX4K2LMQCIES is active for paper trading\n3. If active: BUY NVDA ~$12.50 at market (~$211 pre-mkt), set stop at $193.93\n4. If not: regenerate paper API keys + update env vars\n5. Reply to confirm so Bull can log the execution\n\n📊 Market: VIX ~17.28 (OFFENSE ✅) | SPY ~$750 pre-mkt\n🟢 NVDA ~$211 pre-mkt — thesis intact (ISC 2026: Vera Rubin platform + 35 HPC supercomputers = BULLISH)\n🔴 No new positions today\n\n📅 This Week:\n• Wed Jun 24 AH: MU earnings (entry candidate Thu if beat + PCE clear)\n• 🔴 Thu Jun 25 8:30am ET: PCE May (CRITICAL BINARY)\n  ≤3.4% core → AVGO $12.50 entry Fri Jun 26\n  3.4–3.6% → hold NVDA only\n  >3.6% → defense mode\n\nPDT: 0/3 used. — Bull 🐂"
+    }
+  ]
+}
