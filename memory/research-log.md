@@ -5260,3 +5260,141 @@ PASS — Volume threshold met, but RSI above 70 (extended), insider selling in p
 Unrealized gain estimate assumes execution at $208.53. If fill price differs, Bull will correct the trade log.
 
 ---
+
+## PRE-MARKET INTELLIGENCE — 2026-06-23 — PAPER
+
+**Session type:** Pre-market routine (6:00 AM ET)
+**Mode:** PRACTICE ✅
+**Day trades used this week:** 0 of 3 — NO PDT WARNING ✓
+
+---
+
+### ⚠️ CRITICAL OPERATIONAL FLAG — NVDA ORDER CONFIRMED FAILED
+
+**pending-orders.json status: "FAILED"**
+
+The NVDA buy order (Jun 18, $12.50 notional @ $208.53) returned "Alpaca 401: unauthorized" when pmi_relay.py attempted execution on June 22. This is NOT a network restriction — this is an authorization rejection from Alpaca. The portfolio is **100% CASH = $250.00**.
+
+All prior session estimates showing "~$250.13" with NVDA unrealized gains were ESTIMATES assuming execution. They were wrong.
+
+**Root cause possibilities:** (1) Paper trading API credentials invalid/expired, (2) Alpaca account inactive, (3) API endpoint mismatch.
+
+**Zack: Action required TODAY.**
+1. Log into Alpaca paper trading account at https://app.alpaca.markets
+2. Verify the APCA-API-KEY-ID (PKA6KNLHBYSAOYZX4K2LMQCIES) is valid for paper trading
+3. Check account status (must be "ACTIVE")
+4. If valid: place NVDA buy manually at market (~$211 pre-mkt), set stop $193.93
+5. If invalid: regenerate paper trading API keys and update environment variables
+6. Confirm execution back to Bull (telegram/email) so pending-orders.json can be updated
+
+**Investment implication:** NVDA is ~$211 pre-market (+1.2% above intended entry $208.53). If Zack executes today, stop still $193.93 (-7% from $208.53), target $239.81 (+15%). Thesis fully intact. ISC 2026 product announcements (see below) are incremental bullish.
+
+---
+
+### Market Regime
+
+- **VIX:** ~17.28 (last close, June 22) — **OFFENSE MODE ✅** (below 20 threshold)
+- **SPY pre-market:** ~$750-751 est. (SPY Jun 22 close ~$744.40; +0.8% est. pre-mkt gain)
+- **S&P 500 last close:** 7,475.34 (-0.34% Jun 22)
+- **Regime:** OFFENSE. Normal session. No macro override.
+
+---
+
+### NVDA Position Update (ISC 2026 Announcements — BULLISH)
+
+At the International Supercomputing Conference (ISC 2026), NVIDIA announced:
+1. **Vera Rubin AI accelerated computing platform** — next-gen after Blackwell; production ramp update
+2. **35 new AI HPC supercomputers** globally deploying NVIDIA architecture
+3. **Halos for Robotics** — AI platform for industrial robotics/autonomous systems
+
+These announcements confirm continued hyperscaler and enterprise adoption of NVIDIA hardware. **Thesis STRENGTHENED.** If NVDA position is executed today, fundamentals are better than at the June 18 entry thesis.
+
+**NVDA pre-market:** ~$211 (above intended entry $208.53 ✅, above 50-day MA ~$203–205 ✅, well above stop $193.93 ✅)
+**AH note:** One source shows AH dip to ~$204 (potentially flash AH illiquidity); pre-market recovery to $211 indicates market dismissed the dip.
+
+---
+
+### Economic Calendar — Week of June 23–27
+
+| Event | Date | Time | Notes |
+|-------|------|------|-------|
+| FedEx (FDX) earnings | Jun 23 AH | ~4 PM ET | Q4 FY2026; consensus $5.91 EPS, $24.18B rev. Not relevant to AI/tech watchlist. Macro read only. |
+| KB Home (KBH) earnings | Jun 23 AH | ~5 PM ET | Q2 2026; housing data; not relevant. |
+| New Home Sales | Jun 24 | AM | May data. |
+| MU earnings | **Jun 24 AH** | ~4 PM ET | **⚠️ KEY — Consensus: $19.95 EPS, $34.66B rev. Post-earnings entry candidate Jun 25.** |
+| NVDA Annual Meeting | **Jun 24** | **9 AM PT** | Virtual. Routine governance (7 proposals, 10 directors, PwC ratification). No operational announcements expected. |
+| Bank Stress Tests | **Jun 24** | **4 PM ET** | 32 banks. Severe scenario (10% unemployment, -30% home prices). Results NOT impacting capital requirements until 2027. Low risk-off probability. |
+| PCE May 2026 | **Jun 25** | **8:30 AM ET** | **🔴 CRITICAL BINARY EVENT.** Core PCE April was 3.77%/3.29% core. Warsh forecast 3.6%. Our threshold: ≤3.4% → AVGO Jun 26; >3.6% → defense. |
+| Q1 GDP Final | Jun 25 | 8:30 AM ET | Backward-looking. ~2.7% expected. Low impact. |
+| Fed speakers | Jun 23–27 | TBD | First post-FOMC week. Warsh/others likely speak. Hawkish follow-through = VIX spike risk. |
+
+---
+
+### Open Position Check
+
+| Ticker | Status | Entry | Entry Price | Current | Stop | P&L | Action |
+|--------|--------|-------|-------------|---------|------|-----|--------|
+| NVDA | ⚠️ ORDER FAILED | Jun 18 | $208.53 (intended) | ~$211 pre-mkt | $193.93 | — | Re-execute manually |
+
+**Portfolio:** 100% cash = $250.00 (actual, per failed order confirmation)
+
+---
+
+### Watchlist Checks
+
+| Ticker | Last Researched | Days Since | Status | Action |
+|--------|----------------|-----------|--------|--------|
+| NVDA | 2026-06-19 | 4 days | Active position (pending confirm) | ISC 2026 updates → thesis strengthened |
+| AVGO | 2026-06-22 | 1 day | Deferred to post-PCE | Check close vs $408 today AND tomorrow |
+| AAL | 2026-06-19 | 4 days | Extended (+24% above 50-day MA) | No entry; wait for pullback |
+| SPCX | 2026-06-19 | 4 days | Monitor only | 50-day MA not formed; earliest Sep 2026 |
+| MSFT | 2026-06-19 | 4 days | Below 50-day MA | No trigger; monitor |
+| QCOM | 2026-06-19 | 4 days | 17% below MA | Deprioritized |
+| MU | 2026-06-19 | 4 days | Pre-earnings watch | Reports Jun 24 AH; assess Jun 25 |
+
+*No tickers exceed 7-day research gap. Backlog current.*
+
+---
+
+### New Tickers Scan
+
+**CRWV (CoreWeave):** Added to Nasdaq-100 June 22. NVDA's #1 GPU customer (hyperscale GPU leasing). No 20-day MA yet (~90 trading days from IPO to MA formation). No entry until ~September 2026. Added to research backlog as long-term monitor.
+
+**AMD:** Still not on active watchlist. Last checked June 12 (~23% above 50-day MA). Not rechecked — likely still extended. Low priority vs MU entry candidate and AVGO post-PCE.
+
+---
+
+### Trade Ideas for June 23
+
+**NO NEW POSITIONS TODAY.**
+
+| Ticker | Decision | Reason |
+|--------|----------|--------|
+| NVDA | Re-execute if Zack confirms order | Order failed (401). Thesis intact. Pre-market ~$211. |
+| AVGO | DEFER | PCE Thursday binary. Wait for Jun 25 PCE read → enter Jun 26 IF ≤3.4% |
+| MU | WATCHLIST | Reports Jun 24 AH. Entry criteria Jun 25: beat + HBM guidance strong + RSI <65 + gap ≤10% + VIX <20 + PCE clear |
+| Crypto | PASS | F&G 20 (Extreme Fear — at/below threshold) |
+| FDX/KBH | PASS | Earnings today but not relevant to AI/tech thesis |
+
+**PCE rule (Thursday Jun 25):**
+- ≤ 3.4%: OFFENSE — execute AVGO $12.50 on Jun 26; assess MU entry
+- 3.4–3.6%: CAUTION — hold NVDA only; no new positions
+- > 3.6%: DEFENSE — if VIX spikes >20, reassess NVDA stop; no new positions
+
+---
+
+### Portfolio Status — Pre-Market June 23
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | $250.00 (100% cash — NVDA order FAILED) |
+| Cash | $250.00 |
+| Open Positions | 0 (NVDA order pending Zack manual re-execution) |
+| Day Trades Used (rolling 5-day) | 0 of 3 ✓ |
+| PDT Warning | NONE |
+| Cash Floor Check | $250.00 >> $50 minimum ✓ |
+| Daily Loss Cap | NOT triggered |
+| Next critical events | MU Jun 24 AH, PCE May Jun 25, AVGO decision Jun 26 |
+
+---
+
