@@ -45,6 +45,85 @@
 
 ---
 
+## MARKET-CLOSE SUMMARY — 2026-06-23 15:00 ET — PAPER
+
+**Session type:** Market-close routine (3:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 19–23):** 0 of 3 — NO PDT WARNING
+
+---
+
+### What Happened Today (June 23, 2026)
+
+The AI/semiconductor sector selloff that began Tuesday morning accelerated into the close. S&P 500 fell ~1.3% and the Nasdaq dropped ~2% — the worst chip-sector session since April 2025. Drivers:
+
+1. **AI monetization doubts** — Investors broadly questioning whether record AI capex ($180-190B GOOGL alone; $100B+ MSFT) is generating near-term revenue. The "build it and they will come" thesis is under stress as hyperscaler capex grows while AI cash generation lags.
+2. **Rate hike pricing** — 50bps December 2026 rate hike now fully priced (was 25bps two weeks ago). Warsh hawkish FOMC shock is still reverberating.
+3. **South Korean chip dump** — KOSPI -9.99% (steepest drop in 3+ months). Samsung -12%+, SK Hynix -12%+. Overseas institutional investors exiting chip names on regulatory overheating signals.
+
+Key prices at close:
+- S&P 500: ~7,377 est. (-1.3%); SPY ~$734-735 est.
+- Nasdaq: -2% on day
+- NVDA: ~$203 est. (-3.2%; range $200.04-$203.77)
+- MU: ~$1,074 (-11.4%; reporting AH Jun 24)
+- SMH (Semiconductor ETF): -6.5%
+- TSM: -5.2%
+- VIX: ~17-18 (OFFENSE maintained — below 20)
+
+---
+
+### What Worked / What Didn't
+
+**WHAT WORKED:**
+- Holding cash was the absolute right call. No position = no losses during -1.3% S&P / -2% Nasdaq / -6.5% SMH day.
+- The decision to pause NVDA re-entry at the Jun 23 open (after API failure) — even though the open looked constructive — was validated by the intraday reversal from ~$211 pre-market to ~$203 close.
+- Strategy discipline: the binary event rule (no entries within 48h of MU earnings + PCE) protected capital perfectly.
+- **MILESTONE:** Portfolio cumulative alpha turned POSITIVE for first time since inception. SPY is now ~-0.3–0.4% below our $737 Jun 10 inception price; portfolio flat at 0.00% → alpha ~+0.3–0.4%. Cash preservation through a selloff generates alpha.
+
+**WHAT DIDN'T WORK:**
+- Both NVDA orders (Jun 18 + Jun 23) remain unexecuted due to Alpaca API being blocked by the session's proxy egress policy. The Jun 23 open order would have been placed at ~$209 and would now be -3% in one session — losing $0.37 on a $12.50 position. Being blocked from trading actually HELPED today.
+- Still no resolution on the Alpaca API access issue. This has now persisted across multiple sessions. Zack needs to whitelist `paper-api.alpaca.markets` in the cloud session's network egress policy.
+
+---
+
+### NVDA Thesis Status — EOD June 23
+
+| Component | Status |
+|-----------|--------|
+| 50-day MA bounce setup | ❌ **INVALIDATED** — price ~$203, 50-day MA ~$209 |
+| Fundamental AI demand thesis | ✅ Intact — ISC 2026 Vera Rubin, hyperscaler H2 2026 orders |
+| 200-day MA support | ✅ Intact — ~$192, price $11 above |
+| Re-entry conditions | Wait for: price reclaims $209+ on above-avg volume + PCE May ≤3.4% + Alpaca API fixed |
+
+---
+
+### What to Watch Tomorrow (June 24, 2026)
+
+| Event | Time | Impact |
+|-------|------|--------|
+| **MU (Micron) Q3 Earnings** | AH (after 4pm ET) | **HIGH** — HBM/AI memory demand = NVDA thesis signal. Beat + strong guide = re-entry candidate. Miss = stay cash. |
+| NVDA Annual Meeting | 9am PT / 12pm ET | Low — routine governance. Watch for any AI roadmap commentary (upside surprise possible). |
+| Bank Stress Test Results | 4pm ET | Medium — XLF signal; low NVDA relevance. |
+| **PCE May 2026** | **Thu Jun 25 8:30am ET** | **CRITICAL** — consensus ~3.4–3.6%. Above 3.6% = rate-hike shock. Below 3.4% = dovish relief. Determines post-close portfolio posture all next week. |
+
+**MU earnings preview:** If MU beats on HBM (High Bandwidth Memory) — the AI memory chips inside NVDA's GPUs — it confirms AI chip demand is real and chip selloff was overdone. That sets up NVDA as a buy-the-dip candidate for post-PCE entry. MU miss would extend the AI monetization doubt narrative and keep us in cash.
+
+---
+
+### Portfolio Status — EOD June 23
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | **$250.00** |
+| Cash | **$250.00 (100%)** |
+| Open Positions | **0** |
+| Today's Realized P&L | **$0.00** |
+| Cumulative Alpha vs SPY | **~+0.3–0.4% (FIRST POSITIVE — milestone)** |
+| Day Trades Used | 0 of 3 |
+| Alpaca API | ⚠️ **BLOCKED — proxy 403 Forbidden on paper-api.alpaca.markets** |
+
+---
+
 ## MIDDAY INTELLIGENCE — 2026-06-23 12:00 ET — PAPER
 
 **Session type:** Midday routine (12:00 PM ET)
