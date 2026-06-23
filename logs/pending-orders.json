@@ -5,16 +5,18 @@
       "id": "NVDA-2026-06-23",
       "symbol": "NVDA",
       "side": "buy",
-      "notional": 12.50,
-      "approx_shares": 0.060,
-      "entry_price": 209.00,
+      "notional": 12.5,
+      "approx_shares": 0.06,
+      "entry_price": 209.0,
       "stop_loss_price": 194.37,
       "stop_loss_pct": 0.07,
       "target_price": 240.35,
       "target_pct": 0.15,
-      "status": "PENDING",
+      "status": "FAILED",
       "signal_date": "2026-06-23",
-      "reasoning": "VIX 17.28 OFFENSE. ISC 2026 confirmed: Vera Rubin in full production at AWS/Google/MSFT/OCI H2 2026. NVDA near original $208.53 entry after API-401 failure Jun 18. ES +0.98% pre-mkt. PCE-week conservative sizing $12.50. Alpaca API blocked — relay execute."
+      "reasoning": "VIX 17.28 OFFENSE. ISC 2026 confirmed: Vera Rubin in full production at AWS/Google/MSFT/OCI H2 2026. NVDA near original $208.53 entry after API-401 failure Jun 18. ES +0.98% pre-mkt. PCE-week conservative sizing $12.50. Alpaca API blocked \u2014 relay execute.",
+      "result": "Alpaca 401: {\"message\": \"unauthorized.\"}\n",
+      "executed_date": "2026-06-23"
     },
     {
       "id": "NVDA-2026-06-18",
@@ -29,7 +31,7 @@
       "target_pct": 0.15,
       "status": "FAILED",
       "signal_date": "2026-06-18",
-      "reasoning": "VIX 17.38 OFFENSE. ACN beat + soft bookings = NVDA-only signal. NVDA above 50-day MA. All 5 entry conditions met. Alpaca API blocked in cloud env — relay execute.",
+      "reasoning": "VIX 17.38 OFFENSE. ACN beat + soft bookings = NVDA-only signal. NVDA above 50-day MA. All 5 entry conditions met. Alpaca API blocked in cloud env \u2014 relay execute.",
       "result": "Alpaca 401: {\"message\": \"unauthorized.\"}\n",
       "executed_date": "2026-06-22"
     }
