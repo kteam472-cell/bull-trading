@@ -6,6 +6,40 @@
 
 ---
 
+## MARKET-OPEN — 2026-06-23 (9:30 AM ET)
+
+🐂 BULL — MARKET OPEN Jun 23 | TRADE SIGNAL QUEUED
+
+📋 NVDA-2026-06-23 written to pending-orders.json
+Action: BUY NVDA
+Notional: $12.50 (PCE-week conservative)
+Entry: ~$209 (market open)
+Stop: $194.37 (-7%)
+Target: $240.35 (+15%)
+Shares: ~0.060
+Cash after fill: $237.50 (>$50 floor ✅)
+
+✅ WHY NOW:
+VIX 17.28 (OFFENSE) | ES +0.98% pre-mkt
+ISC 2026: Vera Rubin in FULL PRODUCTION at AWS/Google/MSFT/OCI H2 2026
+35 supercomputers | Los Alamos Lab win = thesis STRENGTHENED
+NVDA back at ~$208–211 = original $208.53 entry zone
+Jun 18 order was API-401 technical failure, not setup failure
+
+⚠️ BINARY RISKS (managed via $12.50 sizing):
+• MU earnings TOMORROW Jun 24 AH
+• PCE May + Q1 GDP Final = THURSDAY Jun 25 (CRITICAL double binary)
+
+🔑 ACTION NEEDED FROM YOU:
+If relay gets another 401 → execute NVDA buy manually:
+$12.50 at market | Stop $194.37 (-7%) | Fix Alpaca API keys
+
+Cumulative alpha: ~-1.32% | Day trades: 0/3
+All files committed and pushed to GitHub.
+— Bull 🐂
+
+---
+
 ## WEEKLY REVIEW — 2026-06-19 (Friday 4pm Routine)
 
 📊 BULL WEEKLY REVIEW — Week 2 (Jun 15-19, 2026)
