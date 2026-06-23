@@ -45,6 +45,113 @@
 
 ---
 
+## MIDDAY INTELLIGENCE — 2026-06-23 12:00 ET — PAPER
+
+**Session type:** Midday routine (12:00 PM ET)
+**Mode:** PRACTICE
+**Day trades used (rolling 5-day, Jun 19–23):** 0 of 3 — NO PDT WARNING
+
+---
+
+### Market Regime — Midday June 23
+
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | **17.28** (range 16.49–17.92; confirmed actual) | ✅ **OFFENSE** — below 20, but elevated vs prior sessions |
+| S&P 500 / SPY | **$744.39** (prev close $746.74; -0.31% on day; range $743.13–$750.18) | ⚠️ Weak; broad tech drag |
+| Nasdaq | **~-2%** on day | ⚠️ Worst session since April 2025 |
+| SMH (Semiconductor ETF) | **-6.5%** to $625.62 | ⚠️ SECTOR ROUT |
+| NVDA | **$201.97–$203.27** (-3.2% from $208.65 close) | ⚠️ BELOW 50-day MA |
+| MU | **$1,074.60** (-11.4%) | ⚠️ Pre-earnings anxiety |
+| TSM | **-5.2%** | ⚠️ Sector-wide |
+| KOSPI (South Korea) | **-9.99%** (steepest drop in 3+ months) | ⚠️ Overseas chip dump |
+| Crypto F&G | ~20 borderline | ❌ No crypto entry |
+
+**Market narrative:** AI/chip sector selloff extending into second day. South Korean KOSPI -9.99% led by Samsung (-12%+) and SK Hynix as overseas investors exited chip positions on regulatory overheating signals. AI monetization doubts spreading — investors questioning whether record AI capex (GOOGL $180–190B, MSFT $100B+, AWS/Oracle aggressive) is generating commensurate AI revenue. Combined with Fed rate hike expectations rising (50bps December 2026 now fully priced post-Warsh hawkish FOMC), semiconductor valuations are being reset.
+
+---
+
+### Open Positions Check — Midday June 23
+
+| Position | Orders | Status | Current Price | Distance to Stop |
+|----------|--------|--------|---------------|-----------------|
+| NVDA | 2 failed (Jun 18 + Jun 23; both 401) | **NO POSITION — 100% CASH** | $201.97–$203.27 | N/A |
+
+**No actual position exists.** Portfolio is $250.00 cash. Both NVDA buy orders failed with Alpaca 401 unauthorized errors due to network egress restrictions in the cloud environment.
+
+---
+
+### NVDA Thesis Integrity Check — Midday June 23
+
+| Factor | Status | Detail |
+|--------|--------|--------|
+| 50-day MA ($209.12 per TipRanks) | **❌ INVALIDATED** | NVDA at $203 = ~$6 BELOW 50-day MA; 50-day bounce setup broken |
+| 200-day MA (~$192) | **✅ INTACT** | NVDA still ~$11 above 200-day MA; long-term uptrend intact |
+| ISC 2026 Vera Rubin fundamental thesis | **✅ INTACT** | Hyperscaler orders confirmed; AWS/Google/MSFT/OCI H2 2026 production |
+| AI capex demand | **⚠️ UNDER SCRUTINY** | Investor doubts about AI ROI timing; capex on record ($180–190B GOOGL alone) but cash generation declining short-term |
+| Amazon Trainium competitive risk | **⚠️ MONITORING** | Talks to sell Trainium to 3rd parties — no signed deals; NVDA still dominant |
+| Rate hike risk | **⚠️ ELEVATED** | 50bps Dec 2026 hike priced; hawkish Warsh FOMC; PCE May reading (~3.8% prior) due Thu |
+| Sector sentiment | **❌ NEGATIVE** | SMH -6.5%, KOSPI -9.99%; sector-wide rotation out of chips |
+| Bernstein rating | **✅** | Maintained Buy rating through selloff |
+
+**Thesis verdict:** The NVDA FUNDAMENTAL thesis remains intact (ISC 2026, Vera Rubin, hyperscaler AI capex). HOWEVER: the TECHNICAL setup (50-day MA bounce) is invalidated — price is now BELOW the 50-day MA. Entry must wait for: (1) Price to reclaim $209+ (50-day MA) on above-average volume; (2) PCE data to NOT add rate shock; (3) MU earnings to confirm AI memory demand is real.
+
+---
+
+### Daily P&L Check — Midday June 23
+
+| Metric | Value | Limit | Status |
+|--------|-------|-------|--------|
+| Unrealized P&L | $0.00 (no position) | — | N/A |
+| Realized P&L | $0.00 | — | N/A |
+| Daily P&L | $0.00 | -$12.50 | **✅ NOT triggered** |
+
+---
+
+### New Opportunity Scan — Midday June 23
+
+**Sector selloff creates potential future entries — assess AFTER MU earnings + PCE:**
+
+| Ticker | Price | Setup Candidate? | Decision |
+|--------|-------|-----------------|----------|
+| NVDA | $201.97–$203.27 | 50-day MA broken; 200-day MA at ~$192 intact | **NO ENTRY** — wait for reclaim of 50-day MA (~$209) post-PCE |
+| MU | $1,074.60 (-11.4%) | Reports AH tonight — if beats, potential setup | **WATCHLIST** — evaluate post-earnings Thu morning |
+| AVGO | — | PCE week binary risk | **DEFER** — post-PCE Jun 26 |
+| SMH put/hedge | — | Not in playbook (no options) | N/A |
+| BTC/Crypto | — | F&G ~20 borderline | ❌ No entry |
+
+**No new entries.** Two binary events in next 48 hours (MU AH tonight, PCE Thursday) block all new positions per strategy rules.
+
+---
+
+### Portfolio Status — Midday June 23 (ACTUAL DATA)
+
+| Field | Value |
+|-------|-------|
+| Total Portfolio Value | **$250.00** |
+| Cash | **$250.00 (100%)** |
+| Open Positions | **0 — none confirmed** |
+| Daily P&L | **$0.00** |
+| Cumulative Alpha | **~-1.0%** (SPY $744.39 vs $737 inception = +1.0%; portfolio flat 0.0%) |
+| Day Trades Used | 0 of 3 |
+| VIX | 17.28 (OFFENSE ✅) |
+| Alpaca API | ⚠️ **BLOCKED (401) — no trading possible until Zack resolves credentials** |
+| Telegram | **NOT SENT** (no trigger: no position closed, no stop hit, no daily loss cap) |
+
+---
+
+### Economic Calendar — Critical Upcoming Events
+
+| Date | Event | Prior | Consensus | Impact |
+|------|-------|-------|-----------|--------|
+| **Tonight (Jun 24 AH)** | **MU Earnings** | — | $34.66B rev, $19.95 EPS | **HIGH** — HBM/AI memory test; NVDA thesis signal |
+| **Jun 24 Wed** | NVDA Annual Meeting (9am PT) | — | Routine | Watch for AI roadmap commentary |
+| **Jun 24 Wed** | Bank Stress Tests (4PM ET) | — | — | Financials signal |
+| **Jun 25 Thu** | **PCE May 2026** | 3.80% (Apr) | ~3.4–3.6% | **CRITICAL** — determines portfolio posture and re-entry timing |
+| Jun 25 Thu | Q1 GDP Final | ~2.7% | ~2.7% | Backward-looking; medium impact |
+
+---
+
 ## MARKET-OPEN INTELLIGENCE — 2026-06-23 09:30 ET — PAPER
 
 **Session type:** Market-open routine (8:30–9:30 AM ET)
