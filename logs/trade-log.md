@@ -4,7 +4,9 @@
 
 | Date | Ticker | Side | Qty | Entry | Exit | P&L | Reasoning | Result |
 |------|--------|------|-----|-------|------|-----|-----------|--------|
-| — | — | — | — | — | — | — | — | — |
+| 2026-06-24 | MU | BUY | $12.50 notional (~0.0104 sh @ ~$1201) | mkt-on-open | — | — | Q3 blowout: $25.11 EPS vs $20.20 est (+24%), record $41.5B rev, raised Q4 guide ~$50B, dividend declared, AI/HBM hyperscaler demand. Entry signal #1 (beat + guidance raise). 5% starter, sized for $250 book. Earnings already out (no window risk), AI-demand-driven = insulated from 6/25 hot PCE. | PENDING (queued for 6/25 open; order 27f700af) |
+
+**2026-06-24 (manual session — EA, after-hours):** Bull's dead Alpaca paper keys were the cause of 2 weeks of zero fills (all NVDA orders 401'd). Keys regenerated + verified ACTIVE (acct PA3V6TM26A1W) and updated in ALL 5 cloud routine prompts. First working order placed = MU $12.50 starter above. NOTE: an initial MU order was mis-sized (2 shares / $2,400) against stale local $100K-paper docs, then cancelled and re-placed at the correct $250-book size. ⚠️ Cloud logs also showed a 403 "proxy egress" block on paper-api.alpaca.markets — if that recurs in-cloud, the routine still can't reach Alpaca even with good keys; watch tomorrow's pre-market run.
 
 ---
 

@@ -21,6 +21,12 @@
 
 *Last updated: 2026-06-23 15:00 ET — market-close routine (estimated data; Alpaca API blocked by proxy egress policy). **PORTFOLIO = 100% CASH. SPY closed ~$734-735 (S&P -1.3%) on broad AI/chip selloff — SPY is now BELOW $737 inception price for first time. Portfolio flat at $250 → FIRST POSITIVE CUMULATIVE ALPHA. NVDA 50-day MA bounce setup INVALIDATED (price ~$203, MA ~$209). Hold cash through MU earnings (AH Jun 24) + PCE May (Jun 25). ⚠️ Alpaca API blocked by session proxy egress policy (403 Forbidden on paper-api.alpaca.markets). This is a network policy restriction, NOT a credential error. Zack must whitelist Alpaca in the cloud session's egress policy to resume trading.***
 
+### ⚙️ 2026-06-24 ~23:00 ET — MANUAL EA SESSION UPDATE (keys fixed + first order)
+- **ROOT CAUSE of the 401 errors = dead paper API keys.** Regenerated + verified ACTIVE (acct PA3V6TM26A1W) and updated in ALL 5 cloud routine prompts. Keys also in CLAUDE.local.md. Bull can finally place orders.
+- **First order placed (working keys): BUY $12.50 MU notional, market-on-open, queued for 6/25 (order 27f700af).** MU Q3 blowout = entry signal #1; AI/HBM demand → PCE-insulated. 5% starter for the $250 book. On fill: set −7% stop + 10% trailing; consider adding toward 10% only after the 8:30 PCE print is clean.
+- ⚠️ The earlier "403 proxy egress" block was from the CLOUD environment, separate from the (now-fixed) credential issue. If pre-market 6/25 still can't reach paper-api.alpaca.markets in-cloud, the egress block is the remaining blocker — flag to Zack.
+- Note: keep SPY inception benchmark at ~$737 (Jun 10) — do not reset.
+
 ---
 
 ## Open Positions
