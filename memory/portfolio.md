@@ -31,11 +31,11 @@
 
 ## Open Positions
 
-*Currently: **NO OPEN POSITIONS — 100% CASH.** Both NVDA buy orders (Jun 18 + Jun 23) failed with Alpaca 401 unauthorized error. Alpaca API credentials not valid in this cloud environment. Zack must fix API keys to resume trading.*
+**MU FILLED 2026-06-25 open** — Bull's first live position. Soft-stop −7% = **$1147.25** (fractional shares can't hold a resting stop order, so it's MONITORED, not resting). ⚠️ The 6/25 cloud routines fired but pushed NO commit (egress-block failure) → stop enforcement has moved to the EA local tab (always-on), which CAN reach Alpaca. Local tab cuts MU if price < $1147.25; trails 10% once +10%.
 
-| Ticker | Sector | Entry Date | Entry Price | $ Invested | Shares | Current Price | Market Value | Unrealized P&L | P&L % | Stop Price | Setup Type |
-|--------|--------|-----------|-------------|-----------|--------|---------------|--------------|----------------|-------|-----------|------------|
-| — | — | — | — | — | — | — | — | — | — | — | — |
+| Ticker | Sector | Entry Date | Entry Price | $ Invested | Shares | Stop (soft) | Setup Type |
+|--------|--------|-----------|-------------|-----------|--------|-------------|------------|
+| MU | Tech/Semis | 2026-06-25 | $1233.60 | $12.49 | 0.010125 | $1147.25 (−7%, monitored by EA local tab) | Earnings beat + guidance raise |
 
 ---
 
