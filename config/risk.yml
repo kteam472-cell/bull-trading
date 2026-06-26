@@ -1,0 +1,7 @@
+max_position_pct: 0.10
+stop_pct: 0.07
+vix_full: 20
+vix_half: 30
+max_new_per_week: 3
+daily_loss_cap_pct: 0.03
+cash_floor_pct: 0.20
