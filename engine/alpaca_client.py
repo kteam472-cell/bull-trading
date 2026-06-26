@@ -29,8 +29,10 @@ class RealAlpacaClient:
         r.raise_for_status(); return r.json()
 
     def cancel_all_orders(self):
-        requests.delete(self.base + "/orders", headers=self.h, timeout=15)
+        r = requests.delete(self.base + "/orders", headers=self.h, timeout=15)
+        r.raise_for_status()
 
     def close_all_positions(self):
-        requests.delete(self.base + "/positions", headers=self.h,
-                        params={"cancel_orders": "true"}, timeout=15)
+        r = requests.delete(self.base + "/positions", headers=self.h,
+                            params={"cancel_orders": "true"}, timeout=15)
+        r.raise_for_status()

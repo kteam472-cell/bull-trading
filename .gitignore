@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 data/live_trades/
+data/state.json
+logs/
 .venv/
