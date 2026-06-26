@@ -3,6 +3,7 @@ def _entry_signal_ok(card):
     if card["last"] is None or card["sma50"] is None: return False
     if card["sma200"] is not None and card["last"] < card["sma200"]: return False
     if card["last"] < card["sma50"]: return False
+    if card["rsi14"] is not None and card["rsi14"] > 70: return False
     return True
 
 def decide(card, portfolio, vix, risk, blackout):

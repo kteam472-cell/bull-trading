@@ -53,3 +53,8 @@ def test_too_expensive_for_whole_share_no_go():
     # price so high that <1 whole share fits the 10% cap
     d = rules.decide(card(last=20000), PORT, vix=15, risk=RISK, blackout=False)
     assert d["go"] is False and "whole share" in " ".join(d["reasons"]).lower()
+
+def test_overbought_no_go():
+    # RSI > 70 is overbought — entry signal should be blocked
+    d = rules.decide(card(rsi14=85), PORT, vix=15, risk=RISK, blackout=False)
+    assert d["go"] is False

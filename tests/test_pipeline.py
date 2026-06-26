@@ -6,8 +6,27 @@ RISK = {"max_position_pct": 0.10, "stop_pct": 0.07, "vix_full": 20, "vix_half": 
         "max_new_per_week": 3, "daily_loss_cap_pct": 0.03, "cash_floor_pct": 0.20}
 
 def _bars(trend_up=True):
-    return [{"c": (100 + i if trend_up else 200 - i), "h": 101 + i, "l": 98 + i, "v": 1000}
-            for i in range(210)]
+    """Generate 210 realistic bars.
+
+    Uptrend: price rises with periodic pullbacks (2 up, 1 back).
+    Produces final close above SMA50 and SMA200, RSI(14) well below 70.
+    Downtrend: gentle continuous decline — last close falls below SMA50.
+    """
+    closes = []
+    if trend_up:
+        price = 50.0
+        for i in range(210):
+            if i % 3 == 2:
+                price *= 0.98   # pullback day keeps RSI realistic
+            else:
+                price *= 1.015  # two up days
+            closes.append(price)
+    else:
+        price = 200.0
+        for i in range(210):
+            price *= 0.998  # gentle downtrend
+            closes.append(price)
+    return [{"c": c, "h": c * 1.01, "l": c * 0.99, "v": 1000} for c in closes]
 
 def test_pipeline_places_on_uptrend_and_logs(tmp_path):
     c = FakeAlpacaClient(cash=100000, equity=100000, bars={"AAPL": _bars(True)})
